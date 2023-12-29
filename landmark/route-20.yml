@@ -1,0 +1,10 @@
+id: 36
+locations:
+    - route-20
+name: route-20
+items:
+  - {}
+positions:
+    - x: 1
+      y: 7
+      width: 2

@@ -1,0 +1,10 @@
+id: 32
+locations:
+    - route-16
+name: route-16
+items:
+  - {}
+positions:
+    - x: 3
+      y: 13
+      width: 2

@@ -1,0 +1,10 @@
+id: 23
+locations:
+    - route-11
+name: route-11
+items:
+  - {}
+positions:
+    - x: 6
+      y: 1
+      width: 4
