@@ -1,0 +1,65 @@
+name: kangaskhan
+pokedex: 115
+baseexp: 175
+evolutions: []
+gender: f100
+items: []
+learnset:
+    - level: 1
+      move: pound
+    - level: 49
+      move: body-slam
+    - level: 60
+      move: earthquake
+    - level: 70
+      move: submission
+    - level: 86
+      move: double-edge
+stats:
+    atk: 95
+    def: 80
+    hp: 105
+    spa: 40
+    spd: 80
+    spe: 90
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - earthquake
+    - return
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - thunderpunch
+    - rest
+    - attract
+    - fire-punch
+    - fury-cutter
+    - surf
+    - strength
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

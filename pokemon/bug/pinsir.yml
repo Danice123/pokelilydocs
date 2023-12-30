@@ -1,0 +1,51 @@
+name: pinsir
+pokedex: 127
+baseexp: 200
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: vicegrip
+    - level: 13
+      move: fury-cutter
+    - level: 24
+      move: body-slam
+    - level: 33
+      move: submission
+    - level: 39
+      move: rock-slide
+    - level: 50
+      move: megahorn
+    - level: 56
+      move: earthquake
+stats:
+    atk: 125
+    def: 100
+    hp: 65
+    spa: 55
+    spd: 70
+    spe: 85
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - rest
+    - attract
+    - thief
+    - fury-cutter
+    - cut
+    - strength
+types:
+    - bug

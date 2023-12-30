@@ -1,0 +1,58 @@
+name: muk
+pokedex: 89
+baseexp: 157
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: nugget
+learnset:
+    - level: 1
+      move: sludge-bomb
+    - level: 39
+      move: giga-drain
+    - level: 44
+      move: flamethrower
+    - level: 48
+      move: sludge-bomb
+    - level: 53
+      move: shadow-ball
+    - level: 99
+      move: explosion
+stats:
+    atk: 105
+    def: 75
+    hp: 105
+    spa: 65
+    spd: 100
+    spe: 50
+tmhm:
+    - dynamicpunch
+    - curse
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - thunder
+    - return
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - fire-blast
+    - thunderpunch
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - flamethrower
+    - thunderbolt
+types:
+    - poison

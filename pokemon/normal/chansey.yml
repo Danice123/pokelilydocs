@@ -1,0 +1,67 @@
+name: chansey
+pokedex: 113
+baseexp: 255
+evolutions:
+    - target: blissey
+      level: 90
+      method: level
+      item: ""
+gender: f100
+items:
+    - chance: 0.02
+      item: lucky-egg
+learnset:
+    - level: 1
+      move: egg-bomb
+    - level: 14
+      move: thunder-wave
+    - level: 40
+      move: charm
+    - level: 100
+      move: heal-bell
+stats:
+    atk: 5
+    def: 35
+    hp: 250
+    spa: 35
+    spd: 105
+    spe: 50
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - thunder
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sandstorm
+    - fire-blast
+    - defense-curl
+    - dream-eater
+    - attract
+    - strength
+    - flash
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

@@ -1,0 +1,56 @@
+name: ivysaur
+pokedex: 2
+baseexp: 141
+evolutions:
+    - target: venusaur
+      level: 32
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: razor-leaf
+    - level: 1
+      move: headbutt
+    - level: 22
+      move: sludge
+    - level: 25
+      move: body-slam
+    - level: 33
+      move: sludge-bomb
+    - level: 37
+      move: synthesis
+stats:
+    atk: 62
+    def: 63
+    hp: 60
+    spa: 80
+    spd: 80
+    spe: 60
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - rest
+    - attract
+    - fury-cutter
+    - cut
+    - flash
+types:
+    - grass
+    - poison

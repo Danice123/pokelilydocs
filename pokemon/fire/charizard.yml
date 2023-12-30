@@ -1,0 +1,66 @@
+name: charizard
+pokedex: 6
+baseexp: 209
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: flamethrower
+    - level: 38
+      move: wing-attack
+    - level: 42
+      move: steel-wing
+    - level: 46
+      move: flamethrower
+    - level: 60
+      move: fire-blast
+    - level: 69
+      move: earthquake
+    - level: 77
+      move: flamethrower
+stats:
+    atk: 84
+    def: 78
+    hp: 78
+    spa: 109
+    spd: 85
+    spe: 100
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - swift
+    - defense-curl
+    - rest
+    - attract
+    - steel-wing
+    - fire-punch
+    - fury-cutter
+    - cut
+    - fly
+    - strength
+    - flamethrower
+types:
+    - fire
+    - flying

@@ -1,0 +1,66 @@
+name: exeggcute
+pokedex: 102
+baseexp: 98
+evolutions:
+    - target: exeggutor
+      level: 0
+      method: item
+      item: leaf-stone
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: confusion
+    - level: 13
+      move: mega-drain
+    - level: 17
+      move: stun-spore
+    - level: 24
+      move: psybeam
+    - level: 30
+      move: egg-bomb
+    - level: 36
+      move: razor-leaf
+    - level: 46
+      move: sleep-powder
+    - level: 57
+      move: psychic
+    - level: 67
+      move: giga-drain
+    - level: 99
+      move: ancientpower
+stats:
+    atk: 40
+    def: 80
+    hp: 60
+    spa: 60
+    spd: 45
+    spe: 40
+tmhm:
+    - curse
+    - rollout
+    - toxic
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - strength
+    - flash
+types:
+    - grass
+    - psychic

@@ -1,0 +1,63 @@
+name: quilava
+pokedex: 156
+baseexp: 142
+evolutions:
+    - target: typhlosion
+      level: 36
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 14
+      move: flame-wheel
+    - level: 17
+      move: quick-attack
+    - level: 21
+      move: smokescreen
+    - level: 24
+      move: fire-punch
+    - level: 31
+      move: flamethrower
+    - level: 36
+      move: iron-tail
+stats:
+    atk: 64
+    def: 58
+    hp: 58
+    spa: 80
+    spd: 65
+    spe: 80
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - fury-cutter
+    - cut
+    - strength
+    - flamethrower
+types:
+    - fire

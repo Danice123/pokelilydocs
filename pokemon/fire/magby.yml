@@ -1,0 +1,63 @@
+name: magby
+pokedex: 240
+baseexp: 117
+evolutions:
+    - target: magmar
+      level: 30
+      method: level
+      item: ""
+gender: f25
+items:
+    - chance: 0.25
+      item: burnt-berry
+learnset:
+    - level: 1
+      move: ember
+    - level: 7
+      move: mach-punch
+    - level: 13
+      move: dizzy-punch
+    - level: 16
+      move: confuse-ray
+    - level: 19
+      move: fire-punch
+    - level: 26
+      move: confuse-ray
+    - level: 36
+      move: flamethrower
+    - level: 42
+      move: cross-chop
+stats:
+    atk: 75
+    def: 37
+    hp: 45
+    spa: 70
+    spd: 55
+    spe: 83
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - psychic
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - flamethrower
+types:
+    - fire

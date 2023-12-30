@@ -1,0 +1,58 @@
+name: scizor
+pokedex: 212
+baseexp: 200
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: slash
+    - level: 40
+      move: light-screen
+    - level: 50
+      move: double-edge
+    - level: 60
+      move: submission
+    - level: 70
+      move: steel-wing
+    - level: 75
+      move: fury-cutter
+    - level: 85
+      move: submission
+    - level: 90
+      move: metal-claw
+stats:
+    atk: 130
+    def: 100
+    hp: 70
+    spa: 55
+    spd: 80
+    spe: 65
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - fury-cutter
+    - cut
+    - strength
+types:
+    - bug
+    - steel

@@ -1,0 +1,63 @@
+name: natu
+pokedex: 177
+baseexp: 73
+evolutions:
+    - target: xatu
+      level: 25
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: confusion
+    - level: 4
+      move: confuse-ray
+    - level: 7
+      move: peck
+    - level: 13
+      move: night-shade
+    - level: 16
+      move: wing-attack
+    - level: 30
+      move: psychic
+    - level: 34
+      move: giga-drain
+    - level: 37
+      move: psychic
+    - level: 45
+      move: sky-attack
+stats:
+    atk: 50
+    def: 45
+    hp: 40
+    spa: 70
+    spd: 45
+    spe: 70
+tmhm:
+    - curse
+    - toxic
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - flash
+types:
+    - psychic
+    - flying

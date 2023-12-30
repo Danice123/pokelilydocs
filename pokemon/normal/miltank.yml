@@ -1,0 +1,71 @@
+name: miltank
+pokedex: 241
+baseexp: 200
+evolutions: []
+gender: f100
+items:
+    - chance: 0.25
+      item: moomoo-milk
+learnset:
+    - level: 1
+      move: confuse-ray
+    - level: 7
+      move: attract
+    - level: 15
+      move: headbutt
+    - level: 45
+      move: body-slam
+    - level: 55
+      move: earthquake
+    - level: 70
+      move: milk-drink
+    - level: 77
+      move: heal-bell
+stats:
+    atk: 80
+    def: 105
+    hp: 95
+    spa: 40
+    spd: 70
+    spe: 100
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - earthquake
+    - return
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - defense-curl
+    - thunderpunch
+    - rest
+    - attract
+    - fire-punch
+    - surf
+    - strength
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

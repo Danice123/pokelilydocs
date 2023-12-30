@@ -1,0 +1,68 @@
+name: mr-mime
+pokedex: 122
+baseexp: 136
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: mysteryberry
+learnset:
+    - level: 1
+      move: confusion
+    - level: 6
+      move: hypnosis
+    - level: 16
+      move: seismic-toss
+    - level: 24
+      move: psybeam
+    - level: 35
+      move: thunderbolt
+    - level: 45
+      move: psychic
+    - level: 49
+      move: barrier
+    - level: 54
+      move: reflect
+    - level: 60
+      move: encore
+stats:
+    atk: 45
+    def: 65
+    hp: 40
+    spa: 100
+    spd: 120
+    spe: 90
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - solarbeam
+    - thunder
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - thunderpunch
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - nightmare
+    - flash
+    - thunderbolt
+types:
+    - psychic

@@ -1,0 +1,58 @@
+name: machop
+pokedex: 66
+baseexp: 88
+evolutions:
+    - target: machoke
+      level: 28
+      method: level
+      item: ""
+gender: f25
+items: []
+learnset:
+    - level: 1
+      move: karate-chop
+    - level: 8
+      move: dizzy-punch
+    - level: 13
+      move: seismic-toss
+    - level: 16
+      move: rock-throw
+    - level: 23
+      move: vital-throw
+stats:
+    atk: 80
+    def: 50
+    hp: 70
+    spa: 35
+    spd: 35
+    spe: 35
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+    - flamethrower
+types:
+    - fighting

@@ -1,0 +1,65 @@
+name: blissey
+pokedex: 242
+baseexp: 255
+evolutions: []
+gender: f100
+items:
+    - chance: 0.02
+      item: lucky-egg
+learnset:
+    - level: 1
+      move: thunder-wave
+    - level: 4
+      move: reflect
+    - level: 7
+      move: psywave
+    - level: 9
+      move: safeguard
+    - level: 13
+      move: light-screen
+stats:
+    atk: 5
+    def: 40
+    hp: 255
+    spa: 40
+    spd: 135
+    spe: 55
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - thunder
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - defense-curl
+    - dream-eater
+    - rest
+    - attract
+    - strength
+    - flash
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

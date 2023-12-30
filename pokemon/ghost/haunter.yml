@@ -1,0 +1,62 @@
+name: haunter
+pokedex: 93
+baseexp: 126
+evolutions:
+    - target: gengar
+      level: 55
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: night-shade
+    - level: 33
+      move: faint-attack
+    - level: 46
+      move: shadow-ball
+    - level: 68
+      move: psychic
+stats:
+    atk: 50
+    def: 45
+    hp: 45
+    spa: 115
+    spd: 55
+    spe: 95
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - giga-drain
+    - endure
+    - frustration
+    - thunder
+    - return
+    - psychic
+    - shadow-ball
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - thunderpunch
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - nightmare
+    - strength
+    - thunderbolt
+types:
+    - ghost
+    - poison

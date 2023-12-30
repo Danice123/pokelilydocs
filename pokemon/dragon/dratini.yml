@@ -1,0 +1,53 @@
+name: dratini
+pokedex: 147
+baseexp: 67
+evolutions:
+    - target: dragonair
+      level: 30
+      method: level
+      item: ""
+gender: f50
+items:
+    - chance: 0.02
+      item: dragon-scale
+learnset:
+    - level: 1
+      move: dragon-rage
+stats:
+    atk: 64
+    def: 45
+    hp: 41
+    spa: 50
+    spd: 50
+    spe: 50
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - detect
+    - rest
+    - attract
+    - surf
+    - waterfall
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - dragon

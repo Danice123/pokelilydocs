@@ -1,0 +1,26 @@
+name: kakuna
+pokedex: 14
+baseexp: 71
+evolutions:
+    - target: beedrill
+      level: 10
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: poison-sting
+    - level: 7
+      move: harden
+stats:
+    atk: 25
+    def: 50
+    hp: 45
+    spa: 25
+    spd: 25
+    spe: 35
+tmhm: []
+types:
+    - bug
+    - poison

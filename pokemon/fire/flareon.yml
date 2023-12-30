@@ -1,0 +1,64 @@
+name: flareon
+pokedex: 136
+baseexp: 198
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 15
+      move: ember
+    - level: 23
+      move: double-kick
+    - level: 28
+      move: flamethrower
+    - level: 33
+      move: curse
+    - level: 37
+      move: shadow-ball
+    - level: 46
+      move: double-edge
+    - level: 53
+      move: iron-tail
+    - level: 59
+      move: sacred-fire
+    - level: 76
+      move: extremespeed
+    - level: 84
+      move: baton-pass
+stats:
+    atk: 130
+    def: 60
+    hp: 65
+    spa: 95
+    spd: 110
+    spe: 65
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - detect
+    - rest
+    - attract
+    - flamethrower
+types:
+    - fire

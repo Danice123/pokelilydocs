@@ -1,0 +1,26 @@
+name: weedle
+pokedex: 13
+baseexp: 52
+evolutions:
+    - target: kakuna
+      level: 7
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: poison-sting
+    - level: 7
+      move: string-shot
+stats:
+    atk: 35
+    def: 30
+    hp: 40
+    spa: 20
+    spd: 20
+    spe: 50
+tmhm: []
+types:
+    - bug
+    - poison

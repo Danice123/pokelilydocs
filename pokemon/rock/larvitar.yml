@@ -1,0 +1,51 @@
+name: larvitar
+pokedex: 246
+baseexp: 67
+evolutions:
+    - target: pupitar
+      level: 30
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bite
+    - level: 7
+      move: rock-throw
+    - level: 15
+      move: magnitude
+    - level: 24
+      move: thrash
+stats:
+    atk: 64
+    def: 50
+    hp: 50
+    spa: 45
+    spd: 50
+    spe: 41
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - detect
+    - rest
+    - attract
+types:
+    - rock
+    - ground

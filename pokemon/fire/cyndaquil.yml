@@ -1,0 +1,61 @@
+name: cyndaquil
+pokedex: 155
+baseexp: 65
+evolutions:
+    - target: quilava
+      level: 14
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 8
+      move: ember
+    - level: 12
+      move: headbutt
+    - level: 14
+      move: flame-wheel
+    - level: 19
+      move: smokescreen
+    - level: 24
+      move: fury-swipes
+    - level: 33
+      move: iron-tail
+    - level: 54
+      move: flamethrower
+stats:
+    atk: 52
+    def: 43
+    hp: 39
+    spa: 60
+    spd: 50
+    spe: 65
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - cut
+    - flamethrower
+types:
+    - fire

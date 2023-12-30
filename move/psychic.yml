@@ -1,0 +1,180 @@
+moves:
+    - name: confusion
+      index: 93
+      power: 50
+      pp: 25
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to confuse opponent
+      order: 27
+    - name: barrier
+      index: 112
+      power: 0
+      pp: 3
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - Sharply raises defense
+      order: 36
+    - name: kinesis
+      index: 134
+      power: 0
+      pp: 3
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Lowers opponent's accuracy
+          Encouraged if Player HP is full and enemy HP is above 50%, futher encouraged if player is badly poisoned
+      order: 42
+    - name: teleport
+      index: 100
+      power: 0
+      pp: 1
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - Flees wild encounters
+      order: 48
+    - name: agility
+      index: 97
+      power: 0
+      pp: 2
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - Sharply raises speed
+      order: 51
+    - name: dream-eater
+      index: 138
+      power: 100
+      pp: 15
+      type: psychic
+      accuracy: 100
+      effects:
+        drain: 0.5
+      extra:
+        - Can only hit sleeping targets, user heals 50% damage dealt
+      order: 58
+    - name: rest
+      index: 156
+      power: 0
+      pp: 5
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - Restores 100% HP and cures status, goes to sleep for 2 turns
+      order: 68
+    - name: meditate
+      index: 96
+      power: 0
+      pp: 2
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - Raises attack
+      order: 83
+    - name: reflect
+      index: 115
+      power: 0
+      pp: 3
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Double's the team's defense for 5 turns
+          Over 50% chance to discourage this move unless enemy's HP is full
+      order: 94
+    - name: psybeam
+      index: 60
+      power: 65
+      pp: 20
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to confuse opponent
+      order: 100
+    - name: mirror-coat
+      index: 243
+      power: 1
+      pp: 1
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - If the last damage taken was special, do twice the damage
+      order: 145
+    - name: light-screen
+      index: 113
+      power: 0
+      pp: 3
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Double's the team's special defense for 5 turns
+          Over 50% chance to discourage this move unless enemy's HP is full
+      order: 168
+    - name: psychic
+      index: 94
+      power: 90
+      pp: 10
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to lower opponent's special defense
+      order: 173
+    - name: amnesia
+      index: 133
+      power: 0
+      pp: 2
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - Sharply raises special defense
+      order: 213
+    - name: hp-psychic
+      index: 0
+      power: 70
+      pp: 15
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 218
+    - name: future-sight
+      index: 248
+      power: 80
+      pp: 15
+      type: psychic
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2 turns after it is uesed, regardless if the user and opponent switch out
+      order: 233
+    - name: hypnosis
+      index: 95
+      power: 0
+      pp: 5
+      type: psychic
+      accuracy: 70
+      effects: {}
+      extra:
+        - |-
+          Puts opponent to sleep
+          Greatly encouraged if the enemy has either Dream Eater or Nightmare. 50% chance to greatly encourage sleep inducing moves otherwise
+      order: 251

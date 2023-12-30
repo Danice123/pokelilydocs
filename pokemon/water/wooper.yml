@@ -1,0 +1,69 @@
+name: wooper
+pokedex: 194
+baseexp: 52
+evolutions:
+    - target: quagsire
+      level: 20
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bubblebeam
+    - level: 7
+      move: magnitude
+    - level: 14
+      move: rock-throw
+    - level: 23
+      move: body-slam
+    - level: 29
+      move: earthquake
+    - level: 32
+      move: ice-beam
+    - level: 35
+      move: hydro-pump
+    - level: 40
+      move: waterfall
+    - level: 43
+      move: sludge-bomb
+stats:
+    atk: 45
+    def: 45
+    hp: 55
+    spa: 25
+    spd: 25
+    spe: 15
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - sandstorm
+    - defense-curl
+    - rest
+    - attract
+    - surf
+    - flash
+    - whirlpool
+    - ice-beam
+types:
+    - water
+    - ground

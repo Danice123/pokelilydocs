@@ -1,0 +1,66 @@
+name: qwilfish
+pokedex: 211
+baseexp: 100
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: water-gun
+    - level: 5
+      move: acid
+    - level: 12
+      move: twineedle
+    - level: 16
+      move: headbutt
+    - level: 20
+      move: bubblebeam
+    - level: 25
+      move: sludge
+    - level: 30
+      move: waterfall
+    - level: 34
+      move: sludge-bomb
+    - level: 40
+      move: toxic
+    - level: 47
+      move: explosion
+    - level: 73
+      move: spikes
+    - level: 90
+      move: destiny-bond
+stats:
+    atk: 95
+    def: 85
+    hp: 75
+    spa: 65
+    spd: 55
+    spe: 85
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - swift
+    - defense-curl
+    - rest
+    - attract
+    - surf
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water
+    - poison

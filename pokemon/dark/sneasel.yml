@@ -1,0 +1,71 @@
+name: sneasel
+pokedex: 215
+baseexp: 132
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: quick-claw
+learnset:
+    - level: 1
+      move: fury-swipes
+    - level: 13
+      move: faint-attack
+    - level: 22
+      move: ice-punch
+    - level: 30
+      move: beat-up
+    - level: 38
+      move: shadow-ball
+    - level: 46
+      move: ice-beam
+    - level: 55
+      move: metal-claw
+    - level: 64
+      move: screech
+stats:
+    atk: 110
+    def: 55
+    hp: 70
+    spa: 85
+    spd: 75
+    spe: 115
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - fury-cutter
+    - nightmare
+    - cut
+    - surf
+    - strength
+    - ice-beam
+types:
+    - dark
+    - ice

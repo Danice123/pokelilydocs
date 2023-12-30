@@ -1,0 +1,62 @@
+name: eevee
+pokedex: 133
+baseexp: 92
+evolutions:
+    - target: jolteon
+      level: 0
+      method: item
+      item: thunderstone
+    - target: vaporeon
+      level: 0
+      method: item
+      item: water-stone
+    - target: flareon
+      level: 0
+      method: item
+      item: fire-stone
+    - target: espeon
+      level: 0
+      method: item
+      item: sun-stone
+    - target: umbreon
+      level: 0
+      method: item
+      item: moon-stone
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 7
+      move: sand-attack
+    - level: 15
+      move: headbutt
+stats:
+    atk: 55
+    def: 50
+    hp: 55
+    spa: 45
+    spd: 65
+    spe: 55
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - swift
+    - detect
+    - rest
+    - attract
+types:
+    - normal

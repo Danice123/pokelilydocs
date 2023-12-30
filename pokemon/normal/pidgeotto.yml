@@ -1,0 +1,51 @@
+name: pidgeotto
+pokedex: 17
+baseexp: 113
+evolutions:
+    - target: pidgeot
+      level: 36
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: wing-attack
+    - level: 18
+      move: quick-attack
+    - level: 23
+      move: swift
+    - level: 28
+      move: steel-wing
+    - level: 34
+      move: return
+stats:
+    atk: 60
+    def: 55
+    hp: 63
+    spa: 50
+    spd: 50
+    spe: 71
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - fly
+types:
+    - normal
+    - flying

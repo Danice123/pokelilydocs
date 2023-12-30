@@ -1,0 +1,47 @@
+name: sunflora
+pokedex: 192
+baseexp: 146
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 18
+      move: return
+    - level: 23
+      move: giga-drain
+    - level: 31
+      move: petal-dance
+    - level: 38
+      move: growth
+    - level: 50
+      move: spore
+stats:
+    atk: 75
+    def: 55
+    hp: 75
+    spa: 105
+    spd: 85
+    spe: 30
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - cut
+    - flash
+types:
+    - grass

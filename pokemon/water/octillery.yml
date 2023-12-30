@@ -1,0 +1,51 @@
+name: octillery
+pokedex: 224
+baseexp: 164
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: flamethrower
+    - level: 1
+      move: bubblebeam
+    - level: 32
+      move: octazooka
+    - level: 37
+      move: octazooka
+    - level: 38
+      move: ice-beam
+    - level: 54
+      move: return
+stats:
+    atk: 105
+    def: 75
+    hp: 75
+    spa: 105
+    spd: 75
+    spe: 45
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - rest
+    - attract
+    - thief
+    - surf
+    - whirlpool
+    - flamethrower
+    - ice-beam
+types:
+    - water

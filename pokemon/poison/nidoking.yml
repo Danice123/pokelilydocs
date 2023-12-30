@@ -1,0 +1,72 @@
+name: nidoking
+pokedex: 34
+baseexp: 195
+evolutions: []
+gender: f0
+items: []
+learnset:
+    - level: 1
+      move: sludge
+    - level: 36
+      move: body-slam
+    - level: 50
+      move: sludge-bomb
+    - level: 54
+      move: earthquake
+    - level: 59
+      move: thrash
+    - level: 75
+      move: earthquake
+    - level: 95
+      move: earthquake
+stats:
+    atk: 92
+    def: 77
+    hp: 81
+    spa: 85
+    spd: 75
+    spe: 85
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - earthquake
+    - return
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - defense-curl
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - fury-cutter
+    - surf
+    - strength
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - poison
+    - ground

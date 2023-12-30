@@ -1,0 +1,73 @@
+name: gyarados
+pokedex: 130
+baseexp: 214
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: dragon-rage
+    - level: 35
+      move: waterfall
+    - level: 38
+      move: thunderbolt
+    - level: 42
+      move: ice-beam
+    - level: 45
+      move: double-edge
+    - level: 51
+      move: hydro-pump
+    - level: 59
+      move: earthquake
+    - level: 64
+      move: ice-beam
+    - level: 68
+      move: double-edge
+    - level: 72
+      move: hydro-pump
+    - level: 75
+      move: earthquake
+    - level: 80
+      move: rage
+stats:
+    atk: 125
+    def: 79
+    hp: 95
+    spa: 60
+    spd: 100
+    spe: 81
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - dragonbreath
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - rest
+    - attract
+    - surf
+    - strength
+    - whirlpool
+    - waterfall
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - water
+    - flying

@@ -1,0 +1,52 @@
+name: rapidash
+pokedex: 78
+baseexp: 192
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: ember
+    - level: 34
+      move: double-edge
+    - level: 42
+      move: flamethrower
+    - level: 46
+      move: iron-tail
+    - level: 52
+      move: megahorn
+    - level: 57
+      move: hi-jump-kick
+    - level: 64
+      move: fire-blast
+    - level: 70
+      move: hypnosis
+stats:
+    atk: 100
+    def: 70
+    hp: 65
+    spa: 80
+    spd: 80
+    spe: 105
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - rest
+    - attract
+    - flamethrower
+types:
+    - fire

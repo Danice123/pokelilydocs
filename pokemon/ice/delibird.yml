@@ -1,0 +1,62 @@
+name: delibird
+pokedex: 225
+baseexp: 183
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: present
+    - level: 6
+      move: powder-snow
+    - level: 10
+      move: peck
+    - level: 13
+      move: fury-swipes
+    - level: 18
+      move: aurora-beam
+    - level: 21
+      move: safeguard
+    - level: 25
+      move: wing-attack
+    - level: 31
+      move: ice-beam
+    - level: 42
+      move: sky-attack
+    - level: 48
+      move: rapid-spin
+    - level: 57
+      move: spikes
+stats:
+    atk: 90
+    def: 45
+    hp: 45
+    spa: 100
+    spd: 45
+    spe: 85
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - fly
+    - ice-beam
+types:
+    - ice
+    - flying

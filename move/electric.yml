@@ -1,0 +1,88 @@
+moves:
+    - name: thunderpunch
+      index: 9
+      power: 75
+      pp: 15
+      type: electric
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to paralyze opponent
+      order: 13
+    - name: thundershock
+      index: 84
+      power: 40
+      pp: 30
+      type: electric
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to paralyze opponent
+      order: 103
+    - name: thunder-wave
+      index: 86
+      power: 0
+      pp: 20
+      type: electric
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Paralyzes opponent
+          50% chance to discourage this move if player's HP is below 25%. 80% chance to greatly encourage this moveif enemy is slower than player and its HP is above 25%.
+      order: 160
+    - name: thunderbolt
+      index: 85
+      power: 95
+      pp: 15
+      type: electric
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to paralyze opponent
+      order: 163
+    - name: spark
+      index: 209
+      power: 65
+      pp: 20
+      type: electric
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to paralyze opponent
+      order: 196
+    - name: zap-cannon
+      index: 192
+      power: 100
+      pp: 5
+      type: electric
+      accuracy: 50
+      effects: {}
+      extra:
+        - 100% chance to paralyze opponent
+      order: 210
+    - name: hp-electric
+      index: 0
+      power: 70
+      pp: 15
+      type: electric
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 229
+    - name: thunder
+      index: 87
+      power: 120
+      pp: 5
+      type: electric
+      accuracy: 70
+      effects: {}
+      extra:
+        - |-
+          30% chance to paralyze opponent
+          100% accurate in rain, 50% accurage in sun
+          Hits opponents in the semi-invulnerable turn of Fly
+          Move is greatly encouraged if the player is flying and the enemy is faster
+          90% chance to discourage this move when it's sunny
+      order: 266

@@ -1,0 +1,103 @@
+moves:
+    - name: poison-gas
+      index: 139
+      power: 0
+      pp: 3
+      type: poison
+      accuracy: 100
+      effects: {}
+      extra:
+        - Poisons opponent
+      order: 28
+    - name: acid
+      index: 51
+      power: 40
+      pp: 30
+      type: poison
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to lower opponent's defense
+      order: 47
+    - name: poisonpowder
+      index: 77
+      power: 0
+      pp: 3
+      type: poison
+      accuracy: 100
+      effects: {}
+      extra:
+        - Poisons opponent
+      order: 57
+    - name: acid-armor
+      index: 151
+      power: 0
+      pp: 2
+      type: poison
+      accuracy: 100
+      effects: {}
+      extra:
+        - Sharply raises defense
+      order: 111
+    - name: sludge
+      index: 124
+      power: 65
+      pp: 20
+      type: poison
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to poison opponent
+      order: 121
+    - name: toxic
+      index: 92
+      power: 0
+      pp: 10
+      type: poison
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Toxic poisons opponent
+          Discouraged if player's HP is below 50%
+      order: 127
+    - name: hp-poison
+      index: 0
+      power: 70
+      pp: 15
+      type: poison
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 174
+    - name: poison-sting
+      index: 40
+      power: 15
+      pp: 35
+      type: poison
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to poison opponent
+      order: 206
+    - name: sludge-bomb
+      index: 188
+      power: 90
+      pp: 10
+      type: poison
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to poison opponent
+      order: 211
+    - name: smog
+      index: 123
+      power: 20
+      pp: 20
+      type: poison
+      accuracy: 100
+      effects: {}
+      extra:
+        - 40% chance to poison opponent
+      order: 252

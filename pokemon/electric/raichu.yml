@@ -1,0 +1,58 @@
+name: raichu
+pokedex: 26
+baseexp: 122
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: berry
+learnset:
+    - level: 1
+      move: thunder-wave
+    - level: 42
+      move: thunderbolt
+    - level: 48
+      move: seismic-toss
+    - level: 69
+      move: thunder
+    - level: 76
+      move: encore
+stats:
+    atk: 90
+    def: 55
+    hp: 60
+    spa: 90
+    spd: 80
+    spe: 100
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - strength
+    - flash
+    - thunderbolt
+types:
+    - electric

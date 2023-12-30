@@ -1,0 +1,61 @@
+name: ledyba
+pokedex: 165
+baseexp: 54
+evolutions:
+    - target: ledian
+      level: 16
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: fury-cutter
+    - level: 6
+      move: mach-punch
+    - level: 11
+      move: psybeam
+    - level: 15
+      move: giga-drain
+    - level: 19
+      move: reflect
+    - level: 21
+      move: light-screen
+    - level: 23
+      move: toxic
+stats:
+    atk: 20
+    def: 30
+    hp: 40
+    spa: 40
+    spd: 80
+    spe: 55
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - dig
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - thunderpunch
+    - rest
+    - attract
+    - thief
+    - flash
+types:
+    - bug
+    - flying

@@ -1,0 +1,68 @@
+name: quagsire
+pokedex: 195
+baseexp: 137
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bubblebeam
+    - level: 25
+      move: body-slam
+    - level: 30
+      move: waterfall
+    - level: 35
+      move: earthquake
+    - level: 39
+      move: ice-beam
+    - level: 43
+      move: sludge-bomb
+    - level: 47
+      move: hydro-pump
+    - level: 60
+      move: recover
+    - level: 70
+      move: earthquake
+stats:
+    atk: 85
+    def: 85
+    hp: 95
+    spa: 65
+    spd: 65
+    spe: 35
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - sandstorm
+    - defense-curl
+    - rest
+    - attract
+    - surf
+    - strength
+    - flash
+    - waterfall
+    - whirlpool
+    - ice-beam
+types:
+    - water
+    - ground

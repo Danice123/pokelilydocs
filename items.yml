@@ -1,0 +1,155 @@
+items:
+    - name: moon-stone
+      description: Allows for the evolution of certain pokemon
+    - name: rainbow-wing
+      description: Allows holder to access 2-8f of Tin Tower upon becoming the Champion
+    - name: ss-ticket
+      description: Allows holder to ride the SS Aqua
+    - name: berry
+      description: Restores 10hp upon falling under 50% hp, converted to berry juice is held by shuckle in battle
+    - name: berry-juice
+      description: Restores 20hp upon falling under 50% hp
+    - name: pink-bow
+      description: 'Increases the damage of normal type moves by 10% '
+    - name: mystic-water
+      description: 'Increases the damage of water type moves by 10% '
+    - name: psncureberry
+      description: Cures poison
+    - name: mint-berry
+      description: Cures sleep
+    - name: exp-share
+      description: Grants pokemon a share of exp
+    - name: bitter-berry
+      description: Cures confusion
+    - name: przcureberry
+      description: Cures paralysis
+    - name: miracle-seed
+      description: Increases the damage of grass type moves by 10%
+    - name: poison-barb
+      description: Increases the damage of poison type moves by 10%
+    - name: old-rod
+      description: Allows user to fish in bodies of water
+    - name: gold-berry
+      description: Restores 30hp upon falling under 50% hp
+    - name: charcoal
+      description: Increases the damage of fire type moves by 10%
+    - name: twistedspoon
+      description: Increases the damage of psychic type moves by 10%
+    - name: burnt-berry
+      description: Cures freeze
+    - name: lure-ball
+      description: If used while fishing 3x catch rate. Otherwise 1x
+    - name: soft-sand
+      description: Increases the damage of ground type moves by 10%
+    - name: water-stone
+      description: Allows for the evolution of certain pokemon
+    - name: fire-stone
+      description: Allows for the evolution of certain pokemon
+    - name: thunderstone
+      description: Allows for the evolution of certain pokemon
+    - name: leaf-stone
+      description: Allows for the evolution of certain pokemon
+    - name: sun-stone
+      description: Allows for the evolution of certain pokemon
+    - name: everstone
+      description: Prevents evolution of pokemon
+    - name: coin-case
+      description: Allows user to hold casino coins
+    - name: bicycle
+      description: Allows user to enter route 17
+    - name: squirtbottle
+      description: Allows user to disturb the Sudowoodo on route 36
+    - name: amulet-coin
+      description: Awards double money from trainer battles if pokemon enters battle
+    - name: smoke-ball
+      description: Allows pokemon to flee from wild encounters outside of tin tower and rocket hideout
+    - name: radio-card
+      description: Allows user to access radio in the pokegear giving access to pokeflute with expn pass as well as other radio channels that can increase or decrease spawn rates of pokemon
+    - name: clear-bell
+      description: Allows user to enter tin tower
+    - name: basement-key
+      description: Allows user to enter b2f of goldenrod underground
+    - name: quick-claw
+      description: 'Gives a 60/256 chance to give a move +1 priority '
+    - name: hard-stone
+      description: 'Increases the damage of rock type moves by 10% '
+    - name: ice-berry
+      description: Cures burns
+    - name: magnet
+      description: 'Increases the damage of electric type moves by 10% '
+    - name: good-rod
+      description: Allows user to fish in bodies of water
+    - name: sharp-beak
+      description: 'Increases the damage of flying type moves by 10% '
+    - name: secretpotion
+      description: Forces Jasmine back into her gym when given to her at lighthouse
+    - name: master-ball
+      description: Captures every pokemon without fail
+    - name: miracleberry
+      description: Cures all status conditions
+    - name: red-scale
+      description: Can be traded with mr pokemon on route 30 for Exp Share
+    - name: blackbelt
+      description: Increases the damage of fighting type moves by 10%
+    - name: nevermeltice
+      description: Increases the damage of Ice type moves by 10%
+    - name: lucky-egg
+      description: Grants pokemon bonus exp
+    - name: spell-tag
+      description: Increases the damage of ghost type moves by 10%
+    - name: dragon-fang
+      description: Increases the damage of dragon type moves by 10%
+    - name: blackglasses
+      description: 'Increases the damage of dark type moves by 10% '
+    - name: machine-part
+      description: To be returned to the kanto power plant in return for zap cannon TM
+    - name: berserk-gene
+      description: Increases attack by 2 stages but also causes confusion
+    - name: expn-pass
+      description: Allows user to access the pokeflute channel
+    - name: pass
+      description: Allows user to access the magnet rail
+    - name: super-rod
+      description: Allows user to fish in bodies of water
+    - name: metal-coat
+      description: Increases the damage of steel type moves by 10%
+    - name: silverpowder
+      description: Increases the damage of bug type moves by 10%
+    - name: mysteryberry
+      description: Restores 5pp to a move upon running out of pp
+    - name: tinymushroom
+      description: Sells high
+    - name: kings-rock
+      description: Gives a 30/256 chance to cause a flinch
+    - name: stick
+      description: Increases Farfetch'd's critical hit ratio by two stages
+    - name: lucky-punch
+      description: Increases Chansey's critical hit ratio by two stages
+    - name: nugget
+      description: Sells high
+    - name: pearl
+      description: Sells high
+    - name: thick-club
+      description: 'Doubles the attack of Marowak, Cubone, or any pokemon transformed into them '
+    - name: light-ball
+      description: 'Doubles the Special attack of Pikachu, or any pokemon transformed into them '
+    - name: metal-powder
+      description: 'Increases the Defence and Special Defence of Ditto by 50%, and any pokemon it is transformed into '
+    - name: dragon-scale
+      description: No effect
+    - name: stardust
+      description: Sells high
+    - name: miracleberry
+      description: Cures all status conditions
+    - name: moomoo-milk
+      description: When given to a pokemon it restores 100hp out of battle
+    - name: sacred-ash
+      description: When used from the Bag, Sacred Ash fully restores the HP and PP of all Pokémon in the party, provided there is a fainted Pokémon in the party. It can only be used outside of battle.
+    - name: focus-band
+      description: Gives a 30/256 chance to live a lethal move on 1hp
+    - name: brightpowder
+      description: Gives opponent an extra 20/256 chance to miss when attacking
+    - name: scope-lens
+      description: Increases holder's critical hit ratio by one stage
+    - name: leftovers
+      description: Restores 1/16th of the holder's maximum hp at the end of each turn

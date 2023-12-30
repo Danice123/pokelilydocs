@@ -1,0 +1,67 @@
+name: blastoise
+pokedex: 9
+baseexp: 210
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: bubblebeam
+    - level: 1
+      move: body-slam
+    - level: 1
+      move: waterfall
+    - level: 36
+      move: ice-beam
+    - level: 39
+      move: icy-wind
+    - level: 44
+      move: counter
+    - level: 49
+      move: rapid-spin
+    - level: 53
+      move: earthquake
+    - level: 63
+      move: hydro-pump
+stats:
+    atk: 83
+    def: 100
+    hp: 79
+    spa: 85
+    spd: 105
+    spe: 78
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - rest
+    - attract
+    - surf
+    - strength
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water

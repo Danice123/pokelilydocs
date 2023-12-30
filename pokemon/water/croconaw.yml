@@ -1,0 +1,61 @@
+name: croconaw
+pokedex: 159
+baseexp: 143
+evolutions:
+    - target: feraligatr
+      level: 30
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: slash
+    - level: 18
+      move: crunch
+    - level: 21
+      move: headbutt
+    - level: 23
+      move: bubblebeam
+    - level: 31
+      move: submission
+stats:
+    atk: 80
+    def: 80
+    hp: 65
+    spa: 59
+    spd: 63
+    spe: 58
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - detect
+    - rest
+    - attract
+    - fury-cutter
+    - cut
+    - surf
+    - strength
+    - whirlpool
+    - ice-beam
+types:
+    - water

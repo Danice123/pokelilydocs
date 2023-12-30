@@ -1,0 +1,59 @@
+name: staryu
+pokedex: 120
+baseexp: 106
+evolutions:
+    - target: starmie
+      level: 0
+      method: item
+      item: water-stone
+gender: unknown
+items:
+    - chance: 0.23
+      item: stardust
+learnset:
+    - level: 1
+      move: water-gun
+    - level: 7
+      move: confuse-ray
+    - level: 14
+      move: tri-attack
+    - level: 23
+      move: bubblebeam
+    - level: 50
+      move: hydro-pump
+stats:
+    atk: 45
+    def: 55
+    hp: 30
+    spa: 70
+    spd: 55
+    spe: 85
+tmhm:
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - attract
+    - surf
+    - flash
+    - whirlpool
+    - waterfall
+    - thunderbolt
+    - ice-beam
+types:
+    - water

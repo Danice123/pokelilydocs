@@ -1,0 +1,64 @@
+name: parasect
+pokedex: 47
+baseexp: 128
+evolutions: []
+gender: f50
+items:
+    - chance: 0.23
+      item: tinymushroom
+learnset:
+    - level: 1
+      move: scratch
+    - level: 14
+      move: body-slam
+    - level: 18
+      move: giga-drain
+    - level: 25
+      move: spore
+    - level: 28
+      move: leech-life
+    - level: 30
+      move: toxic
+    - level: 33
+      move: synthesis
+    - level: 36
+      move: giga-drain
+    - level: 39
+      move: spore
+    - level: 42
+      move: sludge-bomb
+stats:
+    atk: 95
+    def: 80
+    hp: 80
+    spa: 60
+    spd: 80
+    spe: 30
+tmhm:
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - dig
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - thief
+    - fury-cutter
+    - cut
+    - flash
+types:
+    - bug
+    - grass

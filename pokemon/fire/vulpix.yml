@@ -1,0 +1,56 @@
+name: vulpix
+pokedex: 37
+baseexp: 63
+evolutions:
+    - target: ninetales
+      level: 0
+      method: item
+      item: fire-stone
+gender: f75
+items:
+    - chance: 0.25
+      item: burnt-berry
+learnset:
+    - level: 1
+      move: ember
+    - level: 1
+      move: quick-attack
+    - level: 7
+      move: swift
+    - level: 13
+      move: flame-wheel
+    - level: 16
+      move: bite
+    - level: 17
+      move: confuse-ray
+    - level: 30
+      move: flamethrower
+stats:
+    atk: 41
+    def: 40
+    hp: 38
+    spa: 50
+    spd: 65
+    spe: 65
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - rest
+    - attract
+    - flamethrower
+types:
+    - fire

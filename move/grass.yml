@@ -1,0 +1,157 @@
+moves:
+    - name: cotton-spore
+      index: 178
+      power: 0
+      pp: 15
+      type: grass
+      accuracy: 100
+      effects: {}
+      extra:
+        - Sharply lowers opponent's speed
+      order: 54
+    - name: solarbeam
+      index: 76
+      power: 120
+      pp: 10
+      type: grass
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Charges on the first turn, then deals damage on the second
+          Does not need to charge in harsh sunlight
+          Deals half damage in rain
+          80% chance to encourage this move when it's sunny, 90% chance to discourage this move when it's raining
+      order: 66
+    - name: leech-seed
+      index: 73
+      power: 0
+      pp: 10
+      type: grass
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Afflicts the opponent with Leech Seed, transfering 1/8 of its health to the opponent's opponent, even if the user switches out
+          Discourage this move if player's HP is below 50%
+      order: 69
+    - name: absorb
+      index: 71
+      power: 20
+      pp: 20
+      type: grass
+      accuracy: 100
+      effects:
+        drain: 0.5
+      extra:
+        - User heals 50% of damage dealt
+      order: 70
+    - name: mega-drain
+      index: 72
+      power: 40
+      pp: 10
+      type: grass
+      accuracy: 100
+      effects:
+        drain: 0.5
+      extra:
+        - User heals 50% of damage dealt
+      order: 117
+    - name: spore
+      index: 147
+      power: 0
+      pp: 5
+      type: grass
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Puts opponent to sleep
+          Greatly encouraged if the enemy has either Dream Eater or Nightmare. 50% chance to greatly encourage sleep inducing moves otherwise
+      order: 135
+    - name: vine-whip
+      index: 22
+      power: 35
+      pp: 10
+      type: grass
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 167
+    - name: hp-grass
+      index: 0
+      power: 70
+      pp: 15
+      type: grass
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 177
+    - name: giga-drain
+      index: 202
+      power: 75
+      pp: 10
+      type: grass
+      accuracy: 100
+      effects:
+        drain: 0.5
+      extra:
+        - User heals 50% of damage dealt
+      order: 187
+    - name: stun-spore
+      index: 78
+      power: 0
+      pp: 3
+      type: grass
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Paralyzes opponent
+          50% chance to discourage this move if player's HP is below 25%. 80% chance to greatly encourage this moveif enemy is slower than player and its HP is above 25%.
+      order: 191
+    - name: razor-leaf
+      index: 75
+      power: 55
+      pp: 25
+      type: grass
+      accuracy: 100
+      effects: {}
+      extra:
+        - Has an increased critical hit rate
+      order: 195
+    - name: sleep-powder
+      index: 79
+      power: 0
+      pp: 3
+      type: grass
+      accuracy: 75
+      effects: {}
+      extra:
+        - |-
+          Puts opponent to sleep
+          Greatly encouraged if the enemy has either Dream Eater or Nightmare. 50% chance to greatly encourage sleep inducing moves otherwise
+      order: 215
+    - name: synthesis
+      index: 235
+      power: 0
+      pp: 10
+      type: grass
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Restores 50% HP
+          90% chance to greatly encourage this move if enemy's HP is below 25%, Discourage this move if enemy's HP is higher than 50%
+      order: 225
+    - name: petal-dance
+      index: 80
+      power: 90
+      pp: 20
+      type: grass
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to confuse opponent
+      order: 239

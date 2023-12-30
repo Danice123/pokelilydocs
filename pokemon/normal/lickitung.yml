@@ -1,0 +1,79 @@
+name: lickitung
+pokedex: 108
+baseexp: 127
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: lick
+    - level: 7
+      move: rollout
+    - level: 13
+      move: pound
+    - level: 17
+      move: stomp
+    - level: 24
+      move: disable
+    - level: 28
+      move: ice-beam
+    - level: 33
+      move: fire-blast
+    - level: 36
+      move: body-slam
+    - level: 43
+      move: earthquake
+    - level: 70
+      move: rest
+stats:
+    atk: 85
+    def: 75
+    hp: 90
+    spa: 60
+    spd: 75
+    spe: 30
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - earthquake
+    - return
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - defense-curl
+    - thunderpunch
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - nightmare
+    - cut
+    - surf
+    - strength
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

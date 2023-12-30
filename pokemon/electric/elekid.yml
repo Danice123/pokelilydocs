@@ -1,0 +1,64 @@
+name: elekid
+pokedex: 239
+baseexp: 106
+evolutions:
+    - target: electabuzz
+      level: 30
+      method: level
+      item: ""
+gender: f25
+items: []
+learnset:
+    - level: 1
+      move: thundershock
+    - level: 7
+      move: quick-attack
+    - level: 14
+      move: karate-chop
+    - level: 19
+      move: dizzy-punch
+    - level: 23
+      move: thunder-wave
+    - level: 26
+      move: thunderpunch
+    - level: 37
+      move: thunderbolt
+    - level: 43
+      move: cross-chop
+stats:
+    atk: 63
+    def: 37
+    hp: 45
+    spa: 65
+    spd: 55
+    spe: 95
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - psychic
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - flash
+    - thunderbolt
+types:
+    - electric

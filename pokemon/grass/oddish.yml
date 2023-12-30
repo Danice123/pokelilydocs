@@ -1,0 +1,51 @@
+name: oddish
+pokedex: 43
+baseexp: 78
+evolutions:
+    - target: gloom
+      level: 16
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: mega-drain
+    - level: 4
+      move: acid
+    - level: 9
+      move: poisonpowder
+    - level: 13
+      move: moonlight
+    - level: 16
+      move: razor-leaf
+stats:
+    atk: 50
+    def: 55
+    hp: 45
+    spa: 75
+    spd: 65
+    spe: 30
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - cut
+    - flash
+types:
+    - grass
+    - poison

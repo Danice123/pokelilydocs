@@ -1,0 +1,61 @@
+name: golem
+pokedex: 76
+baseexp: 177
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: everstone
+learnset:
+    - level: 1
+      move: earthquake
+    - level: 1
+      move: rock-slide
+    - level: 1
+      move: body-slam
+    - level: 56
+      move: earthquake
+    - level: 60
+      move: ancientpower
+    - level: 99
+      move: explosion
+stats:
+    atk: 110
+    def: 130
+    hp: 80
+    spa: 55
+    spd: 65
+    spe: 45
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - defense-curl
+    - rest
+    - attract
+    - fire-punch
+    - fury-cutter
+    - strength
+    - flamethrower
+types:
+    - rock
+    - ground

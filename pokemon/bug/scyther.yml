@@ -1,0 +1,60 @@
+name: scyther
+pokedex: 123
+baseexp: 187
+evolutions:
+    - target: scizor
+      level: 55
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: scratch
+    - level: 8
+      move: quick-attack
+    - level: 14
+      move: false-swipe
+    - level: 24
+      move: slash
+    - level: 31
+      move: wing-attack
+    - level: 37
+      move: steel-wing
+    - level: 45
+      move: razor-wind
+    - level: 53
+      move: fury-cutter
+stats:
+    atk: 110
+    def: 80
+    hp: 70
+    spa: 55
+    spd: 80
+    spe: 105
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - fury-cutter
+    - cut
+types:
+    - bug
+    - flying

@@ -1,0 +1,58 @@
+name: gengar
+pokedex: 94
+baseexp: 190
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: night-shade
+    - level: 46
+      move: shadow-ball
+    - level: 52
+      move: submission
+    - level: 76
+      move: psychic
+stats:
+    atk: 65
+    def: 60
+    hp: 60
+    spa: 130
+    spd: 75
+    spe: 110
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - giga-drain
+    - endure
+    - frustration
+    - thunder
+    - return
+    - psychic
+    - shadow-ball
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - thunderpunch
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - nightmare
+    - strength
+    - thunderbolt
+types:
+    - ghost
+    - poison

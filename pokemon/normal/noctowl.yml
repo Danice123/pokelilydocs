@@ -1,0 +1,59 @@
+name: noctowl
+pokedex: 164
+baseexp: 162
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: hypnosis
+    - level: 20
+      move: psybeam
+    - level: 27
+      move: whirlwind
+    - level: 30
+      move: reflect
+    - level: 33
+      move: psychic
+    - level: 37
+      move: shadow-ball
+    - level: 42
+      move: dream-eater
+    - level: 51
+      move: return
+    - level: 57
+      move: sky-attack
+stats:
+    atk: 50
+    def: 50
+    hp: 100
+    spa: 86
+    spd: 96
+    spe: 70
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - nightmare
+    - fly
+    - flash
+types:
+    - normal
+    - flying

@@ -1,0 +1,59 @@
+name: machamp
+pokedex: 68
+baseexp: 193
+evolutions: []
+gender: f25
+items: []
+learnset:
+    - level: 1
+      move: cross-chop
+    - level: 1
+      move: rock-slide
+    - level: 67
+      move: foresight
+    - level: 74
+      move: cross-chop
+    - level: 78
+      move: counter
+    - level: 80
+      move: rock-slide
+    - level: 90
+      move: earthquake
+stats:
+    atk: 130
+    def: 80
+    hp: 90
+    spa: 65
+    spd: 85
+    spe: 55
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+    - flamethrower
+types:
+    - fighting

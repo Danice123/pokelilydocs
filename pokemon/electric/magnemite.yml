@@ -1,0 +1,52 @@
+name: magnemite
+pokedex: 81
+baseexp: 89
+evolutions:
+    - target: magneton
+      level: 30
+      method: level
+      item: ""
+gender: unknown
+items:
+    - chance: 0.02
+      item: metal-coat
+learnset:
+    - level: 1
+      move: sonicboom
+    - level: 6
+      move: thunder-wave
+    - level: 13
+      move: thundershock
+    - level: 21
+      move: tri-attack
+    - level: 25
+      move: spark
+stats:
+    atk: 35
+    def: 70
+    hp: 25
+    spa: 95
+    spd: 55
+    spe: 45
+tmhm:
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - flash
+    - thunderbolt
+types:
+    - electric
+    - steel

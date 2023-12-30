@@ -1,0 +1,62 @@
+name: corsola
+pokedex: 222
+baseexp: 113
+evolutions: []
+gender: f75
+items: []
+learnset:
+    - level: 1
+      move: bubblebeam
+    - level: 7
+      move: confuse-ray
+    - level: 22
+      move: ice-beam
+    - level: 26
+      move: recover
+    - level: 30
+      move: waterfall
+    - level: 37
+      move: rock-slide
+    - level: 44
+      move: mirror-coat
+    - level: 53
+      move: rapid-spin
+    - level: 58
+      move: ancientpower
+stats:
+    atk: 55
+    def: 85
+    hp: 75
+    spa: 65
+    spd: 85
+    spe: 35
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - psychic
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - defense-curl
+    - rest
+    - attract
+    - surf
+    - strength
+    - whirlpool
+    - ice-beam
+types:
+    - water
+    - rock

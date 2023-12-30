@@ -1,0 +1,57 @@
+name: omanyte
+pokedex: 138
+baseexp: 120
+evolutions:
+    - target: omastar
+      level: 40
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: water-gun
+    - level: 8
+      move: aurora-beam
+    - level: 16
+      move: rock-slide
+    - level: 20
+      move: bubblebeam
+    - level: 29
+      move: surf
+    - level: 36
+      move: ice-beam
+stats:
+    atk: 40
+    def: 100
+    hp: 35
+    spa: 90
+    spd: 55
+    spe: 35
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - rest
+    - attract
+    - thief
+    - surf
+    - whirlpool
+    - ice-beam
+types:
+    - rock
+    - water

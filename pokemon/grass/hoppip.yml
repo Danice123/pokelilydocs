@@ -1,0 +1,63 @@
+name: hoppip
+pokedex: 187
+baseexp: 74
+evolutions:
+    - target: skiploom
+      level: 16
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: mega-drain
+    - level: 4
+      move: confusion
+    - level: 9
+      move: toxic
+    - level: 12
+      move: stun-spore
+    - level: 16
+      move: sleep-powder
+    - level: 22
+      move: giga-drain
+    - level: 25
+      move: double-edge
+    - level: 36
+      move: petal-dance
+    - level: 43
+      move: sky-attack
+    - level: 50
+      move: synthesis
+    - level: 73
+      move: leech-seed
+stats:
+    atk: 35
+    def: 40
+    hp: 35
+    spa: 35
+    spd: 55
+    spe: 50
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - rest
+    - attract
+    - flash
+types:
+    - grass
+    - flying

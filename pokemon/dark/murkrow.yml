@@ -1,0 +1,62 @@
+name: murkrow
+pokedex: 198
+baseexp: 107
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: peck
+    - level: 7
+      move: night-shade
+    - level: 12
+      move: pursuit
+    - level: 18
+      move: faint-attack
+    - level: 24
+      move: wing-attack
+    - level: 30
+      move: haze
+    - level: 34
+      move: drill-peck
+    - level: 39
+      move: beat-up
+    - level: 45
+      move: sky-attack
+    - level: 52
+      move: crunch
+stats:
+    atk: 85
+    def: 42
+    hp: 60
+    spa: 105
+    spd: 42
+    spe: 91
+tmhm:
+    - curse
+    - toxic
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - icy-wind
+    - protect
+    - endure
+    - frustration
+    - return
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - nightmare
+    - fly
+types:
+    - dark
+    - flying

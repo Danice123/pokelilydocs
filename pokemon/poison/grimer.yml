@@ -1,0 +1,67 @@
+name: grimer
+pokedex: 88
+baseexp: 90
+evolutions:
+    - target: muk
+      level: 38
+      method: level
+      item: ""
+gender: f50
+items:
+    - chance: 0.02
+      item: nugget
+learnset:
+    - level: 1
+      move: mega-drain
+    - level: 7
+      move: acid
+    - level: 13
+      move: sludge
+    - level: 18
+      move: disable
+    - level: 23
+      move: body-slam
+    - level: 26
+      move: sludge-bomb
+    - level: 37
+      move: shadow-ball
+    - level: 46
+      move: flamethrower
+    - level: 50
+      move: sludge-bomb
+stats:
+    atk: 80
+    def: 50
+    hp: 80
+    spa: 40
+    spd: 50
+    spe: 25
+tmhm:
+    - dynamicpunch
+    - curse
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - thunder
+    - return
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - fire-blast
+    - thunderpunch
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - flamethrower
+    - thunderbolt
+types:
+    - poison

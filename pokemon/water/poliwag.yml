@@ -1,0 +1,56 @@
+name: poliwag
+pokedex: 60
+baseexp: 77
+evolutions:
+    - target: poliwhirl
+      level: 25
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bubble
+    - level: 4
+      move: hypnosis
+    - level: 10
+      move: body-slam
+    - level: 16
+      move: bubblebeam
+    - level: 20
+      move: aurora-beam
+    - level: 31
+      move: hydro-pump
+stats:
+    atk: 50
+    def: 40
+    hp: 40
+    spa: 40
+    spd: 40
+    spe: 90
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - rest
+    - attract
+    - thief
+    - surf
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water

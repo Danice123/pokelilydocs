@@ -1,0 +1,64 @@
+name: tyranitar
+pokedex: 248
+baseexp: 218
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bite
+    - level: 1
+      move: hyper-beam
+    - level: 1
+      move: scary-face
+    - level: 80
+      move: crunch
+    - level: 90
+      move: rock-slide
+stats:
+    atk: 134
+    def: 110
+    hp: 100
+    spa: 95
+    spd: 100
+    spe: 61
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - detect
+    - rest
+    - attract
+    - fire-punch
+    - fury-cutter
+    - nightmare
+    - cut
+    - surf
+    - strength
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - rock
+    - dark

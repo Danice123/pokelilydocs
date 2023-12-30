@@ -1,0 +1,58 @@
+name: hitmonlee
+pokedex: 106
+baseexp: 139
+evolutions: []
+gender: f0
+items: []
+learnset:
+    - level: 1
+      move: karate-chop
+    - level: 26
+      move: double-kick
+    - level: 30
+      move: body-slam
+    - level: 36
+      move: submission
+    - level: 42
+      move: rapid-spin
+    - level: 48
+      move: seismic-toss
+    - level: 56
+      move: earthquake
+    - level: 62
+      move: rock-slide
+    - level: 69
+      move: hi-jump-kick
+    - level: 95
+      move: reversal
+stats:
+    atk: 120
+    def: 53
+    hp: 50
+    spa: 35
+    spd: 110
+    spe: 87
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - strength
+types:
+    - fighting

@@ -1,0 +1,69 @@
+name: aipom
+pokedex: 190
+baseexp: 94
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: fury-swipes
+    - level: 7
+      move: pursuit
+    - level: 14
+      move: growl
+    - level: 19
+      move: quick-attack
+    - level: 23
+      move: swift
+    - level: 31
+      move: submission
+    - level: 36
+      move: body-slam
+    - level: 47
+      move: iron-tail
+    - level: 57
+      move: shadow-ball
+stats:
+    atk: 100
+    def: 55
+    hp: 65
+    spa: 40
+    spd: 55
+    spe: 115
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - thunderpunch
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - fury-cutter
+    - nightmare
+    - cut
+    - strength
+    - thunderbolt
+types:
+    - normal

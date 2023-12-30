@@ -1,0 +1,75 @@
+name: sentret
+pokedex: 161
+baseexp: 57
+evolutions:
+    - target: furret
+      level: 15
+      method: level
+      item: ""
+gender: f50
+items:
+    - chance: 0.02
+      item: berry
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 5
+      move: swift
+    - level: 8
+      move: rock-smash
+    - level: 13
+      move: pursuit
+    - level: 16
+      move: headbutt
+    - level: 20
+      move: growl
+    - level: 24
+      move: body-slam
+    - level: 28
+      move: double-edge
+    - level: 32
+      move: iron-tail
+    - level: 36
+      move: shadow-ball
+    - level: 42
+      move: extremespeed
+stats:
+    atk: 46
+    def: 34
+    hp: 35
+    spa: 35
+    spd: 45
+    spe: 20
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - fury-cutter
+    - cut
+    - surf
+types:
+    - normal

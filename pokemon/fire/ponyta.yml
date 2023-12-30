@@ -1,0 +1,51 @@
+name: ponyta
+pokedex: 77
+baseexp: 152
+evolutions:
+    - target: rapidash
+      level: 31
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: ember
+    - level: 9
+      move: stomp
+    - level: 17
+      move: double-kick
+    - level: 24
+      move: flame-wheel
+    - level: 30
+      move: double-edge
+    - level: 37
+      move: flamethrower
+stats:
+    atk: 85
+    def: 55
+    hp: 50
+    spa: 65
+    spd: 65
+    spe: 90
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - rest
+    - attract
+    - flamethrower
+types:
+    - fire

@@ -1,0 +1,1149 @@
+moves:
+    - name: smokescreen
+      index: 108
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Lowers opponent's accuracy
+          Encouraged if Player HP is full and enemy HP is above 50%, futher encouraged if player is badly poisoned
+      order: 7
+    - name: explosion
+      index: 153
+      power: 250
+      pp: 1
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          User faints
+          Will not be used if enemies' last pokemon unless you are also on last pokemon. Otherwise discouraged by 90% when enemy HP is full
+      order: 8
+    - name: milk-drink
+      index: 208
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Restores 50% HP
+          90% chance to greatly encourage this move if enemy's HP is below 25%, Discourage this move if enemy's HP is higher than 50%
+      order: 10
+    - name: mind-reader
+      index: 170
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - The next move used by the user will always hit, including semi-invulnerable turns of Fly and Dig
+      order: 12
+    - name: headbutt
+      index: 29
+      power: 70
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to flinch opponent
+      order: 17
+    - name: fury-attack
+      index: 31
+      power: 15
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2-5 times
+      order: 18
+    - name: belly-drum
+      index: 187
+      power: 0
+      pp: 1
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          If user is above half health, removes half of its max HP and sets the user to +6 attack, otherwise removes no health and sharply raises attack
+          Dismiss this move if enemy's attack is higher than +2 or if enemy's HP is below 50%, Else, discourage this move if enemy's HP is not full
+      order: 20
+    - name: extremespeed
+      index: 245
+      power: 100
+      pp: 8
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Hits before other attacks
+          Dismiss this move if the player is flying or underground, Greatly encourage this move if it will KO the player
+      order: 22
+    - name: sleep-talk
+      index: 214
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Can only be used when asleep, uses another known move randomly
+      order: 23
+    - name: morning-sun
+      index: 234
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Restores 50% HP
+          90% chance to greatly encourage this move if enemy's HP is below 25%, Discourage this move if enemy's HP is higher than 50%
+      order: 24
+    - name: horn-attack
+      index: 30
+      power: 65
+      pp: 25
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 25
+    - name: slash
+      index: 163
+      power: 70
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Has an increased critical hit rate
+      order: 29
+    - name: bide
+      index: 117
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Absorbs damage for 2-3 turns, then deals twice the damage taken to the opponent
+          90% chance to discourage this move unless enemy's HP is full
+      order: 30
+    - name: swords-dance
+      index: 14
+      power: 0
+      pp: 2
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Sharply raises attack
+      order: 32
+    - name: substitute
+      index: 164
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          If the user is above 25% HP, removes 25% HP and adds a Substitute that will take that much damage for the user
+          Dismiss this move if enemy's HP is below 50%
+      order: 33
+    - name: egg-bomb
+      index: 121
+      power: 100
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 35
+    - name: sweet-kiss
+      index: 186
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Confuses opponent
+          90% chance to discourage this move if player's HP is between 25% and 50%, further discouraged if player HP is below 25%
+      order: 37
+    - name: tri-attack
+      index: 161
+      power: 80
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - 20% to either paralyze, freeze, or burn the opponent
+      order: 38
+    - name: foresight
+      index: 193
+      power: 0
+      pp: 2
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Ignores accuracy drops and evasion increases and removes Ghost's immunities until the opponent switches out
+      order: 40
+    - name: hyper-fang
+      index: 158
+      power: 80
+      pp: 15
+      type: normal
+      accuracy: 90
+      effects: {}
+      extra:
+        - 10% chance to flinch opponent
+      order: 41
+    - name: focus-energy
+      index: 116
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Increases critical hit rate
+      order: 43
+    - name: cut
+      index: 15
+      power: 50
+      pp: 30
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 44
+    - name: guillotine
+      index: 12
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 30
+      effects: {}
+      extra:
+        - |-
+          OHKO
+          Dismissed if player level is higher than enemies, discouraged if your hp is below 50%
+      order: 45
+    - name: charm
+      index: 204
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Sharply lowers opponent's attack
+      order: 49
+    - name: strength
+      index: 70
+      power: 80
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 55
+    - name: harden
+      index: 106
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Raises defense
+      order: 59
+    - name: fury-swipes
+      index: 154
+      power: 18
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2-5 times
+      order: 60
+    - name: double-edge
+      index: 38
+      power: 120
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects:
+        recoil: 0.3333
+      extra:
+        - User takes 33% of damage dealt as recoil
+      order: 63
+    - name: softboiled
+      index: 135
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Restores 50% HP
+          90% chance to greatly encourage this move if enemy's HP is below 25%, Discourage this move if enemy's HP is higher than 50%
+      order: 67
+    - name: psych-up
+      index: 244
+      power: 0
+      pp: 1
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Copies opponent's stat changes
+      order: 71
+    - name: thrash
+      index: 37
+      power: 90
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Lasts 2-3 turns, then confuses the user
+      order: 74
+    - name: defense-curl
+      index: 111
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Raises defense
+          Doubles the power of Rollout
+      order: 75
+    - name: swift
+      index: 129
+      power: 60
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Always hits
+          80% chance to greatly encourage this move if either enemy's accuracy level has been lowered three or more stages or player's evasion level has been raised three or more stages
+      order: 76
+    - name: conversion
+      index: 160
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Changes the user's type into one of its moves' types
+      order: 77
+    - name: pain-split
+      index: 220
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Sets the HP of both the user and the opponent to the average of their HP
+          Discourage this move if [enemy's current HP * 2 > player's current HP].
+      order: 78
+    - name: take-down
+      index: 36
+      power: 90
+      pp: 20
+      type: normal
+      accuracy: 85
+      effects:
+        recoil: 0.3333
+      extra:
+        - User takes 33% of damage dealt as recoil
+      order: 82
+    - name: lock-on
+      index: 199
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - The next move used by the user will always hit, including semi-invulnerable turns of Fly and Dig
+      order: 85
+    - name: horn-drill
+      index: 32
+      power: 1
+      pp: 5
+      type: normal
+      accuracy: 30
+      effects: {}
+      extra:
+        - |-
+          OHKO
+          Dismissed if player level is higher than enemies, discouraged if your hp is below 50%
+      order: 87
+    - name: frustration
+      index: 218
+      power: 102
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 88
+    - name: roar
+      index: 46
+      power: 0
+      pp: 2
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Forces the opponent to switch
+      order: 89
+    - name: wrap
+      index: 35
+      power: 15
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          For 2-5 turns, prevents the opponent from switching and deals 1/16 HP at the end of each turn
+          50% chance to discourage this move if the player is already trapped.  50% chance to greatly encourage this move if player is either badly poisoned, in love, identified, stuck in Rollout, or has a Nightmare. Otherwise 50% chance to increase use on your pokemon's first turn being out.
+      order: 92
+    - name: bind
+      index: 20
+      power: 15
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          For 2-5 turns, prevents the opponent from switching and deals 1/16 HP at the end of each turn
+          50% chance to discourage this move if the player is already trapped.  50% chance to greatly encourage this move if player is either badly poisoned, in love, identified, stuck in Rollout, or has a Nightmare. Otherwise 50% chance to increase use on your pokemon's first turn being out.
+      order: 95
+    - name: baton-pass
+      index: 226
+      power: 0
+      pp: 1
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Switches to another pokemon, keeping stat changes and effects like Mean Look
+      order: 96
+    - name: safeguard
+      index: 219
+      power: 0
+      pp: 25
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Prevents the user's team from being afflicted with status conditions or confusion for 5 turns
+          80% chance to discourage this move if player's HP is below 50%
+      order: 99
+    - name: transform
+      index: 144
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Transforms into the opponent, copying types, all stats except HP, and all moves with at most 5PP each
+      order: 101
+    - name: comet-punch
+      index: 4
+      power: 18
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2-5 times
+      order: 105
+    - name: stomp
+      index: 23
+      power: 65
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Does double damage to opponents who have used Minimize
+      order: 107
+    - name: sweet-scent
+      index: 230
+      power: 0
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Lowers opponent's evasion
+      order: 110
+    - name: quick-attack
+      index: 98
+      power: 40
+      pp: 30
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Hits before other attacks
+          Dismiss this move if the player is flying or underground, Greatly encourage this move if it will KO the player
+      order: 115
+    - name: rage
+      index: 99
+      power: 20
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Increases in damage every time when used back to back and the user takes damage
+      order: 118
+    - name: disable
+      index: 50
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Disables opponent's the last used move for 2-8 turns
+      order: 119
+    - name: doubleslap
+      index: 3
+      power: 15
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2-5 times
+      order: 120
+    - name: super-fang
+      index: 162
+      power: 1
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Deals half of the opponent's current HP
+          Discouraged if player's HP is below 25
+      order: 124
+    - name: tail-whip
+      index: 39
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Lowers opponent's defense
+      order: 125
+    - name: present
+      index: 217
+      power: 1
+      pp: 15
+      type: normal
+      accuracy: 90
+      effects: {}
+      extra:
+        - Can damage with 40, 80, or 120 BP, or heal the opponent for 25% of their max HP
+      order: 126
+    - name: selfdestruct
+      index: 120
+      power: 200
+      pp: 1
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          User faints
+          Will not be used if enemies' last pokemon unless you are also on last pokemon. Otherwise discouraged by 90% when enemy HP is full
+      order: 129
+    - name: dizzy-punch
+      index: 146
+      power: 70
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - 20% chance to confuse opponent
+      order: 133
+    - name: mimic
+      index: 102
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Copies the opponent's last used move for the duration of the battle
+      order: 134
+    - name: rapid-spin
+      index: 229
+      power: 20
+      pp: 40
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Removes the effects of binding moves, Leech Seed, and Spikes on the user's side of the field
+          80% chance to greatly encourage this move if the enemy is  trapped (Bind effect), seeded, or scattered with spikes.
+      order: 137
+    - name: snore
+      index: 173
+      power: 60
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Can only be used when asleep
+      order: 140
+    - name: encore
+      index: 227
+      power: 0
+      pp: 2
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Prevents the opponent from selecting any move except the last one it used for 2-6 turns
+      order: 142
+    - name: spike-cannon
+      index: 131
+      power: 20
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2-5 times
+      order: 143
+    - name: lovely-kiss
+      index: 142
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 90
+      effects: {}
+      extra:
+        - |-
+          Puts opponent to sleep
+          Greatly encouraged if the enemy has either Dream Eater or Nightmare. 50% chance to greatly encourage sleep inducing moves otherwise
+      order: 146
+    - name: sharpen
+      index: 159
+      power: 0
+      pp: 1
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Raises attack
+      order: 148
+    - name: flash
+      index: 148
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 80
+      effects: {}
+      extra:
+        - |-
+          Lowers opponent's accuracy
+          Encouraged if Player HP is full and enemy HP is above 50%, futher encouraged if player is badly poisoned
+      order: 149
+    - name: pay-day
+      index: 6
+      power: 40
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Scatters coins that are collected after battle
+      order: 154
+    - name: attract
+      index: 213
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Infatuates the opponent
+          80% chance to encourage this move during the first turn of player's Pokemon. 80% chance to discourage this move otherwise
+      order: 155
+    - name: razor-wind
+      index: 13
+      power: 80
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Charges for a turn before attacking
+          Dismisses move when under the effect of perish song or if you have used protect
+          Has an increased critical hit rate
+      order: 156
+    - name: metronome
+      index: 118
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Uses a random move
+      order: 157
+    - name: protect
+      index: 182
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Goes first, prevents being attacked for the turn
+          Greatly discourage this move if the enemy already used Protect, if the player is locked on, if the player's Fury Cutter is boosted enough, if the player has charged a two-turn move, if the player is affected by Toxic, Leech Seed, or Curse,  80% chance to encourage this move otherwise
+      order: 158
+    - name: double-team
+      index: 104
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Raises evasion
+          Dismiss this move if enemy's evasion can't raise anymore, greatly encouraged if player is poisoned, greatly discouraged if player HP is below 25%
+      order: 161
+    - name: skull-bash
+      index: 130
+      power: 100
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Raises the user's defense on the first turn, then deals damage on the second
+      order: 165
+    - name: moonlight
+      index: 236
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Restores 50% HP
+          90% chance to greatly encourage this move if enemy's HP is below 25%, Discourage this move if enemy's HP is higher than 50%
+      order: 166
+    - name: false-swipe
+      index: 206
+      power: 40
+      pp: 40
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Will leave opponent on 1 HP
+      order: 169
+    - name: screech
+      index: 103
+      power: 0
+      pp: 2
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Sharply lowers opponent's defense
+      order: 170
+    - name: sketch
+      index: 166
+      power: 0
+      pp: 1
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Copies the opponent's last used move permanently
+      order: 172
+    - name: slam
+      index: 21
+      power: 80
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 175
+    - name: supersonic
+      index: 48
+      power: 0
+      pp: 20
+      type: normal
+      accuracy: 55
+      effects: {}
+      extra:
+        - |-
+          Confuses opponent
+          90% chance to discourage this move if player's HP is between 25% and 50%, further discouraged if player HP is below 25%
+      order: 179
+    - name: barrage
+      index: 140
+      power: 15
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2-5 times
+      order: 182
+    - name: sing
+      index: 47
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 70
+      effects: {}
+      extra:
+        - |-
+          Puts opponent to sleep
+          Greatly encouraged if the enemy has either Dream Eater or Nightmare. 50% chance to greatly encourage sleep inducing moves otherwise
+      order: 183
+    - name: minimize
+      index: 107
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Raises evasion
+          Causes Stomp to deal double damage afterwards
+          Dismiss this move if enemy's evasion can't raise anymore, greatly encouraged if player is poisoned, greatly discouraged if player HP is below 25%
+      order: 185
+    - name: sonicboom
+      index: 49
+      power: 20
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Deals 20 damage
+      order: 186
+    - name: hyper-beam
+      index: 63
+      power: 150
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Requires a turn to recharge after being used
+      order: 189
+    - name: whirlwind
+      index: 18
+      power: 0
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Forces the opponent to switch
+          Hits opponents in the semi-invulnerable turn of Fly
+      order: 200
+    - name: constrict
+      index: 132
+      power: 10
+      pp: 35
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to lower opponent's speed
+      order: 203
+    - name: growth
+      index: 74
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Raises special attack
+      order: 207
+    - name: leer
+      index: 43
+      power: 0
+      pp: 2
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Lowers opponent's defense
+      order: 208
+    - name: pound
+      index: 1
+      power: 40
+      pp: 35
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 214
+    - name: scratch
+      index: 10
+      power: 40
+      pp: 35
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 216
+    - name: glare
+      index: 137
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Paralyzes opponent
+          50% chance to discourage this move if player's HP is below 25%. 80% chance to greatly encourage this moveif enemy is slower than player and its HP is above 25%.
+      order: 217
+    - name: growl
+      index: 45
+      power: 0
+      pp: 2
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Lowers opponent's attack
+      order: 221
+    - name: scary-face
+      index: 184
+      power: 0
+      pp: 2
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Sharply lowers opponent's speed
+      order: 223
+    - name: mega-kick
+      index: 25
+      power: 120
+      pp: 5
+      type: normal
+      accuracy: 75
+      effects: {}
+      extra: []
+      order: 226
+    - name: swagger
+      index: 207
+      power: 0
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Sharply raise's the opponent's attack, confuses opponent
+          80% chance to encourage this move during the first turn of player's Pokemon. 80% chance to discourage this move otherwise
+      order: 228
+    - name: flail
+      index: 175
+      power: 1
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Base power is higher when the user has less HP, from 20 to 200
+      order: 237
+    - name: endure
+      index: 203
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Survive all damage on 1 HP until the end of the turn
+          Will occur before attacks
+          Greatly discourage this move if the enemy already used Protect, Greatly discourage this move if the enemy's HP is full, 80% chance to greatly encourage this move if the enemy has Reversal
+      order: 238
+    - name: mean-look
+      index: 212
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Prevents the opponent from switching out until the user does
+      order: 241
+    - name: splash
+      index: 150
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Does nothing
+      order: 243
+    - name: vicegrip
+      index: 11
+      power: 55
+      pp: 30
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 244
+    - name: perish-song
+      index: 195
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Will cause both the user and opponent to faint in 3 turns unless they switch out
+      order: 246
+    - name: mega-punch
+      index: 5
+      power: 80
+      pp: 20
+      type: normal
+      accuracy: 85
+      effects: {}
+      extra: []
+      order: 248
+    - name: tackle
+      index: 33
+      power: 35
+      pp: 35
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 249
+    - name: return
+      index: 216
+      power: 102
+      pp: 20
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 255
+    - name: conversion2
+      index: 176
+      power: 0
+      pp: 3
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Changes the user's type into one that resists the last move it was hit by
+      order: 257
+    - name: hidden-power
+      index: 237
+      power: 1
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - Varies in type and damage based on the user's DVs
+      order: 258
+    - name: heal-bell
+      index: 215
+      power: 0
+      pp: 5
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Cures status for entire team
+          Dismiss this move if none of the opponent's Pokemon is statused, Encourage this move if the enemy is statused, greatly encourage this move if the enemy is fast asleep or frozen
+      order: 261
+    - name: recover
+      index: 105
+      power: 0
+      pp: 10
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Restores 50% HP
+          90% chance to greatly encourage this move if enemy's HP is below 25%, Discourage this move if enemy's HP is higher than 50%
+      order: 264
+    - name: body-slam
+      index: 34
+      power: 85
+      pp: 15
+      type: normal
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to paralyze opponent
+      order: 265

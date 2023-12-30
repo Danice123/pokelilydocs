@@ -1,0 +1,59 @@
+name: charmeleon
+pokedex: 5
+baseexp: 142
+evolutions:
+    - target: charizard
+      level: 36
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: ember
+    - level: 17
+      move: scary-face
+    - level: 23
+      move: fire-punch
+    - level: 28
+      move: slash
+    - level: 34
+      move: dragon-rage
+stats:
+    atk: 64
+    def: 58
+    hp: 58
+    spa: 80
+    spd: 65
+    spe: 80
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - defense-curl
+    - rest
+    - attract
+    - fire-punch
+    - fury-cutter
+    - cut
+    - strength
+    - flamethrower
+types:
+    - fire

@@ -1,0 +1,75 @@
+name: girafarig
+pokedex: 203
+baseexp: 149
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 5
+      move: confusion
+    - level: 9
+      move: bite
+    - level: 13
+      move: confuse-ray
+    - level: 17
+      move: stomp
+    - level: 21
+      move: psybeam
+    - level: 25
+      move: crunch
+    - level: 28
+      move: body-slam
+    - level: 31
+      move: light-screen
+    - level: 31
+      move: reflect
+    - level: 36
+      move: earthquake
+    - level: 41
+      move: psychic
+    - level: 46
+      move: thunderbolt
+    - level: 52
+      move: return
+stats:
+    atk: 80
+    def: 65
+    hp: 70
+    spa: 90
+    spd: 65
+    spe: 85
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - earthquake
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - strength
+    - thunderbolt
+types:
+    - normal
+    - psychic

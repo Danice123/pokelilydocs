@@ -1,0 +1,55 @@
+name: dewgong
+pokedex: 87
+baseexp: 176
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: headbutt
+    - level: 35
+      move: disable
+    - level: 39
+      move: body-slam
+    - level: 42
+      move: waterfall
+    - level: 46
+      move: ice-beam
+    - level: 56
+      move: icy-wind
+    - level: 76
+      move: encore
+    - level: 100
+      move: rest
+stats:
+    atk: 70
+    def: 80
+    hp: 90
+    spa: 85
+    spd: 95
+    spe: 70
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - rest
+    - attract
+    - surf
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water
+    - ice

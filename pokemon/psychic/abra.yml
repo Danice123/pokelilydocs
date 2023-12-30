@@ -1,0 +1,56 @@
+name: abra
+pokedex: 63
+baseexp: 73
+evolutions:
+    - target: kadabra
+      level: 16
+      method: level
+      item: ""
+gender: f25
+items: []
+learnset:
+    - level: 1
+      move: confusion
+    - level: 7
+      move: kinesis
+    - level: 30
+      move: recover
+    - level: 90
+      move: psychic
+stats:
+    atk: 20
+    def: 15
+    hp: 25
+    spa: 105
+    spd: 55
+    spe: 90
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - psychic
+    - shadow-ball
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - thunderpunch
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - nightmare
+    - flash
+types:
+    - psychic

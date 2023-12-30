@@ -1,0 +1,61 @@
+name: sandslash
+pokedex: 28
+baseexp: 163
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: slash
+    - level: 33
+      move: rock-slide
+    - level: 38
+      move: earthquake
+    - level: 42
+      move: counter
+    - level: 47
+      move: ancientpower
+    - level: 53
+      move: rapid-spin
+    - level: 65
+      move: earthquake
+stats:
+    atk: 100
+    def: 110
+    hp: 75
+    spa: 45
+    spd: 55
+    spe: 65
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - swift
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - thief
+    - fury-cutter
+    - cut
+    - strength
+types:
+    - ground

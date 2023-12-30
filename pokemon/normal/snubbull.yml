@@ -1,0 +1,64 @@
+name: snubbull
+pokedex: 209
+baseexp: 63
+evolutions:
+    - target: granbull
+      level: 23
+      method: level
+      item: ""
+gender: f75
+items: []
+learnset:
+    - level: 1
+      move: metronome
+    - level: 6
+      move: haze
+    - level: 10
+      move: lick
+    - level: 14
+      move: headbutt
+    - level: 18
+      move: crunch
+    - level: 25
+      move: body-slam
+stats:
+    atk: 80
+    def: 50
+    hp: 60
+    spa: 40
+    spd: 40
+    spe: 30
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - defense-curl
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+    - thunderbolt
+types:
+    - normal

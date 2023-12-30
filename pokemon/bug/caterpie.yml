@@ -1,0 +1,25 @@
+name: caterpie
+pokedex: 10
+baseexp: 53
+evolutions:
+    - target: metapod
+      level: 7
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 7
+      move: string-shot
+stats:
+    atk: 30
+    def: 35
+    hp: 45
+    spa: 20
+    spd: 20
+    spe: 45
+tmhm: []
+types:
+    - bug

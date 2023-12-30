@@ -1,0 +1,59 @@
+name: chikorita
+pokedex: 152
+baseexp: 64
+evolutions:
+    - target: bayleef
+      level: 16
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 8
+      move: razor-leaf
+    - level: 12
+      move: poisonpowder
+    - level: 16
+      move: synthesis
+    - level: 22
+      move: giga-drain
+    - level: 24
+      move: light-screen
+    - level: 43
+      move: safeguard
+    - level: 58
+      move: petal-dance
+stats:
+    atk: 49
+    def: 65
+    hp: 45
+    spa: 49
+    spd: 65
+    spe: 45
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - detect
+    - rest
+    - attract
+    - cut
+    - flash
+types:
+    - grass

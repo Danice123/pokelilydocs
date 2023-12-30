@@ -1,0 +1,50 @@
+name: moltres
+pokedex: 146
+baseexp: 217
+evolutions: []
+gender: unknown
+items: []
+learnset:
+    - level: 1
+      move: morning-sun
+    - level: 1
+      move: sky-attack
+    - level: 1
+      move: fire-blast
+    - level: 1
+      move: hidden-power
+stats:
+    atk: 110
+    def: 90
+    hp: 90
+    spa: 125
+    spd: 85
+    spe: 100
+tmhm:
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - swift
+    - detect
+    - rest
+    - steel-wing
+    - fly
+    - flamethrower
+types:
+    - fire
+    - flying

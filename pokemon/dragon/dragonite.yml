@@ -1,0 +1,77 @@
+name: dragonite
+pokedex: 149
+baseexp: 218
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: dragon-scale
+learnset:
+    - level: 1
+      move: dragon-rage
+    - level: 55
+      move: wing-attack
+    - level: 59
+      move: thunderbolt
+    - level: 60
+      move: ice-beam
+    - level: 65
+      move: flamethrower
+    - level: 74
+      move: extremespeed
+    - level: 87
+      move: double-edge
+    - level: 99
+      move: outrage
+stats:
+    atk: 134
+    def: 95
+    hp: 91
+    spa: 100
+    spd: 100
+    spe: 80
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - thunder
+    - return
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - swift
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - steel-wing
+    - fire-punch
+    - fury-cutter
+    - fly
+    - surf
+    - strength
+    - whirlpool
+    - waterfall
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - dragon
+    - flying

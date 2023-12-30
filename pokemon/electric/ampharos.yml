@@ -1,0 +1,54 @@
+name: ampharos
+pokedex: 181
+baseexp: 194
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: thunder-wave
+    - level: 1
+      move: spark
+    - level: 30
+      move: fire-punch
+    - level: 44
+      move: thunderbolt
+    - level: 70
+      move: thunderbolt
+stats:
+    atk: 75
+    def: 75
+    hp: 90
+    spa: 115
+    spd: 90
+    spe: 55
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - thunderpunch
+    - rest
+    - attract
+    - fire-punch
+    - strength
+    - flash
+    - thunderbolt
+types:
+    - electric

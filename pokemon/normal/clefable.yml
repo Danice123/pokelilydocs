@@ -1,0 +1,71 @@
+name: clefable
+pokedex: 36
+baseexp: 129
+evolutions: []
+gender: f75
+items:
+    - chance: 0.23
+      item: mysteryberry
+learnset:
+    - level: 1
+      move: metronome
+    - level: 23
+      move: attract
+    - level: 36
+      move: body-slam
+    - level: 49
+      move: moonlight
+    - level: 56
+      move: double-edge
+    - level: 62
+      move: lovely-kiss
+stats:
+    atk: 80
+    def: 73
+    hp: 95
+    spa: 95
+    spd: 90
+    spe: 60
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - thunder
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - defense-curl
+    - thunderpunch
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - fire-punch
+    - nightmare
+    - strength
+    - flash
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

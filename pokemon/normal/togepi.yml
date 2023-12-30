@@ -1,0 +1,61 @@
+name: togepi
+pokedex: 175
+baseexp: 74
+evolutions:
+    - target: togetic
+      level: 18
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: present
+    - level: 4
+      move: metronome
+    - level: 7
+      move: seismic-toss
+    - level: 18
+      move: double-edge
+    - level: 20
+      move: softboiled
+stats:
+    atk: 20
+    def: 65
+    hp: 35
+    spa: 40
+    spd: 65
+    spe: 20
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - defense-curl
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - flash
+    - flamethrower
+types:
+    - normal

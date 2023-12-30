@@ -1,0 +1,58 @@
+name: geodude
+pokedex: 74
+baseexp: 86
+evolutions:
+    - target: graveler
+      level: 25
+      method: level
+      item: ""
+gender: f50
+items:
+    - chance: 0.02
+      item: everstone
+learnset:
+    - level: 1
+      move: rock-throw
+    - level: 7
+      move: mud-slap
+    - level: 14
+      move: magnitude
+    - level: 26
+      move: selfdestruct
+stats:
+    atk: 80
+    def: 100
+    hp: 40
+    spa: 30
+    spd: 30
+    spe: 20
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - defense-curl
+    - rest
+    - attract
+    - fire-punch
+    - strength
+    - flamethrower
+types:
+    - rock
+    - ground

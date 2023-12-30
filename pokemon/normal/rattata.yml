@@ -1,0 +1,58 @@
+name: rattata
+pokedex: 19
+baseexp: 57
+evolutions:
+    - target: raticate
+      level: 20
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 13
+      move: hyper-fang
+    - level: 17
+      move: bite
+    - level: 20
+      move: focus-energy
+    - level: 28
+      move: pursuit
+    - level: 34
+      move: super-fang
+stats:
+    atk: 56
+    def: 35
+    hp: 30
+    spa: 25
+    spd: 35
+    spe: 72
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - dig
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - rest
+    - attract
+    - thief
+types:
+    - normal

@@ -1,0 +1,63 @@
+name: persian
+pokedex: 53
+baseexp: 148
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: pay-day
+    - level: 25
+      move: body-slam
+    - level: 32
+      move: bubblebeam
+    - level: 34
+      move: shadow-ball
+    - level: 38
+      move: hypnosis
+    - level: 42
+      move: double-edge
+    - level: 45
+      move: screech
+    - level: 48
+      move: hyper-beam
+stats:
+    atk: 70
+    def: 60
+    hp: 65
+    spa: 65
+    spd: 65
+    spe: 115
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - icy-wind
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - thunderbolt
+types:
+    - normal

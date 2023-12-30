@@ -1,0 +1,62 @@
+name: tangela
+pokedex: 114
+baseexp: 166
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: absorb
+    - level: 7
+      move: wrap
+    - level: 13
+      move: faint-attack
+    - level: 17
+      move: stun-spore
+    - level: 24
+      move: mega-drain
+    - level: 28
+      move: hidden-power
+    - level: 34
+      move: razor-leaf
+    - level: 38
+      move: body-slam
+    - level: 43
+      move: faint-attack
+    - level: 47
+      move: petal-dance
+    - level: 55
+      move: ancientpower
+stats:
+    atk: 100
+    def: 115
+    hp: 100
+    spa: 100
+    spd: 100
+    spe: 40
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - thief
+    - cut
+    - flash
+types:
+    - grass

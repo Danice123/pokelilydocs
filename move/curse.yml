@@ -1,0 +1,34 @@
+moves:
+    - name: struggle
+      index: 165
+      power: 50
+      pp: 1
+      type: curse
+      accuracy: 100
+      effects:
+        recoil: 0.25
+      extra:
+        - User takes 25% of damage dealt as recoil
+      order: 81
+    - name: curse
+      index: 174
+      power: 0
+      pp: 3
+      type: curse
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          If the user is a Ghost type, removes half of its max HP and inflicts a curse on the opponent that will deal 1/4 HP a turn
+          Otherwise, raises attack and defense, lowers speed
+      order: 84
+    - name: psywave
+      index: 149
+      power: 1
+      pp: 15
+      type: curse
+      accuracy: 100
+      effects: {}
+      extra:
+        - Deals user's level in damage
+      order: 93

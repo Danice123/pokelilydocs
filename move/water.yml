@@ -1,0 +1,133 @@
+moves:
+    - name: rain-dance
+      index: 240
+      power: 0
+      pp: 5
+      type: water
+      accuracy: 90
+      effects: {}
+      extra:
+        - |-
+          Sets up rain for 5 turns
+          Greatly discourage this move if it would favour the player type-wise, particularly, if the player is a water-type
+      order: 5
+    - name: hydro-pump
+      index: 56
+      power: 120
+      pp: 8
+      type: water
+      accuracy: 85
+      effects: {}
+      extra: []
+      order: 15
+    - name: waterfall
+      index: 127
+      power: 95
+      pp: 15
+      type: water
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 46
+    - name: water-gun
+      index: 55
+      power: 40
+      pp: 25
+      type: water
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 53
+    - name: withdraw
+      index: 110
+      power: 0
+      pp: 3
+      type: water
+      accuracy: 100
+      effects: {}
+      extra:
+        - Raises defense
+      order: 65
+    - name: crabhammer
+      index: 152
+      power: 120
+      pp: 10
+      type: water
+      accuracy: 100
+      effects: {}
+      extra:
+        - Has an increased critical hit rate
+      order: 153
+    - name: whirlpool
+      index: 250
+      power: 35
+      pp: 15
+      type: water
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          For 2-5 turns, prevents the opponent from switching and deals 1/16 HP at the end of each turn
+          50% chance to discourage this move if the player is already trapped.  50% chance to greatly encourage this move if player is either badly poisoned, in love, identified, stuck in Rollout, or has a Nightmare. Otherwise 50% chance to increase use on your pokemon's first turn being out.
+      order: 162
+    - name: bubble
+      index: 145
+      power: 20
+      pp: 30
+      type: water
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to lower opponent's speed
+      order: 180
+    - name: bubblebeam
+      index: 61
+      power: 65
+      pp: 20
+      type: water
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to lower opponent's speed
+      order: 193
+    - name: surf
+      index: 57
+      power: 80
+      pp: 15
+      type: water
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 194
+    - name: octazooka
+      index: 190
+      power: 95
+      pp: 10
+      type: water
+      accuracy: 100
+      effects: {}
+      extra:
+        - 50% chance to lower opponent's accuracy
+      order: 220
+    - name: clamp
+      index: 128
+      power: 35
+      pp: 10
+      type: water
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          For 2-5 turns, prevents the opponent from switching and deals 1/16 HP at the end of each turn
+          50% chance to discourage this move if the player is already trapped.  50% chance to greatly encourage this move if player is either badly poisoned, in love, identified, stuck in Rollout, or has a Nightmare. Otherwise 50% chance to increase use on your pokemon's first turn being out.
+      order: 240
+    - name: hp-water
+      index: 0
+      power: 70
+      pp: 15
+      type: water
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 254

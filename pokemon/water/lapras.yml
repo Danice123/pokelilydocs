@@ -1,0 +1,61 @@
+name: lapras
+pokedex: 131
+baseexp: 219
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: water-gun
+    - level: 14
+      move: confuse-ray
+    - level: 22
+      move: aurora-beam
+    - level: 44
+      move: ice-beam
+    - level: 67
+      move: thunderbolt
+    - level: 99
+      move: perish-song
+stats:
+    atk: 85
+    def: 80
+    hp: 130
+    spa: 95
+    spd: 95
+    spe: 60
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - thunder
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - dream-eater
+    - rest
+    - attract
+    - nightmare
+    - surf
+    - strength
+    - whirlpool
+    - waterfall
+    - thunderbolt
+    - ice-beam
+types:
+    - water
+    - ice

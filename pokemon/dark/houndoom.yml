@@ -1,0 +1,60 @@
+name: houndoom
+pokedex: 229
+baseexp: 204
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: flame-wheel
+    - level: 1
+      move: bite
+    - level: 45
+      move: flamethrower
+    - level: 53
+      move: crunch
+    - level: 67
+      move: fire-blast
+    - level: 99
+      move: return
+stats:
+    atk: 90
+    def: 50
+    hp: 75
+    spa: 110
+    spd: 80
+    spe: 95
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - return
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - fire-blast
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - strength
+    - flamethrower
+types:
+    - dark
+    - fire

@@ -1,0 +1,49 @@
+name: bellsprout
+pokedex: 69
+baseexp: 84
+evolutions:
+    - target: weepinbell
+      level: 16
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: acid
+    - level: 8
+      move: razor-leaf
+    - level: 14
+      move: stun-spore
+    - level: 17
+      move: toxic
+stats:
+    atk: 75
+    def: 35
+    hp: 50
+    spa: 70
+    spd: 30
+    spe: 40
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - cut
+    - flash
+types:
+    - grass
+    - poison

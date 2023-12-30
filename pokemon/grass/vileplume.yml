@@ -1,0 +1,46 @@
+name: vileplume
+pokedex: 45
+baseexp: 184
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: giga-drain
+    - level: 47
+      move: sludge-bomb
+    - level: 55
+      move: moonlight
+    - level: 64
+      move: petal-dance
+stats:
+    atk: 80
+    def: 85
+    hp: 75
+    spa: 100
+    spd: 90
+    spe: 50
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - cut
+    - flash
+types:
+    - grass
+    - poison

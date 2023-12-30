@@ -1,0 +1,53 @@
+name: dodrio
+pokedex: 85
+baseexp: 158
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: sharp-beak
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 45
+      move: drill-peck
+    - level: 49
+      move: steel-wing
+    - level: 54
+      move: jump-kick
+    - level: 67
+      move: double-edge
+    - level: 75
+      move: sky-attack
+    - level: 95
+      move: hi-jump-kick
+stats:
+    atk: 110
+    def: 70
+    hp: 60
+    spa: 60
+    spd: 60
+    spe: 100
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - fly
+types:
+    - normal
+    - flying

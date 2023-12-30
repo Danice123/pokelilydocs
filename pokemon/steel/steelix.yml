@@ -1,0 +1,61 @@
+name: steelix
+pokedex: 208
+baseexp: 196
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: metal-coat
+learnset:
+    - level: 1
+      move: swagger
+    - level: 1
+      move: body-slam
+    - level: 1
+      move: rock-slide
+    - level: 56
+      move: iron-tail
+    - level: 67
+      move: earthquake
+    - level: 75
+      move: bide
+    - level: 99
+      move: explosion
+stats:
+    atk: 85
+    def: 200
+    hp: 75
+    spa: 55
+    spd: 65
+    spe: 30
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - defense-curl
+    - rest
+    - attract
+    - cut
+    - strength
+types:
+    - steel
+    - ground

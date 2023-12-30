@@ -1,0 +1,75 @@
+name: granbull
+pokedex: 210
+baseexp: 178
+evolutions: []
+gender: f75
+items: []
+learnset:
+    - level: 1
+      move: metronome
+    - level: 1
+      move: bite
+    - level: 1
+      move: swift
+    - level: 1
+      move: body-slam
+    - level: 23
+      move: attract
+    - level: 27
+      move: crunch
+    - level: 32
+      move: body-slam
+    - level: 38
+      move: shadow-ball
+    - level: 42
+      move: submission
+    - level: 46
+      move: earthquake
+    - level: 50
+      move: return
+    - level: 57
+      move: scary-face
+    - level: 80
+      move: lovely-kiss
+stats:
+    atk: 120
+    def: 75
+    hp: 90
+    spa: 60
+    spd: 60
+    spe: 45
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - defense-curl
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+    - thunderbolt
+types:
+    - normal

@@ -1,0 +1,52 @@
+name: bellossom
+pokedex: 182
+baseexp: 184
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: stun-spore
+    - level: 1
+      move: double-edge
+    - level: 1
+      move: giga-drain
+    - level: 35
+      move: sleep-powder
+    - level: 45
+      move: petal-dance
+    - level: 60
+      move: moonlight
+    - level: 62
+      move: sleep-powder
+    - level: 65
+      move: solarbeam
+stats:
+    atk: 80
+    def: 95
+    hp: 75
+    spa: 90
+    spd: 100
+    spe: 50
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - rest
+    - attract
+    - cut
+    - flash
+types:
+    - grass

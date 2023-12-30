@@ -1,0 +1,51 @@
+name: seaking
+pokedex: 119
+baseexp: 170
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bubblebeam
+    - level: 25
+      move: ice-beam
+    - level: 30
+      move: waterfall
+    - level: 34
+      move: megahorn
+    - level: 38
+      move: haze
+    - level: 41
+      move: hydro-pump
+    - level: 44
+      move: double-edge
+stats:
+    atk: 92
+    def: 65
+    hp: 80
+    spa: 65
+    spd: 80
+    spe: 68
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - attract
+    - surf
+    - waterfall
+    - ice-beam
+types:
+    - water

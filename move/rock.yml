@@ -1,0 +1,65 @@
+moves:
+    - name: hp-rock
+      index: 0
+      power: 70
+      pp: 15
+      type: rock
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 16
+    - name: rollout
+      index: 205
+      power: 30
+      pp: 1
+      type: rock
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Lasts 5 turns, doubling in power each turn
+          Doubles in damage if the user has used Defense Curl
+          80% chance to discourage this move if the enemy is in love, confused, or paralyzed, 80% chance to discourage this move if the enemy's HP is below 25%, 80% chance to greatly encourage this move otherwise
+      order: 114
+    - name: rock-throw
+      index: 88
+      power: 50
+      pp: 15
+      type: rock
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 132
+    - name: sandstorm
+      index: 201
+      power: 0
+      pp: 10
+      type: rock
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Sets up a sandstorm for 5 turns
+          Greatly discouraged if the player is immune to Sandstorm damage, or if player's HP is below 50%, else encourage by 50%
+      order: 171
+    - name: ancientpower
+      index: 246
+      power: 100
+      pp: 8
+      type: rock
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to raise all stats
+      order: 197
+    - name: rock-slide
+      index: 157
+      power: 75
+      pp: 10
+      type: rock
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to flinch opponent
+      order: 199

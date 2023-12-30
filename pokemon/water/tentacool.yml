@@ -1,0 +1,61 @@
+name: tentacool
+pokedex: 72
+baseexp: 105
+evolutions:
+    - target: tentacruel
+      level: 40
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: water-gun
+    - level: 7
+      move: acid
+    - level: 12
+      move: wrap
+    - level: 16
+      move: bubblebeam
+    - level: 21
+      move: aurora-beam
+    - level: 45
+      move: rapid-spin
+    - level: 56
+      move: sludge-bomb
+    - level: 80
+      move: waterfall
+    - level: 99
+      move: toxic
+stats:
+    atk: 40
+    def: 35
+    hp: 40
+    spa: 50
+    spd: 100
+    spe: 70
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - giga-drain
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - cut
+    - surf
+    - whirlpool
+    - ice-beam
+types:
+    - water
+    - poison

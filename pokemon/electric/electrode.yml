@@ -1,0 +1,51 @@
+name: electrode
+pokedex: 101
+baseexp: 150
+evolutions: []
+gender: unknown
+items: []
+learnset:
+    - level: 1
+      move: spark
+    - level: 34
+      move: thunderbolt
+    - level: 40
+      move: reflect
+    - level: 40
+      move: light-screen
+    - level: 50
+      move: screech
+    - level: 77
+      move: explosion
+    - level: 80
+      move: thunder
+stats:
+    atk: 50
+    def: 70
+    hp: 60
+    spa: 80
+    spd: 80
+    spe: 140
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - flash
+    - thunderbolt
+types:
+    - electric

@@ -1,0 +1,96 @@
+moves:
+    - name: mirror-move
+      index: 119
+      power: 0
+      pp: 20
+      type: flying
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 0
+    - name: sky-attack
+      index: 143
+      power: 120
+      pp: 5
+      type: flying
+      accuracy: 100
+      effects:
+        recoil: 0.3333
+      extra:
+        - User takes 33% of damage dealt as recoil
+      order: 11
+    - name: fly
+      index: 19
+      power: 70
+      pp: 15
+      type: flying
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Becomes semi-invulnerable for a turn, then attacks on the next
+          While semi-invulnerable, invulnerable to all moves except Gust, Thunder, Twister, and Whirlwind
+          Gust and Twister will deal double damage
+          Greatly encourage this move if the player is flying or underground, and slower than the enemy.
+      order: 34
+    - name: aeroblast
+      index: 177
+      power: 120
+      pp: 8
+      type: flying
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          20% to either paralyze, freeze, or burn the opponent
+          Has an increased critical hit rate
+      order: 62
+    - name: wing-attack
+      index: 17
+      power: 60
+      pp: 35
+      type: flying
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 73
+    - name: drill-peck
+      index: 65
+      power: 80
+      pp: 20
+      type: flying
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 109
+    - name: hp-flying
+      index: 0
+      power: 70
+      pp: 15
+      type: flying
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 176
+    - name: gust
+      index: 16
+      power: 40
+      pp: 35
+      type: flying
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Hits an deals double damage against opponents in the semi-invulnerable turn of Fly
+          Move is greatly encouraged if the player is flying and the enemy is faster
+      order: 219
+    - name: peck
+      index: 64
+      power: 35
+      pp: 35
+      type: flying
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 259

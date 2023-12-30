@@ -1,0 +1,59 @@
+name: pichu
+pokedex: 172
+baseexp: 42
+evolutions:
+    - target: pikachu
+      level: 15
+      method: level
+      item: ""
+gender: f50
+items:
+    - chance: 0.02
+      item: berry
+learnset:
+    - level: 1
+      move: thundershock
+    - level: 1
+      move: present
+    - level: 6
+      move: thunder-wave
+    - level: 8
+      move: sweet-kiss
+    - level: 13
+      move: spark
+    - level: 25
+      move: thunderbolt
+stats:
+    atk: 40
+    def: 15
+    hp: 20
+    spa: 35
+    spd: 35
+    spe: 60
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - flash
+    - thunderbolt
+types:
+    - electric

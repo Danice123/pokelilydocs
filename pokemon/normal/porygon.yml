@@ -1,0 +1,61 @@
+name: porygon
+pokedex: 137
+baseexp: 130
+evolutions:
+    - target: porygon2
+      level: 40
+      method: level
+      item: ""
+gender: unknown
+items: []
+learnset:
+    - level: 1
+      move: conversion
+    - level: 1
+      move: conversion
+    - level: 1
+      move: recover
+    - level: 1
+      move: tri-attack
+    - level: 12
+      move: psybeam
+    - level: 20
+      move: recover
+stats:
+    atk: 60
+    def: 70
+    hp: 65
+    spa: 85
+    spd: 75
+    spe: 40
+tmhm:
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - swift
+    - dream-eater
+    - rest
+    - thief
+    - nightmare
+    - flash
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

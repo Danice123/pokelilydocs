@@ -1,0 +1,56 @@
+name: mantine
+pokedex: 226
+baseexp: 168
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: aurora-beam
+    - level: 6
+      move: confuse-ray
+    - level: 13
+      move: bubblebeam
+    - level: 20
+      move: toxic
+    - level: 25
+      move: wing-attack
+    - level: 31
+      move: ice-beam
+    - level: 37
+      move: waterfall
+    - level: 49
+      move: confuse-ray
+stats:
+    atk: 40
+    def: 70
+    hp: 85
+    spa: 80
+    spd: 140
+    spe: 70
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - attract
+    - surf
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water
+    - flying

@@ -1,0 +1,52 @@
+name: zubat
+pokedex: 41
+baseexp: 54
+evolutions:
+    - target: golbat
+      level: 22
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: confuse-ray
+    - level: 4
+      move: bite
+    - level: 7
+      move: mega-drain
+    - level: 9
+      move: confuse-ray
+    - level: 12
+      move: wing-attack
+    - level: 15
+      move: sludge
+stats:
+    atk: 45
+    def: 35
+    hp: 40
+    spa: 30
+    spd: 40
+    spe: 55
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+types:
+    - poison
+    - flying

@@ -1,0 +1,65 @@
+name: dragonair
+pokedex: 148
+baseexp: 144
+evolutions:
+    - target: dragonite
+      level: 55
+      method: level
+      item: ""
+gender: f50
+items:
+    - chance: 0.02
+      item: dragon-scale
+learnset:
+    - level: 1
+      move: dragon-rage
+    - level: 30
+      move: thunder-wave
+    - level: 36
+      move: bubblebeam
+    - level: 39
+      move: wrap
+    - level: 42
+      move: body-slam
+    - level: 47
+      move: aurora-beam
+    - level: 51
+      move: safeguard
+stats:
+    atk: 84
+    def: 65
+    hp: 61
+    spa: 70
+    spd: 70
+    spe: 70
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - detect
+    - rest
+    - attract
+    - surf
+    - waterfall
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - dragon

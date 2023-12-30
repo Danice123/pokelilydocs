@@ -1,0 +1,60 @@
+name: squirtle
+pokedex: 7
+baseexp: 66
+evolutions:
+    - target: wartortle
+      level: 16
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 4
+      move: water-gun
+    - level: 7
+      move: bite
+    - level: 12
+      move: slam
+    - level: 16
+      move: seismic-toss
+stats:
+    atk: 48
+    def: 65
+    hp: 44
+    spa: 50
+    spd: 64
+    spe: 43
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - rest
+    - attract
+    - surf
+    - strength
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water

@@ -1,0 +1,65 @@
+name: meowth
+pokedex: 52
+baseexp: 69
+evolutions:
+    - target: persian
+      level: 25
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: pay-day
+    - level: 7
+      move: faint-attack
+    - level: 12
+      move: bite
+    - level: 19
+      move: slash
+    - level: 29
+      move: double-edge
+    - level: 32
+      move: bubblebeam
+    - level: 34
+      move: shadow-ball
+    - level: 41
+      move: thunder
+stats:
+    atk: 45
+    def: 35
+    hp: 40
+    spa: 40
+    spd: 40
+    spe: 90
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - icy-wind
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - thunderbolt
+types:
+    - normal

@@ -1,0 +1,69 @@
+name: drowzee
+pokedex: 96
+baseexp: 102
+evolutions:
+    - target: hypno
+      level: 26
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: pound
+    - level: 9
+      move: confusion
+    - level: 15
+      move: seismic-toss
+    - level: 21
+      move: headbutt
+    - level: 26
+      move: psybeam
+    - level: 31
+      move: shadow-ball
+    - level: 37
+      move: submission
+    - level: 42
+      move: thunder-wave
+    - level: 46
+      move: psychic
+    - level: 50
+      move: disable
+    - level: 65
+      move: reflect
+stats:
+    atk: 48
+    def: 45
+    hp: 60
+    spa: 43
+    spd: 90
+    spe: 42
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - psychic
+    - shadow-ball
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - thunderpunch
+    - dream-eater
+    - rest
+    - attract
+    - fire-punch
+    - nightmare
+    - flash
+types:
+    - psychic

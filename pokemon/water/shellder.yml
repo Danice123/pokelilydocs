@@ -1,0 +1,56 @@
+name: shellder
+pokedex: 90
+baseexp: 97
+evolutions:
+    - target: cloyster
+      level: 0
+      method: item
+      item: water-stone
+gender: f50
+items:
+    - chance: 0.23
+      item: pearl
+learnset:
+    - level: 1
+      move: water-gun
+    - level: 9
+      move: clamp
+    - level: 14
+      move: aurora-beam
+    - level: 18
+      move: spike-cannon
+    - level: 23
+      move: bubblebeam
+    - level: 35
+      move: waterfall
+    - level: 50
+      move: ice-beam
+stats:
+    atk: 65
+    def: 100
+    hp: 30
+    spa: 45
+    spd: 25
+    spe: 40
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - attract
+    - surf
+    - whirlpool
+    - ice-beam
+types:
+    - water

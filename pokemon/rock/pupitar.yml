@@ -1,0 +1,55 @@
+name: pupitar
+pokedex: 247
+baseexp: 144
+evolutions:
+    - target: tyranitar
+      level: 65
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: rock-throw
+    - level: 47
+      move: bite
+    - level: 54
+      move: scary-face
+    - level: 65
+      move: hyper-beam
+    - level: 80
+      move: crunch
+    - level: 90
+      move: rock-slide
+stats:
+    atk: 84
+    def: 70
+    hp: 70
+    spa: 65
+    spd: 70
+    spe: 51
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - detect
+    - rest
+    - attract
+types:
+    - rock
+    - ground

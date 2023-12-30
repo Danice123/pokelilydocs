@@ -1,0 +1,51 @@
+name: kabutops
+pokedex: 141
+baseexp: 201
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: bubblebeam
+    - level: 46
+      move: earthquake
+    - level: 66
+      move: ancientpower
+stats:
+    atk: 115
+    def: 105
+    hp: 60
+    spa: 65
+    spd: 70
+    spe: 80
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - giga-drain
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - rest
+    - attract
+    - thief
+    - fury-cutter
+    - cut
+    - surf
+    - whirlpool
+    - ice-beam
+types:
+    - rock
+    - water

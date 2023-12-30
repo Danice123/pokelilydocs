@@ -1,0 +1,59 @@
+name: kabuto
+pokedex: 140
+baseexp: 119
+evolutions:
+    - target: kabutops
+      level: 40
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: rock-throw
+    - level: 7
+      move: bubblebeam
+    - level: 14
+      move: slash
+    - level: 19
+      move: submission
+    - level: 24
+      move: rock-slide
+    - level: 33
+      move: hydro-pump
+    - level: 39
+      move: double-edge
+    - level: 66
+      move: ancientpower
+stats:
+    atk: 80
+    def: 90
+    hp: 30
+    spa: 55
+    spd: 45
+    spe: 55
+tmhm:
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - giga-drain
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - rest
+    - attract
+    - thief
+    - ice-beam
+types:
+    - rock
+    - water

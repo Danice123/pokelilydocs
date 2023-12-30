@@ -1,0 +1,52 @@
+name: doduo
+pokedex: 84
+baseexp: 96
+evolutions:
+    - target: dodrio
+      level: 37
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 5
+      move: peck
+    - level: 14
+      move: swift
+    - level: 18
+      move: double-kick
+    - level: 25
+      move: wing-attack
+    - level: 34
+      move: tri-attack
+stats:
+    atk: 85
+    def: 45
+    hp: 35
+    spa: 35
+    spd: 35
+    spe: 75
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - fly
+types:
+    - normal
+    - flying

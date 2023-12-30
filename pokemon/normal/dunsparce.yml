@@ -1,0 +1,72 @@
+name: dunsparce
+pokedex: 206
+baseexp: 75
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bite
+    - level: 4
+      move: defense-curl
+    - level: 7
+      move: haze
+    - level: 12
+      move: rollout
+    - level: 15
+      move: headbutt
+    - level: 18
+      move: rage
+    - level: 21
+      move: glare
+    - level: 24
+      move: rock-slide
+    - level: 28
+      move: body-slam
+    - level: 32
+      move: earthquake
+    - level: 35
+      move: double-edge
+    - level: 43
+      move: rapid-spin
+stats:
+    atk: 75
+    def: 75
+    hp: 100
+    spa: 75
+    spd: 75
+    spe: 45
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - thunder
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - strength
+    - flamethrower
+    - thunderbolt
+types:
+    - normal

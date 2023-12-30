@@ -1,0 +1,56 @@
+name: meganium
+pokedex: 154
+baseexp: 208
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: giga-drain
+    - level: 1
+      move: synthesis
+    - level: 41
+      move: light-screen
+    - level: 49
+      move: reflect
+    - level: 58
+      move: petal-dance
+    - level: 77
+      move: earthquake
+stats:
+    atk: 82
+    def: 100
+    hp: 80
+    spa: 83
+    spd: 100
+    spe: 80
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - earthquake
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - detect
+    - rest
+    - attract
+    - fury-cutter
+    - cut
+    - strength
+    - flash
+types:
+    - grass

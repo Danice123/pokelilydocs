@@ -1,0 +1,74 @@
+name: marill
+pokedex: 183
+baseexp: 58
+evolutions:
+    - target: azumarill
+      level: 18
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bubblebeam
+    - level: 1
+      move: ice-beam
+    - level: 6
+      move: charm
+    - level: 10
+      move: seismic-toss
+    - level: 13
+      move: rollout
+    - level: 16
+      move: headbutt
+    - level: 19
+      move: ice-beam
+    - level: 23
+      move: attract
+    - level: 25
+      move: headbutt
+    - level: 29
+      move: waterfall
+    - level: 33
+      move: submission
+    - level: 37
+      move: double-edge
+    - level: 42
+      move: hydro-pump
+stats:
+    atk: 20
+    def: 50
+    hp: 70
+    spa: 20
+    spd: 50
+    spe: 40
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - rest
+    - attract
+    - surf
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water

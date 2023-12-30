@@ -1,0 +1,58 @@
+name: jynx
+pokedex: 124
+baseexp: 137
+evolutions: []
+gender: f100
+items:
+    - chance: 0.25
+      item: ice-berry
+learnset:
+    - level: 1
+      move: icy-wind
+    - level: 18
+      move: lovely-kiss
+    - level: 35
+      move: seismic-toss
+    - level: 44
+      move: ice-beam
+    - level: 55
+      move: psychic
+stats:
+    atk: 50
+    def: 35
+    hp: 65
+    spa: 115
+    spd: 95
+    spe: 95
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - psych-up
+    - hidden-power
+    - sweet-scent
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - ice-beam
+types:
+    - ice
+    - psychic

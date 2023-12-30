@@ -1,0 +1,56 @@
+name: hitmontop
+pokedex: 237
+baseexp: 138
+evolutions: []
+gender: f0
+items: []
+learnset:
+    - level: 1
+      move: karate-chop
+    - level: 25
+      move: double-kick
+    - level: 31
+      move: detect
+    - level: 37
+      move: submission
+    - level: 45
+      move: rapid-spin
+    - level: 53
+      move: rock-slide
+    - level: 58
+      move: earthquake
+    - level: 66
+      move: counter
+    - level: 74
+      move: hi-jump-kick
+stats:
+    atk: 95
+    def: 95
+    hp: 50
+    spa: 35
+    spd: 110
+    spe: 70
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - strength
+types:
+    - fighting

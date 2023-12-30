@@ -1,0 +1,61 @@
+name: venusaur
+pokedex: 3
+baseexp: 208
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: sleep-powder
+    - level: 36
+      move: giga-drain
+    - level: 41
+      move: sludge-bomb
+    - level: 45
+      move: giga-drain
+    - level: 49
+      move: petal-dance
+    - level: 55
+      move: synthesis
+    - level: 62
+      move: toxic
+    - level: 68
+      move: ancientpower
+    - level: 100
+      move: leech-seed
+stats:
+    atk: 82
+    def: 83
+    hp: 80
+    spa: 100
+    spd: 100
+    spe: 80
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - sludge-bomb
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - rest
+    - attract
+    - fury-cutter
+    - cut
+    - flash
+types:
+    - grass
+    - poison

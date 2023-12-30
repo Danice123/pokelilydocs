@@ -1,0 +1,86 @@
+name: clefairy
+pokedex: 35
+baseexp: 68
+evolutions:
+    - target: clefable
+      level: 0
+      method: item
+      item: moon-stone
+gender: f75
+items:
+    - chance: 0.23
+      item: mysteryberry
+learnset:
+    - level: 1
+      move: pound
+    - level: 4
+      move: sing
+    - level: 8
+      move: metronome
+    - level: 13
+      move: attract
+    - level: 16
+      move: swift
+    - level: 21
+      move: seismic-toss
+    - level: 27
+      move: encore
+    - level: 32
+      move: light-screen
+    - level: 36
+      move: tri-attack
+    - level: 41
+      move: moonlight
+    - level: 56
+      move: double-edge
+    - level: 62
+      move: lovely-kiss
+stats:
+    atk: 45
+    def: 48
+    hp: 70
+    spa: 60
+    spd: 65
+    spe: 35
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - thunder
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - defense-curl
+    - thunderpunch
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - fire-punch
+    - nightmare
+    - strength
+    - flash
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

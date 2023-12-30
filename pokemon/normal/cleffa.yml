@@ -1,0 +1,64 @@
+name: cleffa
+pokedex: 173
+baseexp: 37
+evolutions:
+    - target: clefairy
+      level: 15
+      method: level
+      item: ""
+gender: f75
+items:
+    - chance: 0.23
+      item: mysteryberry
+learnset:
+    - level: 1
+      move: present
+    - level: 1
+      move: metronome
+    - level: 1
+      move: sweet-kiss
+    - level: 8
+      move: dizzy-punch
+    - level: 25
+      move: sing
+stats:
+    atk: 25
+    def: 28
+    hp: 50
+    spa: 45
+    spd: 55
+    spe: 15
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - defense-curl
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - nightmare
+    - flash
+    - flamethrower
+types:
+    - normal

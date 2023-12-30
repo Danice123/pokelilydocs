@@ -1,0 +1,70 @@
+name: teddiursa
+pokedex: 216
+baseexp: 124
+evolutions:
+    - target: ursaring
+      level: 30
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: scratch
+    - level: 9
+      move: lick
+    - level: 15
+      move: seismic-toss
+    - level: 21
+      move: slash
+    - level: 35
+      move: metal-claw
+    - level: 39
+      move: body-slam
+    - level: 44
+      move: earthquake
+    - level: 47
+      move: submission
+    - level: 54
+      move: double-edge
+stats:
+    atk: 80
+    def: 50
+    hp: 60
+    spa: 50
+    spd: 50
+    spe: 40
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - thunderpunch
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - fury-cutter
+    - cut
+    - strength
+types:
+    - normal

@@ -1,0 +1,72 @@
+name: houndour
+pokedex: 228
+baseexp: 114
+evolutions:
+    - target: houndoom
+      level: 30
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: smog
+    - level: 7
+      move: ember
+    - level: 13
+      move: pursuit
+    - level: 17
+      move: bite
+    - level: 25
+      move: flame-wheel
+    - level: 29
+      move: roar
+    - level: 33
+      move: quick-attack
+    - level: 42
+      move: flamethrower
+    - level: 53
+      move: crunch
+    - level: 67
+      move: fire-blast
+    - level: 99
+      move: return
+stats:
+    atk: 60
+    def: 30
+    hp: 45
+    spa: 80
+    spd: 50
+    spe: 65
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - return
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - fire-blast
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - flamethrower
+types:
+    - dark
+    - fire

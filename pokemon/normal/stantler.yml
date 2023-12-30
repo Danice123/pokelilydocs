@@ -1,0 +1,63 @@
+name: stantler
+pokedex: 234
+baseexp: 165
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: confuse-ray
+    - level: 7
+      move: tackle
+    - level: 10
+      move: take-down
+    - level: 16
+      move: headbutt
+    - level: 20
+      move: reflect
+    - level: 27
+      move: jump-kick
+    - level: 35
+      move: earthquake
+    - level: 40
+      move: return
+    - level: 45
+      move: hi-jump-kick
+    - level: 49
+      move: double-edge
+stats:
+    atk: 95
+    def: 75
+    hp: 75
+    spa: 85
+    spd: 75
+    spe: 85
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - psychic
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - flash
+types:
+    - normal

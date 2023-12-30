@@ -1,0 +1,54 @@
+name: seadra
+pokedex: 117
+baseexp: 155
+evolutions:
+    - target: kingdra
+      level: 50
+      method: level
+      item: ""
+gender: f50
+items:
+    - chance: 0.02
+      item: dragon-scale
+learnset:
+    - level: 1
+      move: waterfall
+    - level: 35
+      move: dragon-rage
+    - level: 40
+      move: dragonbreath
+    - level: 47
+      move: ice-beam
+stats:
+    atk: 65
+    def: 95
+    hp: 55
+    spa: 95
+    spd: 45
+    spe: 85
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - dragonbreath
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - attract
+    - surf
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water

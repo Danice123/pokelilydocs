@@ -1,0 +1,52 @@
+name: arbok
+pokedex: 24
+baseexp: 147
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: acid
+    - level: 22
+      move: sludge
+    - level: 25
+      move: bite
+    - level: 30
+      move: sludge-bomb
+    - level: 36
+      move: giga-drain
+    - level: 41
+      move: crunch
+    - level: 47
+      move: earthquake
+stats:
+    atk: 95
+    def: 69
+    hp: 60
+    spa: 65
+    spd: 79
+    spe: 80
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - thief
+    - strength
+types:
+    - poison

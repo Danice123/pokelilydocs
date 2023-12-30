@@ -1,0 +1,37 @@
+name: smeargle
+pokedex: 235
+baseexp: 106
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: sketch
+    - level: 11
+      move: sketch
+    - level: 21
+      move: sketch
+    - level: 31
+      move: sketch
+    - level: 41
+      move: sketch
+    - level: 51
+      move: sketch
+    - level: 61
+      move: sketch
+    - level: 71
+      move: sketch
+    - level: 81
+      move: sketch
+    - level: 91
+      move: sketch
+stats:
+    atk: 50
+    def: 55
+    hp: 55
+    spa: 50
+    spd: 55
+    spe: 75
+tmhm: []
+types:
+    - normal

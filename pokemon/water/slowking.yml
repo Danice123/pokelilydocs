@@ -1,0 +1,70 @@
+name: slowking
+pokedex: 199
+baseexp: 164
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: kings-rock
+learnset:
+    - level: 1
+      move: psychic
+    - level: 45
+      move: waterfall
+    - level: 51
+      move: ice-beam
+    - level: 55
+      move: psychic
+    - level: 68
+      move: earthquake
+stats:
+    atk: 75
+    def: 80
+    hp: 95
+    spa: 100
+    spd: 110
+    spe: 30
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - dream-eater
+    - rest
+    - attract
+    - fury-cutter
+    - nightmare
+    - surf
+    - strength
+    - flash
+    - whirlpool
+    - flamethrower
+    - ice-beam
+types:
+    - water
+    - psychic

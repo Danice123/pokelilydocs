@@ -1,0 +1,60 @@
+name: umbreon
+pokedex: 197
+baseexp: 197
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: confuse-ray
+    - level: 20
+      move: body-slam
+    - level: 35
+      move: bite
+    - level: 39
+      move: confuse-ray
+    - level: 44
+      move: crunch
+    - level: 55
+      move: shadow-ball
+    - level: 78
+      move: mean-look
+    - level: 85
+      move: moonlight
+stats:
+    atk: 65
+    def: 110
+    hp: 95
+    spa: 60
+    spd: 130
+    spe: 65
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - nightmare
+    - cut
+    - flash
+types:
+    - dark

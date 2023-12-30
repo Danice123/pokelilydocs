@@ -1,0 +1,59 @@
+name: remoraid
+pokedex: 223
+baseexp: 78
+evolutions:
+    - target: octillery
+      level: 25
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: water-gun
+    - level: 7
+      move: psybeam
+    - level: 13
+      move: aurora-beam
+    - level: 17
+      move: bubblebeam
+    - level: 25
+      move: flamethrower
+    - level: 37
+      move: ice-beam
+    - level: 55
+      move: hyper-beam
+    - level: 60
+      move: octazooka
+stats:
+    atk: 65
+    def: 35
+    hp: 35
+    spa: 65
+    spd: 35
+    spe: 65
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - rest
+    - attract
+    - thief
+    - surf
+    - whirlpool
+    - flamethrower
+    - ice-beam
+types:
+    - water

@@ -1,0 +1,56 @@
+name: venomoth
+pokedex: 49
+baseexp: 138
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: confusion
+    - level: 31
+      move: giga-drain
+    - level: 34
+      move: sludge-bomb
+    - level: 38
+      move: psychic
+    - level: 54
+      move: sleep-powder
+    - level: 70
+      move: toxic
+    - level: 80
+      move: giga-drain
+    - level: 85
+      move: sludge-bomb
+stats:
+    atk: 65
+    def: 60
+    hp: 70
+    spa: 90
+    spd: 75
+    spe: 90
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - swift
+    - rest
+    - attract
+    - thief
+    - flash
+types:
+    - bug
+    - poison

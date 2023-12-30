@@ -1,0 +1,60 @@
+name: typhlosion
+pokedex: 157
+baseexp: 209
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: flame-wheel
+    - level: 37
+      move: submission
+    - level: 43
+      move: flamethrower
+    - level: 50
+      move: earthquake
+    - level: 57
+      move: fire-blast
+stats:
+    atk: 84
+    def: 78
+    hp: 78
+    spa: 109
+    spd: 85
+    spe: 100
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - defense-curl
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - fire-punch
+    - fury-cutter
+    - cut
+    - strength
+    - flamethrower
+types:
+    - fire

@@ -1,0 +1,48 @@
+name: sunkern
+pokedex: 191
+baseexp: 52
+evolutions:
+    - target: sunflora
+      level: 16
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: mega-drain
+    - level: 4
+      move: stun-spore
+    - level: 9
+      move: hidden-power
+    - level: 13
+      move: razor-leaf
+stats:
+    atk: 30
+    def: 30
+    hp: 30
+    spa: 30
+    spd: 30
+    spe: 30
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - cut
+    - flash
+types:
+    - grass

@@ -1,0 +1,63 @@
+name: poliwrath
+pokedex: 62
+baseexp: 185
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: kings-rock
+learnset:
+    - level: 1
+      move: hypnosis
+    - level: 40
+      move: submission
+    - level: 45
+      move: ice-beam
+    - level: 50
+      move: hydro-pump
+    - level: 65
+      move: cross-chop
+    - level: 76
+      move: lovely-kiss
+stats:
+    atk: 85
+    def: 95
+    hp: 90
+    spa: 70
+    spd: 90
+    spe: 70
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - psychic
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - thief
+    - surf
+    - strength
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water
+    - fighting

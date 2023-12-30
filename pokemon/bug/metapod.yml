@@ -1,0 +1,25 @@
+name: metapod
+pokedex: 11
+baseexp: 72
+evolutions:
+    - target: butterfree
+      level: 10
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 7
+      move: harden
+stats:
+    atk: 20
+    def: 55
+    hp: 50
+    spa: 25
+    spd: 25
+    spe: 30
+tmhm: []
+types:
+    - bug

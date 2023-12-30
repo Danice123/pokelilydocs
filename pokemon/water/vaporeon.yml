@@ -1,0 +1,69 @@
+name: vaporeon
+pokedex: 134
+baseexp: 196
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 15
+      move: water-gun
+    - level: 23
+      move: bubblebeam
+    - level: 28
+      move: aurora-beam
+    - level: 34
+      move: waterfall
+    - level: 43
+      move: ice-beam
+    - level: 53
+      move: ice-beam
+    - level: 57
+      move: haze
+    - level: 58
+      move: ice-beam
+    - level: 73
+      move: recover
+    - level: 80
+      move: growth
+    - level: 100
+      move: baton-pass
+stats:
+    atk: 65
+    def: 60
+    hp: 130
+    spa: 110
+    spd: 95
+    spe: 65
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - surf
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water

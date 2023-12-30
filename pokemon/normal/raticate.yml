@@ -1,0 +1,62 @@
+name: raticate
+pokedex: 20
+baseexp: 116
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: hyper-fang
+    - level: 22
+      move: body-slam
+    - level: 26
+      move: crunch
+    - level: 31
+      move: super-fang
+    - level: 37
+      move: shadow-ball
+    - level: 43
+      move: scary-face
+    - level: 59
+      move: skull-bash
+stats:
+    atk: 81
+    def: 60
+    hp: 55
+    spa: 50
+    spd: 70
+    spe: 97
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - dig
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - rest
+    - attract
+    - thief
+    - cut
+    - strength
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

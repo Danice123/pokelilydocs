@@ -1,0 +1,61 @@
+name: paras
+pokedex: 46
+baseexp: 70
+evolutions:
+    - target: parasect
+      level: 24
+      method: level
+      item: ""
+gender: f50
+items:
+    - chance: 0.23
+      item: tinymushroom
+learnset:
+    - level: 1
+      move: scratch
+    - level: 4
+      move: stun-spore
+    - level: 7
+      move: mega-drain
+    - level: 10
+      move: toxic
+    - level: 14
+      move: body-slam
+    - level: 18
+      move: giga-drain
+    - level: 25
+      move: spore
+stats:
+    atk: 70
+    def: 55
+    hp: 35
+    spa: 45
+    spd: 55
+    spe: 25
+tmhm:
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - dig
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - thief
+    - fury-cutter
+    - cut
+    - flash
+types:
+    - bug
+    - grass

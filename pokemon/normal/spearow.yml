@@ -1,0 +1,49 @@
+name: spearow
+pokedex: 21
+baseexp: 58
+evolutions:
+    - target: fearow
+      level: 20
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 7
+      move: peck
+    - level: 12
+      move: mud-slap
+    - level: 15
+      move: swift
+stats:
+    atk: 60
+    def: 30
+    hp: 40
+    spa: 31
+    spd: 31
+    spe: 70
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - fly
+types:
+    - normal
+    - flying

@@ -1,0 +1,76 @@
+name: wigglytuff
+pokedex: 40
+baseexp: 109
+evolutions: []
+gender: f75
+items: []
+learnset:
+    - level: 1
+      move: dizzy-punch
+    - level: 29
+      move: thunder-wave
+    - level: 33
+      move: body-slam
+    - level: 35
+      move: double-edge
+    - level: 39
+      move: hyper-beam
+    - level: 45
+      move: explosion
+    - level: 49
+      move: thunder-wave
+    - level: 53
+      move: body-slam
+    - level: 57
+      move: double-edge
+    - level: 60
+      move: hyper-beam
+stats:
+    atk: 80
+    def: 45
+    hp: 140
+    spa: 85
+    spd: 50
+    spe: 45
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - thunder
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - defense-curl
+    - thunderpunch
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - fire-punch
+    - nightmare
+    - strength
+    - flash
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

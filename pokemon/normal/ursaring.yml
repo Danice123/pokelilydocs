@@ -1,0 +1,63 @@
+name: ursaring
+pokedex: 217
+baseexp: 189
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: slash
+    - level: 1
+      move: seismic-toss
+    - level: 35
+      move: metal-claw
+    - level: 39
+      move: body-slam
+    - level: 44
+      move: earthquake
+    - level: 47
+      move: submission
+    - level: 54
+      move: double-edge
+stats:
+    atk: 130
+    def: 75
+    hp: 90
+    spa: 75
+    spd: 75
+    spe: 55
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - thunderpunch
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - fury-cutter
+    - cut
+    - strength
+types:
+    - normal

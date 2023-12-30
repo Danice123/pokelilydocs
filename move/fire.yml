@@ -1,0 +1,100 @@
+moves:
+    - name: sunny-day
+      index: 241
+      power: 0
+      pp: 5
+      type: fire
+      accuracy: 90
+      effects: {}
+      extra:
+        - |-
+          Sets up harsh sunlight for 5 turns
+          Greatly discourage this move if it would favour the player type-wise, particularly, if the player is a Fire-type
+      order: 21
+    - name: ember
+      index: 52
+      power: 40
+      pp: 25
+      type: fire
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to burn opponent
+      order: 80
+    - name: sacred-fire
+      index: 221
+      power: 120
+      pp: 10
+      type: fire
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          50% chance to burn opponent
+          Will instantly thaw the user
+      order: 116
+    - name: fire-punch
+      index: 7
+      power: 75
+      pp: 15
+      type: fire
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to burn opponent
+      order: 130
+    - name: fire-blast
+      index: 126
+      power: 120
+      pp: 8
+      type: fire
+      accuracy: 85
+      effects: {}
+      extra:
+        - 10% chance to burn opponent
+      order: 138
+    - name: flamethrower
+      index: 53
+      power: 95
+      pp: 15
+      type: fire
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to burn opponent
+      order: 164
+    - name: fire-spin
+      index: 83
+      power: 15
+      pp: 15
+      type: fire
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          For 2-5 turns, prevents the opponent from switching and deals 1/16 HP at the end of each turn
+          50% chance to discourage this move if the player is already trapped.  50% chance to greatly encourage this move if player is either badly poisoned, in love, identified, stuck in Rollout, or has a Nightmare. Otherwise 50% chance to increase use on your pokemon's first turn being out.
+      order: 178
+    - name: flame-wheel
+      index: 172
+      power: 60
+      pp: 25
+      type: fire
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          10% chance to burn opponent
+          Will instantly thaw the user
+          move is guaranteed if the enemy is frozen
+      order: 202
+    - name: hp-fire
+      index: 0
+      power: 70
+      pp: 15
+      type: fire
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 224

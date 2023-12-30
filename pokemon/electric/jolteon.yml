@@ -1,0 +1,61 @@
+name: jolteon
+pokedex: 135
+baseexp: 197
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 15
+      move: thundershock
+    - level: 19
+      move: bite
+    - level: 24
+      move: spark
+    - level: 29
+      move: bite
+    - level: 37
+      move: thunder-wave
+    - level: 44
+      move: thunderbolt
+    - level: 52
+      move: hidden-power
+    - level: 99
+      move: sing
+stats:
+    atk: 65
+    def: 60
+    hp: 65
+    spa: 110
+    spd: 95
+    spe: 130
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - flash
+    - thunderbolt
+types:
+    - electric

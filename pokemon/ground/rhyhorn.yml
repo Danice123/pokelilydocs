@@ -1,0 +1,71 @@
+name: rhyhorn
+pokedex: 111
+baseexp: 135
+evolutions:
+    - target: rhydon
+      level: 42
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: horn-attack
+    - level: 13
+      move: rock-throw
+    - level: 18
+      move: magnitude
+    - level: 27
+      move: body-slam
+    - level: 34
+      move: rock-slide
+    - level: 42
+      move: earthquake
+    - level: 47
+      move: double-edge
+    - level: 56
+      move: megahorn
+    - level: 74
+      move: ancientpower
+stats:
+    atk: 85
+    def: 95
+    hp: 80
+    spa: 30
+    spd: 30
+    spe: 25
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - rest
+    - attract
+    - strength
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - ground
+    - rock

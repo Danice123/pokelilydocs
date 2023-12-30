@@ -1,0 +1,58 @@
+name: ledian
+pokedex: 166
+baseexp: 134
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: psybeam
+    - level: 17
+      move: thunderpunch
+    - level: 21
+      move: ice-punch
+    - level: 22
+      move: psychic
+    - level: 25
+      move: reflect
+    - level: 28
+      move: light-screen
+    - level: 45
+      move: encore
+stats:
+    atk: 35
+    def: 50
+    hp: 55
+    spa: 55
+    spd: 110
+    spe: 85
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - dig
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - thunderpunch
+    - rest
+    - attract
+    - thief
+    - flash
+types:
+    - bug
+    - flying

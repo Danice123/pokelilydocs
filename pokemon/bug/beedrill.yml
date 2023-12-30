@@ -1,0 +1,60 @@
+name: beedrill
+pokedex: 15
+baseexp: 159
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: poison-barb
+learnset:
+    - level: 10
+      move: twineedle
+    - level: 13
+      move: acid
+    - level: 16
+      move: rage
+    - level: 18
+      move: giga-drain
+    - level: 20
+      move: sludge
+    - level: 23
+      move: return
+    - level: 25
+      move: twineedle
+    - level: 28
+      move: sludge-bomb
+    - level: 33
+      move: toxic
+    - level: 38
+      move: megahorn
+stats:
+    atk: 90
+    def: 40
+    hp: 65
+    spa: 45
+    spd: 80
+    spe: 75
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - swift
+    - rest
+    - attract
+    - fury-cutter
+    - cut
+types:
+    - bug
+    - poison

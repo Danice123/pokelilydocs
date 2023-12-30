@@ -1,0 +1,63 @@
+name: togetic
+pokedex: 176
+baseexp: 114
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: metronome
+    - level: 1
+      move: softboiled
+    - level: 18
+      move: thunder-wave
+    - level: 21
+      move: psychic
+    - level: 24
+      move: softboiled
+    - level: 30
+      move: encore
+stats:
+    atk: 40
+    def: 85
+    hp: 55
+    spa: 80
+    spd: 105
+    spe: 40
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - defense-curl
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - steel-wing
+    - fly
+    - flash
+    - flamethrower
+types:
+    - normal
+    - flying

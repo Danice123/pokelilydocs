@@ -1,0 +1,55 @@
+name: totodile
+pokedex: 158
+baseexp: 66
+evolutions:
+    - target: croconaw
+      level: 16
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: scratch
+    - level: 8
+      move: water-gun
+    - level: 12
+      move: swift
+    - level: 15
+      move: rage
+stats:
+    atk: 65
+    def: 64
+    hp: 50
+    spa: 44
+    spd: 48
+    spe: 43
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - detect
+    - rest
+    - attract
+    - cut
+    - surf
+    - whirlpool
+    - ice-beam
+types:
+    - water

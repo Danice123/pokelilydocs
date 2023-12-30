@@ -1,0 +1,63 @@
+name: phanpy
+pokedex: 231
+baseexp: 124
+evolutions:
+    - target: donphan
+      level: 25
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 4
+      move: flail
+    - level: 7
+      move: rock-throw
+    - level: 11
+      move: headbutt
+    - level: 16
+      move: rollout
+    - level: 17
+      move: magnitude
+    - level: 25
+      move: double-edge
+    - level: 33
+      move: rock-slide
+    - level: 44
+      move: rapid-spin
+    - level: 53
+      move: earthquake
+stats:
+    atk: 60
+    def: 60
+    hp: 90
+    spa: 40
+    spd: 40
+    spe: 40
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - defense-curl
+    - rest
+    - attract
+    - strength
+types:
+    - ground

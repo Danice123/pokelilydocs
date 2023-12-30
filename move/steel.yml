@@ -1,0 +1,41 @@
+moves:
+    - name: iron-tail
+      index: 231
+      power: 100
+      pp: 15
+      type: steel
+      accuracy: 90
+      effects: {}
+      extra:
+        - 30% chance to lower opponent's defense
+      order: 128
+    - name: hp-steel
+      index: 0
+      power: 70
+      pp: 15
+      type: steel
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 236
+    - name: steel-wing
+      index: 211
+      power: 80
+      pp: 25
+      type: steel
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to raise defense
+      order: 247
+    - name: metal-claw
+      index: 232
+      power: 100
+      pp: 10
+      type: steel
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to raise attack
+      order: 263

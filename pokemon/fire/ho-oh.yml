@@ -1,0 +1,66 @@
+name: ho-oh
+pokedex: 250
+baseexp: 220
+evolutions: []
+gender: unknown
+items:
+    - chance: 0.25
+      item: sacred-ash
+learnset:
+    - level: 1
+      move: whirlwind
+    - level: 1
+      move: roar
+    - level: 22
+      move: recover
+    - level: 99
+      move: sacred-fire
+stats:
+    atk: 130
+    def: 90
+    hp: 106
+    spa: 110
+    spd: 154
+    spe: 90
+tmhm:
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - dragonbreath
+    - thunder
+    - earthquake
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - steel-wing
+    - nightmare
+    - fly
+    - strength
+    - flash
+    - flamethrower
+    - thunderbolt
+types:
+    - fire
+    - flying

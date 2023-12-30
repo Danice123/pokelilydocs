@@ -1,0 +1,53 @@
+name: ekans
+pokedex: 23
+baseexp: 62
+evolutions:
+    - target: arbok
+      level: 22
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: glare
+    - level: 4
+      move: acid
+    - level: 9
+      move: mega-drain
+    - level: 13
+      move: wrap
+    - level: 16
+      move: slam
+    - level: 19
+      move: pursuit
+stats:
+    atk: 60
+    def: 44
+    hp: 35
+    spa: 40
+    spd: 54
+    spe: 55
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - thief
+    - strength
+types:
+    - poison

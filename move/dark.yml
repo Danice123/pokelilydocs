@@ -1,0 +1,75 @@
+moves:
+    - name: faint-attack
+      index: 185
+      power: 60
+      pp: 20
+      type: dark
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Always hits
+          80% chance to greatly encourage this move if either enemy's accuracy level has been lowered three or more stages or player's evasion level has been raised three or more stages
+      order: 1
+    - name: pursuit
+      index: 228
+      power: 40
+      pp: 20
+      type: dark
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          If the target attempts to switch out, doubles in power and hits first
+          50% chance to greatly encourage this move if player's HP is below 25%, 80% chance to discourage this move otherwise
+      order: 3
+    - name: thief
+      index: 168
+      power: 40
+      pp: 10
+      type: dark
+      accuracy: 100
+      effects: {}
+      extra:
+        - If no item is held, steals the opponent's
+      order: 39
+    - name: beat-up
+      index: 251
+      power: 15
+      pp: 10
+      type: dark
+      accuracy: 100
+      effects: {}
+      extra:
+        - Performs an attack with 10 BP for ever party member with HP and without a status
+      order: 52
+    - name: bite
+      index: 44
+      power: 60
+      pp: 25
+      type: dark
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to flinch opponent
+      order: 64
+    - name: crunch
+      index: 242
+      power: 80
+      pp: 15
+      type: dark
+      accuracy: 100
+      effects: {}
+      extra:
+        - 20% chance to lower opponent's special defense
+      order: 159
+    - name: hp-dark
+      index: 0
+      power: 70
+      pp: 15
+      type: dark
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 232

@@ -1,0 +1,52 @@
+name: nidoran-f
+pokedex: 29
+baseexp: 59
+evolutions:
+    - target: nidorina
+      level: 16
+      method: level
+      item: ""
+gender: f100
+items: []
+learnset:
+    - level: 1
+      move: poison-sting
+    - level: 4
+      move: mud-slap
+    - level: 8
+      move: bite
+    - level: 13
+      move: double-kick
+stats:
+    atk: 47
+    def: 52
+    hp: 55
+    spa: 40
+    spd: 40
+    spe: 41
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - thief
+    - thunderbolt
+types:
+    - poison

@@ -1,0 +1,67 @@
+name: furret
+pokedex: 162
+baseexp: 116
+evolutions: []
+gender: f50
+items:
+    - chance: 0.23
+      item: berry
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 16
+      move: headbutt
+    - level: 20
+      move: growl
+    - level: 24
+      move: body-slam
+    - level: 28
+      move: double-edge
+    - level: 32
+      move: iron-tail
+    - level: 36
+      move: shadow-ball
+    - level: 42
+      move: extremespeed
+stats:
+    atk: 76
+    def: 64
+    hp: 85
+    spa: 45
+    spd: 55
+    spe: 90
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - fury-cutter
+    - cut
+    - surf
+    - strength
+types:
+    - normal

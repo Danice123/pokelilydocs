@@ -1,0 +1,54 @@
+name: tentacruel
+pokedex: 73
+baseexp: 205
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: attract
+    - level: 1
+      move: ice-beam
+    - level: 1
+      move: surf
+    - level: 50
+      move: sludge-bomb
+    - level: 55
+      move: ice-beam
+    - level: 73
+      move: waterfall
+    - level: 99
+      move: toxic
+stats:
+    atk: 70
+    def: 65
+    hp: 80
+    spa: 100
+    spd: 120
+    spe: 100
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - giga-drain
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - cut
+    - surf
+    - whirlpool
+    - ice-beam
+types:
+    - water
+    - poison

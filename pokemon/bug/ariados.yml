@@ -1,0 +1,57 @@
+name: ariados
+pokedex: 168
+baseexp: 134
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: mega-drain
+    - level: 23
+      move: toxic
+    - level: 23
+      move: giga-drain
+    - level: 25
+      move: psychic
+    - level: 27
+      move: leech-life
+    - level: 33
+      move: shadow-ball
+    - level: 37
+      move: sludge-bomb
+    - level: 43
+      move: megahorn
+    - level: 50
+      move: agility
+stats:
+    atk: 90
+    def: 70
+    hp: 70
+    spa: 60
+    spd: 60
+    spe: 80
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - dig
+    - psychic
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - thief
+    - flash
+types:
+    - bug
+    - poison

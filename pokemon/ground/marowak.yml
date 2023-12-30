@@ -1,0 +1,59 @@
+name: marowak
+pokedex: 105
+baseexp: 124
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: thick-club
+learnset:
+    - level: 1
+      move: bonemerang
+    - level: 34
+      move: frustration
+    - level: 38
+      move: earthquake
+    - level: 46
+      move: ancientpower
+stats:
+    atk: 80
+    def: 110
+    hp: 60
+    spa: 50
+    spd: 80
+    spe: 45
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+    - flamethrower
+    - ice-beam
+types:
+    - ground

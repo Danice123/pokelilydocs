@@ -1,0 +1,27 @@
+name: magikarp
+pokedex: 129
+baseexp: 20
+evolutions:
+    - target: gyarados
+      level: 30
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bubble
+    - level: 1
+      move: flail
+    - level: 1
+      move: tackle
+stats:
+    atk: 10
+    def: 55
+    hp: 20
+    spa: 15
+    spd: 20
+    spe: 80
+tmhm: []
+types:
+    - water

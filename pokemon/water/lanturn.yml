@@ -1,0 +1,54 @@
+name: lanturn
+pokedex: 171
+baseexp: 156
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: confuse-ray
+    - level: 1
+      move: thunder-wave
+    - level: 1
+      move: bubblebeam
+    - level: 1
+      move: spark
+    - level: 37
+      move: thunderbolt
+    - level: 44
+      move: hydro-pump
+    - level: 50
+      move: ice-beam
+stats:
+    atk: 58
+    def: 58
+    hp: 125
+    spa: 76
+    spd: 76
+    spe: 67
+tmhm:
+    - curse
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - rest
+    - attract
+    - surf
+    - flash
+    - whirlpool
+    - waterfall
+    - thunderbolt
+    - ice-beam
+types:
+    - water
+    - electric

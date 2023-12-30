@@ -1,0 +1,61 @@
+name: flaaffy
+pokedex: 180
+baseexp: 117
+evolutions:
+    - target: ampharos
+      level: 30
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: thundershock
+    - level: 1
+      move: swift
+    - level: 1
+      move: thunder-wave
+    - level: 17
+      move: spark
+    - level: 24
+      move: safeguard
+    - level: 30
+      move: fire-punch
+    - level: 45
+      move: thunderbolt
+stats:
+    atk: 55
+    def: 55
+    hp: 70
+    spa: 80
+    spd: 60
+    spe: 45
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - thunderpunch
+    - rest
+    - attract
+    - fire-punch
+    - strength
+    - flash
+    - thunderbolt
+types:
+    - electric

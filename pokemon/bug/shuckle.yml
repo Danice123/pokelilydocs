@@ -1,0 +1,52 @@
+name: shuckle
+pokedex: 213
+baseexp: 80
+evolutions: []
+gender: f50
+items:
+    - chance: 0.25
+      item: berry
+learnset:
+    - level: 1
+      move: sandstorm
+    - level: 1
+      move: wrap
+    - level: 1
+      move: string-shot
+    - level: 1
+      move: bide
+    - level: 30
+      move: disable
+stats:
+    atk: 5
+    def: 230
+    hp: 60
+    spa: 5
+    spd: 230
+    spe: 5
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - sandstorm
+    - defense-curl
+    - attract
+    - strength
+    - flash
+types:
+    - bug
+    - rock

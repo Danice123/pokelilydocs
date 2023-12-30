@@ -1,0 +1,61 @@
+name: nidorino
+pokedex: 33
+baseexp: 118
+evolutions:
+    - target: nidoking
+      level: 0
+      method: item
+      item: moon-stone
+gender: f0
+items: []
+learnset:
+    - level: 1
+      move: poison-sting
+    - level: 16
+      move: horn-attack
+    - level: 20
+      move: sludge
+    - level: 23
+      move: bite
+    - level: 27
+      move: body-slam
+    - level: 36
+      move: sludge-bomb
+    - level: 48
+      move: thrash
+stats:
+    atk: 72
+    def: 57
+    hp: 61
+    spa: 55
+    spd: 55
+    spe: 65
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - thief
+    - strength
+    - thunderbolt
+    - ice-beam
+types:
+    - poison

@@ -1,0 +1,64 @@
+name: sandshrew
+pokedex: 27
+baseexp: 93
+evolutions:
+    - target: sandslash
+      level: 22
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: scratch
+    - level: 6
+      move: sand-attack
+    - level: 11
+      move: dig
+    - level: 15
+      move: rock-throw
+    - level: 22
+      move: slash
+    - level: 31
+      move: rock-slide
+    - level: 37
+      move: earthquake
+stats:
+    atk: 75
+    def: 85
+    hp: 50
+    spa: 20
+    spd: 30
+    spe: 40
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - swift
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - thief
+    - fury-cutter
+    - cut
+    - strength
+types:
+    - ground

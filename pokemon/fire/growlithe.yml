@@ -1,0 +1,57 @@
+name: growlithe
+pokedex: 58
+baseexp: 91
+evolutions:
+    - target: arcanine
+      level: 0
+      method: item
+      item: fire-stone
+gender: f25
+items:
+    - chance: 0.25
+      item: burnt-berry
+learnset:
+    - level: 1
+      move: ember
+    - level: 6
+      move: headbutt
+    - level: 11
+      move: bite
+    - level: 16
+      move: take-down
+    - level: 24
+      move: flame-wheel
+    - level: 36
+      move: flamethrower
+stats:
+    atk: 70
+    def: 45
+    hp: 55
+    spa: 70
+    spd: 50
+    spe: 60
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - return
+    - dig
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - rest
+    - attract
+    - flamethrower
+types:
+    - fire

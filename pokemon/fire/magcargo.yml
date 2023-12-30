@@ -1,0 +1,60 @@
+name: magcargo
+pokedex: 219
+baseexp: 154
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: ember
+    - level: 21
+      move: rock-slide
+    - level: 34
+      move: flamethrower
+    - level: 39
+      move: recover
+    - level: 45
+      move: fire-blast
+    - level: 49
+      move: rapid-spin
+    - level: 57
+      move: earthquake
+    - level: 64
+      move: ancientpower
+    - level: 72
+      move: explosion
+    - level: 80
+      move: amnesia
+stats:
+    atk: 50
+    def: 120
+    hp: 65
+    spa: 90
+    spd: 80
+    spe: 30
+tmhm:
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - defense-curl
+    - rest
+    - attract
+    - strength
+    - flamethrower
+types:
+    - fire
+    - rock

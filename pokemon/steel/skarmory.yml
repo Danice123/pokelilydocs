@@ -1,0 +1,55 @@
+name: skarmory
+pokedex: 227
+baseexp: 168
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: peck
+    - level: 10
+      move: swagger
+    - level: 17
+      move: mud-slap
+    - level: 25
+      move: wing-attack
+    - level: 34
+      move: rock-slide
+    - level: 48
+      move: drill-peck
+    - level: 62
+      move: steel-wing
+    - level: 100
+      move: whirlwind
+stats:
+    atk: 80
+    def: 140
+    hp: 65
+    spa: 40
+    spd: 70
+    spe: 70
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - cut
+    - fly
+types:
+    - steel
+    - flying

@@ -1,0 +1,59 @@
+name: espeon
+pokedex: 196
+baseexp: 197
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: confusion
+    - level: 1
+      move: psywave
+    - level: 20
+      move: psybeam
+    - level: 27
+      move: bite
+    - level: 34
+      move: shadow-ball
+    - level: 44
+      move: psychic
+    - level: 59
+      move: morning-sun
+stats:
+    atk: 65
+    def: 60
+    hp: 65
+    spa: 130
+    spd: 95
+    spe: 110
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - nightmare
+    - cut
+    - flash
+types:
+    - psychic

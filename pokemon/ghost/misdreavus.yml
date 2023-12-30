@@ -1,0 +1,60 @@
+name: misdreavus
+pokedex: 200
+baseexp: 147
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: spell-tag
+learnset:
+    - level: 1
+      move: night-shade
+    - level: 34
+      move: thunderbolt
+    - level: 39
+      move: hypnosis
+    - level: 44
+      move: shadow-ball
+    - level: 55
+      move: psywave
+    - level: 85
+      move: pain-split
+    - level: 99
+      move: perish-song
+stats:
+    atk: 60
+    def: 60
+    hp: 75
+    spa: 105
+    spd: 105
+    spe: 105
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - psychic
+    - shadow-ball
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - flash
+    - thunderbolt
+types:
+    - ghost

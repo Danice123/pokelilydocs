@@ -1,0 +1,63 @@
+name: igglybuff
+pokedex: 174
+baseexp: 39
+evolutions:
+    - target: jigglypuff
+      level: 15
+      method: level
+      item: ""
+gender: f75
+items: []
+learnset:
+    - level: 1
+      move: present
+    - level: 1
+      move: sweet-kiss
+    - level: 1
+      move: faint-attack
+    - level: 4
+      move: defense-curl
+    - level: 9
+      move: sing
+    - level: 14
+      move: dizzy-punch
+stats:
+    atk: 30
+    def: 15
+    hp: 90
+    spa: 40
+    spd: 20
+    spe: 15
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - defense-curl
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - nightmare
+    - flash
+    - flamethrower
+types:
+    - normal

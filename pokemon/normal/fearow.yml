@@ -1,0 +1,58 @@
+name: fearow
+pokedex: 22
+baseexp: 162
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: sharp-beak
+learnset:
+    - level: 1
+      move: peck
+    - level: 24
+      move: wing-attack
+    - level: 29
+      move: tri-attack
+    - level: 34
+      move: steel-wing
+    - level: 37
+      move: drill-peck
+    - level: 43
+      move: mirror-move
+    - level: 48
+      move: agility
+    - level: 53
+      move: double-edge
+    - level: 59
+      move: sky-attack
+stats:
+    atk: 90
+    def: 65
+    hp: 65
+    spa: 61
+    spd: 61
+    spe: 100
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - fly
+types:
+    - normal
+    - flying

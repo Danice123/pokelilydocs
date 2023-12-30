@@ -1,0 +1,57 @@
+name: nidorina
+pokedex: 30
+baseexp: 117
+evolutions:
+    - target: nidoqueen
+      level: 0
+      method: item
+      item: moon-stone
+gender: f100
+items: []
+learnset:
+    - level: 1
+      move: bite
+    - level: 16
+      move: horn-attack
+    - level: 20
+      move: sludge
+    - level: 25
+      move: body-slam
+    - level: 33
+      move: sludge-bomb
+stats:
+    atk: 62
+    def: 67
+    hp: 70
+    spa: 55
+    spd: 55
+    spe: 56
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - thief
+    - strength
+    - thunderbolt
+    - ice-beam
+types:
+    - poison

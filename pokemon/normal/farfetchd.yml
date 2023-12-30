@@ -1,0 +1,63 @@
+name: farfetchd
+pokedex: 83
+baseexp: 94
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: stick
+learnset:
+    - level: 1
+      move: scratch
+    - level: 5
+      move: gust
+    - level: 9
+      move: quick-attack
+    - level: 13
+      move: false-swipe
+    - level: 18
+      move: slash
+    - level: 23
+      move: wing-attack
+    - level: 27
+      move: steel-wing
+    - level: 34
+      move: submission
+    - level: 38
+      move: sky-attack
+    - level: 43
+      move: double-edge
+stats:
+    atk: 90
+    def: 55
+    hp: 52
+    spa: 58
+    spd: 62
+    spe: 70
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - cut
+    - fly
+types:
+    - normal
+    - flying

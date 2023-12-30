@@ -1,0 +1,70 @@
+name: nidoqueen
+pokedex: 31
+baseexp: 194
+evolutions: []
+gender: f100
+items: []
+learnset:
+    - level: 1
+      move: sludge
+    - level: 40
+      move: attract
+    - level: 50
+      move: sludge-bomb
+    - level: 54
+      move: earthquake
+    - level: 75
+      move: earthquake
+    - level: 95
+      move: earthquake
+stats:
+    atk: 82
+    def: 87
+    hp: 90
+    spa: 75
+    spd: 85
+    spe: 76
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - earthquake
+    - return
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - defense-curl
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - fury-cutter
+    - surf
+    - strength
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - poison
+    - ground

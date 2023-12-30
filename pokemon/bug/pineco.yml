@@ -1,0 +1,58 @@
+name: pineco
+pokedex: 204
+baseexp: 60
+evolutions:
+    - target: forretress
+      level: 31
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: pin-missile
+    - level: 9
+      move: tackle
+    - level: 14
+      move: headbutt
+    - level: 28
+      move: selfdestruct
+    - level: 32
+      move: double-edge
+    - level: 38
+      move: light-screen
+    - level: 43
+      move: rock-slide
+    - level: 54
+      move: earthquake
+stats:
+    atk: 65
+    def: 90
+    hp: 50
+    spa: 35
+    spd: 35
+    spe: 15
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - rest
+    - attract
+    - strength
+types:
+    - bug

@@ -1,0 +1,67 @@
+name: golduck
+pokedex: 55
+baseexp: 174
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bubblebeam
+    - level: 33
+      move: hypnosis
+    - level: 37
+      move: waterfall
+    - level: 42
+      move: ice-beam
+    - level: 46
+      move: psychic
+    - level: 51
+      move: disable
+    - level: 56
+      move: hydro-pump
+    - level: 61
+      move: encore
+    - level: 66
+      move: cross-chop
+stats:
+    atk: 82
+    def: 78
+    hp: 80
+    spa: 95
+    spd: 80
+    spe: 85
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - attract
+    - fury-cutter
+    - surf
+    - strength
+    - flash
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water

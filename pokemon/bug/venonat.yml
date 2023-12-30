@@ -1,0 +1,56 @@
+name: venonat
+pokedex: 48
+baseexp: 75
+evolutions:
+    - target: venomoth
+      level: 29
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: confusion
+    - level: 6
+      move: mega-drain
+    - level: 13
+      move: psybeam
+    - level: 18
+      move: hidden-power
+    - level: 22
+      move: toxic
+    - level: 25
+      move: sleep-powder
+    - level: 29
+      move: sludge-bomb
+stats:
+    atk: 55
+    def: 50
+    hp: 60
+    spa: 40
+    spd: 55
+    spe: 45
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - swift
+    - rest
+    - attract
+    - thief
+types:
+    - bug
+    - poison

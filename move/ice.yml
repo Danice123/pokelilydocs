@@ -1,0 +1,93 @@
+moves:
+    - name: blizzard
+      index: 59
+      power: 120
+      pp: 8
+      type: ice
+      accuracy: 70
+      effects: {}
+      extra:
+        - 10% chance to freeze opponent
+      order: 56
+    - name: ice-punch
+      index: 8
+      power: 75
+      pp: 15
+      type: ice
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to freeze opponent
+      order: 97
+    - name: aurora-beam
+      index: 62
+      power: 65
+      pp: 20
+      type: ice
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to lower opponent's attack
+      order: 122
+    - name: powder-snow
+      index: 181
+      power: 40
+      pp: 25
+      type: ice
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to freeze opponent
+      order: 139
+    - name: mist
+      index: 54
+      power: 0
+      pp: 30
+      type: ice
+      accuracy: 100
+      effects: {}
+      extra:
+        - Prevents the opponent from lowering the user's stats until the user switches out
+      order: 144
+    - name: hp-ice
+      index: 0
+      power: 70
+      pp: 15
+      type: ice
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 152
+    - name: haze
+      index: 114
+      power: 0
+      pp: 3
+      type: ice
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Clears the opponent's stat changes
+          85% chance to encourage this move if any of enemy's stat levels is lower than -2., 85% chance to encourage this move if any of player's stat levels is higher than +2.
+      order: 198
+    - name: icy-wind
+      index: 196
+      power: 55
+      pp: 15
+      type: ice
+      accuracy: 100
+      effects: {}
+      extra:
+        - 100% chance to lower opponent's speed
+      order: 212
+    - name: ice-beam
+      index: 58
+      power: 95
+      pp: 10
+      type: ice
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to freeze opponent
+      order: 245

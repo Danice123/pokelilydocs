@@ -1,0 +1,56 @@
+name: ninetales
+pokedex: 38
+baseexp: 178
+evolutions: []
+gender: f75
+items:
+    - chance: 0.25
+      item: burnt-berry
+learnset:
+    - level: 1
+      move: ember
+    - level: 36
+      move: hypnosis
+    - level: 39
+      move: iron-tail
+    - level: 46
+      move: flamethrower
+    - level: 49
+      move: faint-attack
+    - level: 51
+      move: confuse-ray
+    - level: 67
+      move: solarbeam
+    - level: 72
+      move: sacred-fire
+stats:
+    atk: 76
+    def: 75
+    hp: 73
+    spa: 90
+    spd: 100
+    spe: 100
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - rest
+    - attract
+    - flamethrower
+types:
+    - fire

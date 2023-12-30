@@ -1,0 +1,64 @@
+name: koffing
+pokedex: 109
+baseexp: 114
+evolutions:
+    - target: weezing
+      level: 35
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: poison-gas
+    - level: 4
+      move: smog
+    - level: 8
+      move: smokescreen
+    - level: 13
+      move: psywave
+    - level: 18
+      move: sludge
+    - level: 24
+      move: psybeam
+    - level: 36
+      move: sludge-bomb
+    - level: 40
+      move: flamethrower
+    - level: 47
+      move: selfdestruct
+    - level: 53
+      move: fire-blast
+    - level: 85
+      move: explosion
+stats:
+    atk: 65
+    def: 95
+    hp: 40
+    spa: 60
+    spd: 45
+    spe: 35
+tmhm:
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - fire-blast
+    - rest
+    - attract
+    - thief
+    - flamethrower
+    - thunderbolt
+types:
+    - poison

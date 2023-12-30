@@ -1,0 +1,57 @@
+name: piloswine
+pokedex: 221
+baseexp: 160
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: ice-beam
+    - level: 1
+      move: body-slam
+    - level: 45
+      move: return
+    - level: 55
+      move: rock-slide
+    - level: 62
+      move: ice-beam
+    - level: 69
+      move: earthquake
+    - level: 99
+      move: ancientpower
+stats:
+    atk: 130
+    def: 80
+    hp: 120
+    spa: 70
+    spd: 60
+    spe: 80
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - strength
+    - ice-beam
+types:
+    - ice
+    - ground

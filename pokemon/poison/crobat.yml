@@ -1,0 +1,56 @@
+name: crobat
+pokedex: 169
+baseexp: 204
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: confuse-ray
+    - level: 1
+      move: giga-drain
+    - level: 1
+      move: sludge-bomb
+    - level: 39
+      move: wing-attack
+    - level: 48
+      move: shadow-ball
+    - level: 55
+      move: sludge-bomb
+    - level: 61
+      move: screech
+    - level: 80
+      move: hypnosis
+    - level: 99
+      move: sky-attack
+stats:
+    atk: 90
+    def: 80
+    hp: 85
+    spa: 70
+    spd: 80
+    spe: 130
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - fly
+types:
+    - poison
+    - flying

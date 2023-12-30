@@ -1,0 +1,86 @@
+name: mew
+pokedex: 151
+baseexp: 64
+evolutions: []
+gender: unknown
+items:
+    - chance: 0.02
+      item: miracleberry
+learnset:
+    - level: 1
+      move: psych-up
+    - level: 1
+      move: submission
+    - level: 1
+      move: shadow-ball
+    - level: 1
+      move: softboiled
+stats:
+    atk: 100
+    def: 100
+    hp: 100
+    spa: 100
+    spd: 100
+    spe: 100
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - dragonbreath
+    - thunder
+    - earthquake
+    - return
+    - dig
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - sandstorm
+    - fire-blast
+    - swift
+    - defense-curl
+    - thunderpunch
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - fire-punch
+    - fury-cutter
+    - nightmare
+    - cut
+    - fly
+    - surf
+    - strength
+    - flash
+    - whirlpool
+    - waterfall
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - psychic

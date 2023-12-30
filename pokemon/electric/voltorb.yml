@@ -1,0 +1,52 @@
+name: voltorb
+pokedex: 100
+baseexp: 103
+evolutions:
+    - target: electrode
+      level: 30
+      method: level
+      item: ""
+gender: unknown
+items: []
+learnset:
+    - level: 1
+      move: sonicboom
+    - level: 1
+      move: thunder-wave
+    - level: 1
+      move: spark
+    - level: 24
+      move: selfdestruct
+    - level: 34
+      move: thunderbolt
+    - level: 46
+      move: light-screen
+stats:
+    atk: 30
+    def: 50
+    hp: 40
+    spa: 55
+    spd: 55
+    spe: 100
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - flash
+    - thunderbolt
+types:
+    - electric

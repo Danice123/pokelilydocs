@@ -1,0 +1,57 @@
+name: kingdra
+pokedex: 230
+baseexp: 207
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: dragon-scale
+learnset:
+    - level: 1
+      move: waterfall
+    - level: 50
+      move: dragonbreath
+    - level: 55
+      move: ice-beam
+    - level: 65
+      move: octazooka
+    - level: 73
+      move: double-edge
+    - level: 80
+      move: octazooka
+    - level: 90
+      move: octazooka
+stats:
+    atk: 95
+    def: 95
+    hp: 75
+    spa: 95
+    spd: 95
+    spe: 85
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - dragonbreath
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - attract
+    - surf
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water
+    - dragon

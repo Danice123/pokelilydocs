@@ -1,0 +1,60 @@
+name: graveler
+pokedex: 75
+baseexp: 134
+evolutions:
+    - target: golem
+      level: 42
+      method: level
+      item: ""
+gender: f50
+items:
+    - chance: 0.02
+      item: everstone
+learnset:
+    - level: 1
+      move: selfdestruct
+    - level: 25
+      move: body-slam
+    - level: 31
+      move: rock-slide
+    - level: 55
+      move: earthquake
+    - level: 60
+      move: ancientpower
+stats:
+    atk: 95
+    def: 115
+    hp: 55
+    spa: 45
+    spd: 45
+    spe: 35
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - defense-curl
+    - rest
+    - attract
+    - fire-punch
+    - strength
+    - flamethrower
+types:
+    - rock
+    - ground

@@ -1,0 +1,56 @@
+name: exeggutor
+pokedex: 103
+baseexp: 212
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: psybeam
+    - level: 36
+      move: egg-bomb
+    - level: 45
+      move: giga-drain
+    - level: 57
+      move: psychic
+    - level: 67
+      move: giga-drain
+    - level: 99
+      move: ancientpower
+stats:
+    atk: 95
+    def: 85
+    hp: 95
+    spa: 125
+    spd: 65
+    spe: 55
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - strength
+    - flash
+types:
+    - grass
+    - psychic

@@ -1,0 +1,59 @@
+name: gloom
+pokedex: 44
+baseexp: 132
+evolutions:
+    - target: vileplume
+      level: 0
+      method: item
+      item: leaf-stone
+    - target: bellossom
+      level: 0
+      method: item
+      item: sun-stone
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: mega-drain
+    - level: 13
+      move: moonlight
+    - level: 24
+      move: sleep-powder
+    - level: 30
+      move: giga-drain
+    - level: 35
+      move: sludge-bomb
+    - level: 40
+      move: sleep-powder
+    - level: 46
+      move: moonlight
+stats:
+    atk: 65
+    def: 70
+    hp: 60
+    spa: 85
+    spd: 75
+    spe: 40
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - cut
+    - flash
+types:
+    - grass
+    - poison

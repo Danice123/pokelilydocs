@@ -1,0 +1,65 @@
+name: butterfree
+pokedex: 12
+baseexp: 160
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: silverpowder
+learnset:
+    - level: 10
+      move: confusion
+    - level: 13
+      move: mega-drain
+    - level: 14
+      move: sleep-powder
+    - level: 16
+      move: psybeam
+    - level: 18
+      move: giga-drain
+    - level: 21
+      move: psywave
+    - level: 23
+      move: morning-sun
+    - level: 25
+      move: psychic
+    - level: 29
+      move: sleep-powder
+    - level: 29
+      move: dream-eater
+    - level: 30
+      move: giga-drain
+    - level: 31
+      move: psychic
+stats:
+    atk: 45
+    def: 50
+    hp: 60
+    spa: 90
+    spd: 80
+    spe: 70
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - attract
+    - nightmare
+    - flash
+types:
+    - bug
+    - flying

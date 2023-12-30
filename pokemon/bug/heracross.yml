@@ -1,0 +1,61 @@
+name: heracross
+pokedex: 214
+baseexp: 200
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 13
+      move: horn-attack
+    - level: 18
+      move: rock-smash
+    - level: 24
+      move: fury-cutter
+    - level: 31
+      move: wing-attack
+    - level: 37
+      move: counter
+    - level: 44
+      move: counter
+    - level: 51
+      move: vital-throw
+    - level: 57
+      move: rock-slide
+    - level: 68
+      move: submission
+    - level: 74
+      move: megahorn
+stats:
+    atk: 125
+    def: 75
+    hp: 80
+    spa: 40
+    spd: 95
+    spe: 85
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - swagger
+    - sleep-talk
+    - detect
+    - rest
+    - attract
+    - thief
+    - fury-cutter
+    - cut
+    - strength
+types:
+    - bug
+    - fighting

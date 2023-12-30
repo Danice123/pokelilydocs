@@ -1,0 +1,62 @@
+name: machoke
+pokedex: 67
+baseexp: 146
+evolutions:
+    - target: machamp
+      level: 55
+      method: level
+      item: ""
+gender: f25
+items: []
+learnset:
+    - level: 1
+      move: karate-chop
+    - level: 30
+      move: submission
+    - level: 39
+      move: rock-slide
+    - level: 61
+      move: foresight
+    - level: 65
+      move: cross-chop
+    - level: 70
+      move: counter
+    - level: 80
+      move: earthquake
+stats:
+    atk: 100
+    def: 70
+    hp: 80
+    spa: 50
+    spd: 60
+    spe: 45
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+    - flamethrower
+types:
+    - fighting

@@ -1,0 +1,56 @@
+name: snorlax
+pokedex: 143
+baseexp: 154
+evolutions: []
+gender: f12.5
+items:
+    - chance: 0.25
+      item: miracleberry
+learnset:
+    - level: 1
+      move: explosion
+stats:
+    atk: 110
+    def: 65
+    hp: 160
+    spa: 65
+    spd: 110
+    spe: 30
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - solarbeam
+    - thunder
+    - psychic
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - defense-curl
+    - thunderpunch
+    - rest
+    - attract
+    - fire-punch
+    - surf
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

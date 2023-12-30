@@ -1,0 +1,189 @@
+moves:
+    - name: rolling-kick
+      index: 27
+      power: 60
+      pp: 15
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to flinch opponent
+      order: 9
+    - name: reversal
+      index: 179
+      power: 1
+      pp: 15
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Base power is higher when the user has less HP, from 20 to 200
+          Discourage this move if enemy's HP is above 25%
+      order: 14
+    - name: rock-smash
+      index: 249
+      power: 40
+      pp: 15
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - 50% chance to lower opponent's defense
+      order: 19
+    - name: hi-jump-kick
+      index: 136
+      power: 110
+      pp: 20
+      type: fighting
+      accuracy: 100
+      effects:
+        recoil: 0.3333
+      extra:
+        - User takes 33% of damage dealt as recoil
+      order: 50
+    - name: vital-throw
+      index: 233
+      power: 70
+      pp: 10
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Always hits
+          80% chance to greatly encourage this move if either enemy's accuracy level has been lowered three or more stages or player's evasion level has been raised three or more stages
+      order: 79
+    - name: seismic-toss
+      index: 69
+      power: 1
+      pp: 20
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - Deals user's level in damage
+      order: 91
+    - name: triple-kick
+      index: 167
+      power: 10
+      pp: 10
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 3 times, doubling in damage each hit
+      order: 108
+    - name: hp-fighting
+      index: 0
+      power: 70
+      pp: 15
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 112
+    - name: double-kick
+      index: 24
+      power: 30
+      pp: 30
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2 times
+      order: 123
+    - name: low-kick
+      index: 67
+      power: 50
+      pp: 20
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to flinch opponent
+      order: 131
+    - name: dynamicpunch
+      index: 223
+      power: 100
+      pp: 5
+      type: fighting
+      accuracy: 50
+      effects: {}
+      extra:
+        - 100% chance to confuse opponent
+      order: 181
+    - name: cross-chop
+      index: 238
+      power: 100
+      pp: 8
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - Has an increased critical hit rate
+      order: 188
+    - name: counter
+      index: 68
+      power: 1
+      pp: 1
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - If the last damage taken was physical, do twice the damage
+      order: 190
+    - name: jump-kick
+      index: 26
+      power: 90
+      pp: 25
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - If it misses or fails, deals 1/8 the damage it would've dealt to the user instead
+      order: 222
+    - name: detect
+      index: 197
+      power: 0
+      pp: 5
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Goes first, prevents being attacked for the turn
+          Greatly discourage this move if the enemy already used Protect, if the player is locked on, if the player's Fury Cutter is boosted enough, if the player has charged a two-turn move, if the player is affected by Toxic, Leech Seed, or Curse,  80% chance to encourage this move otherwise
+      order: 227
+    - name: submission
+      index: 66
+      power: 80
+      pp: 25
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra: []
+      order: 231
+    - name: karate-chop
+      index: 2
+      power: 50
+      pp: 25
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - Has an increased critical hit rate
+      order: 242
+    - name: mach-punch
+      index: 183
+      power: 40
+      pp: 30
+      type: fighting
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Hits before other attacks
+          Dismiss this move if the player is flying or underground, Greatly encourage this move if it will KO the player
+      order: 256

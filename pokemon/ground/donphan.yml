@@ -1,0 +1,60 @@
+name: donphan
+pokedex: 232
+baseexp: 189
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: magnitude
+    - level: 1
+      move: rock-throw
+    - level: 1
+      move: rollout
+    - level: 27
+      move: swagger
+    - level: 31
+      move: body-slam
+    - level: 37
+      move: rock-slide
+    - level: 44
+      move: earthquake
+    - level: 53
+      move: rapid-spin
+    - level: 68
+      move: double-edge
+    - level: 72
+      move: ancientpower
+stats:
+    atk: 120
+    def: 120
+    hp: 90
+    spa: 60
+    spd: 60
+    spe: 50
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - defense-curl
+    - rest
+    - attract
+    - strength
+types:
+    - ground

@@ -1,0 +1,54 @@
+name: arcanine
+pokedex: 59
+baseexp: 213
+evolutions: []
+gender: f25
+items:
+    - chance: 0.25
+      item: burnt-berry
+learnset:
+    - level: 1
+      move: ember
+    - level: 39
+      move: crunch
+    - level: 45
+      move: flamethrower
+    - level: 53
+      move: iron-tail
+    - level: 59
+      move: extremespeed
+    - level: 68
+      move: morning-sun
+stats:
+    atk: 110
+    def: 80
+    hp: 90
+    spa: 100
+    spd: 80
+    spe: 95
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - return
+    - dig
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - rest
+    - attract
+    - flamethrower
+types:
+    - fire

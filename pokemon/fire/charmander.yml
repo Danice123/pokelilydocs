@@ -1,0 +1,61 @@
+name: charmander
+pokedex: 4
+baseexp: 65
+evolutions:
+    - target: charmeleon
+      level: 16
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: scratch
+    - level: 8
+      move: ember
+    - level: 12
+      move: bite
+    - level: 16
+      move: slash
+    - level: 18
+      move: fire-punch
+    - level: 34
+      move: dragon-rage
+stats:
+    atk: 52
+    def: 43
+    hp: 39
+    spa: 60
+    spd: 50
+    spe: 65
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - defense-curl
+    - rest
+    - attract
+    - fire-punch
+    - fury-cutter
+    - cut
+    - strength
+    - flamethrower
+types:
+    - fire

@@ -1,0 +1,66 @@
+name: lugia
+pokedex: 249
+baseexp: 220
+evolutions: []
+gender: unknown
+items: []
+learnset:
+    - level: 1
+      move: roar
+    - level: 22
+      move: recover
+    - level: 99
+      move: aeroblast
+stats:
+    atk: 90
+    def: 130
+    hp: 106
+    spa: 90
+    spd: 154
+    spe: 110
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - giga-drain
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - thunder
+    - earthquake
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - steel-wing
+    - nightmare
+    - fly
+    - surf
+    - strength
+    - whirlpool
+    - waterfall
+    - thunderbolt
+    - ice-beam
+types:
+    - psychic
+    - flying

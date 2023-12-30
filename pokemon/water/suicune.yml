@@ -1,0 +1,54 @@
+name: suicune
+pokedex: 245
+baseexp: 215
+evolutions: []
+gender: unknown
+items: []
+learnset:
+    - level: 1
+      move: bite
+    - level: 1
+      move: surf
+    - level: 1
+      move: ice-beam
+stats:
+    atk: 75
+    def: 115
+    hp: 120
+    spa: 90
+    spd: 115
+    spe: 85
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - swift
+    - detect
+    - rest
+    - cut
+    - surf
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water

@@ -1,0 +1,61 @@
+name: kadabra
+pokedex: 64
+baseexp: 145
+evolutions:
+    - target: alakazam
+      level: 55
+      method: level
+      item: ""
+gender: f25
+items: []
+learnset:
+    - level: 1
+      move: confusion
+    - level: 22
+      move: psybeam
+    - level: 25
+      move: thunder-wave
+    - level: 28
+      move: seismic-toss
+    - level: 30
+      move: recover
+    - level: 90
+      move: psychic
+stats:
+    atk: 35
+    def: 30
+    hp: 40
+    spa: 120
+    spd: 70
+    spe: 105
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - dig
+    - psychic
+    - shadow-ball
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - thunderpunch
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - nightmare
+    - flash
+types:
+    - psychic

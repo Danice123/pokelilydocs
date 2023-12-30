@@ -1,0 +1,51 @@
+name: tyrogue
+pokedex: 236
+baseexp: 91
+evolutions:
+    - target: hitmonchan
+      level: 0
+      method: hitmonchan
+      item: ""
+    - target: hitmonlee
+      level: 0
+      method: hitmonlee
+      item: ""
+    - target: hitmontop
+      level: 0
+      method: hitmontop
+      item: ""
+gender: f0
+items: []
+learnset:
+    - level: 1
+      move: karate-chop
+stats:
+    atk: 35
+    def: 35
+    hp: 35
+    spa: 35
+    spd: 35
+    spe: 35
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - strength
+types:
+    - fighting

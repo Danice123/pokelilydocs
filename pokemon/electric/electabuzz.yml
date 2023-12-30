@@ -1,0 +1,54 @@
+name: electabuzz
+pokedex: 125
+baseexp: 156
+evolutions: []
+gender: f25
+items: []
+learnset:
+    - level: 1
+      move: thunderpunch
+    - level: 42
+      move: thunderbolt
+    - level: 53
+      move: cross-chop
+stats:
+    atk: 103
+    def: 57
+    hp: 65
+    spa: 95
+    spd: 85
+    spe: 105
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - psychic
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+    - flash
+    - thunderbolt
+types:
+    - electric

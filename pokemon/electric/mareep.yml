@@ -1,0 +1,54 @@
+name: mareep
+pokedex: 179
+baseexp: 59
+evolutions:
+    - target: flaaffy
+      level: 15
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: thundershock
+    - level: 5
+      move: swift
+    - level: 9
+      move: thunder-wave
+    - level: 16
+      move: safeguard
+    - level: 30
+      move: light-screen
+    - level: 45
+      move: thunderbolt
+stats:
+    atk: 40
+    def: 40
+    hp: 55
+    spa: 65
+    spd: 45
+    spe: 35
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - rest
+    - attract
+    - flash
+    - thunderbolt
+types:
+    - electric

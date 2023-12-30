@@ -1,0 +1,51 @@
+name: weepinbell
+pokedex: 70
+baseexp: 151
+evolutions:
+    - target: victreebel
+      level: 0
+      method: item
+      item: leaf-stone
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: acid
+    - level: 26
+      move: giga-drain
+    - level: 33
+      move: body-slam
+    - level: 36
+      move: sludge-bomb
+    - level: 44
+      move: lovely-kiss
+stats:
+    atk: 90
+    def: 50
+    hp: 65
+    spa: 85
+    spd: 45
+    spe: 55
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - cut
+    - flash
+types:
+    - grass
+    - poison

@@ -1,0 +1,58 @@
+name: alakazam
+pokedex: 65
+baseexp: 186
+evolutions: []
+gender: f25
+items: []
+learnset:
+    - level: 1
+      move: seismic-toss
+    - level: 45
+      move: recover
+    - level: 55
+      move: psychic
+    - level: 85
+      move: disable
+    - level: 90
+      move: psychic
+    - level: 100
+      move: encore
+stats:
+    atk: 50
+    def: 45
+    hp: 55
+    spa: 135
+    spd: 85
+    spe: 120
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - dig
+    - psychic
+    - shadow-ball
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - thunderpunch
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - nightmare
+    - flash
+types:
+    - psychic

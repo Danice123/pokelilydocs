@@ -1,0 +1,54 @@
+name: jumpluff
+pokedex: 189
+baseexp: 176
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: giga-drain
+    - level: 1
+      move: double-edge
+    - level: 1
+      move: sleep-powder
+    - level: 1
+      move: toxic
+    - level: 36
+      move: petal-dance
+    - level: 43
+      move: sky-attack
+    - level: 50
+      move: synthesis
+    - level: 73
+      move: leech-seed
+stats:
+    atk: 55
+    def: 70
+    hp: 75
+    spa: 55
+    spd: 85
+    spe: 110
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - rest
+    - attract
+    - flash
+types:
+    - grass
+    - flying

@@ -1,0 +1,59 @@
+name: tauros
+pokedex: 128
+baseexp: 211
+evolutions: []
+gender: f0
+items: []
+learnset:
+    - level: 1
+      move: quick-attack
+    - level: 12
+      move: horn-attack
+    - level: 20
+      move: scary-face
+    - level: 34
+      move: rage
+    - level: 70
+      move: earthquake
+    - level: 80
+      move: iron-tail
+    - level: 90
+      move: double-edge
+stats:
+    atk: 100
+    def: 95
+    hp: 75
+    spa: 40
+    spd: 80
+    spe: 110
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - earthquake
+    - return
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - rest
+    - attract
+    - surf
+    - strength
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

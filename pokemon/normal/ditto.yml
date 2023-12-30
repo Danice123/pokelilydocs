@@ -1,0 +1,19 @@
+name: ditto
+pokedex: 132
+baseexp: 61
+evolutions: []
+gender: unknown
+items: []
+learnset:
+    - level: 1
+      move: transform
+stats:
+    atk: 100
+    def: 100
+    hp: 100
+    spa: 100
+    spd: 100
+    spe: 100
+tmhm: []
+types:
+    - normal

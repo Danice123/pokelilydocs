@@ -1,0 +1,78 @@
+name: hypno
+pokedex: 97
+baseexp: 165
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: headbutt
+    - level: 31
+      move: shadow-ball
+    - level: 35
+      move: submission
+    - level: 38
+      move: thunder-wave
+    - level: 42
+      move: psychic
+    - level: 47
+      move: disable
+    - level: 54
+      move: reflect
+    - level: 60
+      move: meditate
+    - level: 60
+      move: submission
+    - level: 60
+      move: shadow-ball
+    - level: 65
+      move: psychic
+    - level: 70
+      move: hypnosis
+    - level: 80
+      move: meditate
+    - level: 80
+      move: submission
+    - level: 80
+      move: shadow-ball
+    - level: 85
+      move: psychic
+    - level: 90
+      move: hypnosis
+stats:
+    atk: 73
+    def: 70
+    hp: 85
+    spa: 73
+    spd: 115
+    spe: 67
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - psychic
+    - shadow-ball
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - thunderpunch
+    - dream-eater
+    - rest
+    - attract
+    - fire-punch
+    - nightmare
+    - flash
+types:
+    - psychic

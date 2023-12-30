@@ -1,0 +1,49 @@
+name: entei
+pokedex: 244
+baseexp: 217
+evolutions: []
+gender: unknown
+items: []
+learnset:
+    - level: 1
+      move: roar
+stats:
+    atk: 115
+    def: 85
+    hp: 115
+    spa: 110
+    spd: 75
+    spe: 100
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - swift
+    - detect
+    - rest
+    - cut
+    - strength
+    - flash
+    - flamethrower
+types:
+    - fire

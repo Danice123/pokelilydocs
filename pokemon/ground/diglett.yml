@@ -1,0 +1,57 @@
+name: diglett
+pokedex: 50
+baseexp: 81
+evolutions:
+    - target: dugtrio
+      level: 26
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: mud-slap
+    - level: 5
+      move: scratch
+    - level: 9
+      move: magnitude
+    - level: 16
+      move: rock-throw
+    - level: 23
+      move: dig
+    - level: 38
+      move: rock-slide
+    - level: 44
+      move: sludge-bomb
+    - level: 50
+      move: earthquake
+stats:
+    atk: 55
+    def: 25
+    hp: 10
+    spa: 35
+    spd: 45
+    spe: 95
+tmhm:
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - thief
+    - cut
+types:
+    - ground

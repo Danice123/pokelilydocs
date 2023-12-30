@@ -1,0 +1,60 @@
+name: yanma
+pokedex: 193
+baseexp: 147
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: confuse-ray
+    - level: 6
+      move: hypnosis
+    - level: 10
+      move: leech-life
+    - level: 15
+      move: giga-drain
+    - level: 18
+      move: wing-attack
+    - level: 24
+      move: toxic
+    - level: 28
+      move: hidden-power
+    - level: 32
+      move: shadow-ball
+    - level: 38
+      move: protect
+    - level: 45
+      move: sky-attack
+    - level: 52
+      move: ancientpower
+stats:
+    atk: 96
+    def: 45
+    hp: 65
+    spa: 75
+    spd: 45
+    spe: 95
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - flash
+types:
+    - bug
+    - flying

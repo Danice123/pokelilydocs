@@ -1,0 +1,70 @@
+name: spinarak
+pokedex: 167
+baseexp: 54
+evolutions:
+    - target: ariados
+      level: 22
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: sludge
+    - level: 7
+      move: mega-drain
+    - level: 13
+      move: night-shade
+    - level: 16
+      move: toxic
+    - level: 19
+      move: disable
+    - level: 22
+      move: string-shot
+    - level: 23
+      move: toxic
+    - level: 23
+      move: giga-drain
+    - level: 25
+      move: psychic
+    - level: 27
+      move: leech-life
+    - level: 34
+      move: shadow-ball
+    - level: 40
+      move: sludge-bomb
+    - level: 46
+      move: megahorn
+    - level: 57
+      move: agility
+stats:
+    atk: 60
+    def: 40
+    hp: 40
+    spa: 40
+    spd: 40
+    spe: 30
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - dig
+    - psychic
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - rest
+    - attract
+    - thief
+    - flash
+types:
+    - bug
+    - poison

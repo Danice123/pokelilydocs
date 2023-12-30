@@ -1,0 +1,55 @@
+name: forretress
+pokedex: 205
+baseexp: 118
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: pin-missile
+    - level: 29
+      move: selfdestruct
+    - level: 35
+      move: double-edge
+    - level: 41
+      move: light-screen
+    - level: 42
+      move: rock-slide
+    - level: 57
+      move: earthquake
+    - level: 99
+      move: explosion
+stats:
+    atk: 90
+    def: 140
+    hp: 75
+    spa: 60
+    spd: 60
+    spe: 40
+tmhm:
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - defense-curl
+    - rest
+    - attract
+    - strength
+types:
+    - bug
+    - steel

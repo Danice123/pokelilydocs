@@ -1,0 +1,67 @@
+name: mewtwo
+pokedex: 150
+baseexp: 220
+evolutions: []
+gender: unknown
+items:
+    - chance: 0.02
+      item: berserk-gene
+learnset:
+    - level: 1
+      move: psych-up
+    - level: 1
+      move: recover
+    - level: 1
+      move: psychic
+    - level: 1
+      move: submission
+stats:
+    atk: 110
+    def: 90
+    hp: 106
+    spa: 154
+    spd: 90
+    spe: 130
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - thunder
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - thunderpunch
+    - dream-eater
+    - detect
+    - rest
+    - fire-punch
+    - nightmare
+    - strength
+    - flash
+    - flamethrower
+    - thunderbolt
+    - ice-beam
+types:
+    - psychic

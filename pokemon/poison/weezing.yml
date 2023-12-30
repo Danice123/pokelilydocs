@@ -1,0 +1,59 @@
+name: weezing
+pokedex: 110
+baseexp: 173
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: sludge
+    - level: 20
+      move: psywave
+    - level: 36
+      move: sludge-bomb
+    - level: 40
+      move: flamethrower
+    - level: 47
+      move: smokescreen
+    - level: 53
+      move: fire-blast
+    - level: 64
+      move: pain-split
+    - level: 68
+      move: sludge-bomb
+    - level: 70
+      move: explosion
+    - level: 85
+      move: explosion
+stats:
+    atk: 90
+    def: 120
+    hp: 65
+    spa: 115
+    spd: 70
+    spe: 60
+tmhm:
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - fire-blast
+    - rest
+    - attract
+    - thief
+    - flamethrower
+    - thunderbolt
+types:
+    - poison

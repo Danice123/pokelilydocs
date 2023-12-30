@@ -1,0 +1,72 @@
+name: slowpoke
+pokedex: 79
+baseexp: 99
+evolutions:
+    - target: slowbro
+      level: 37
+      method: level
+      item: ""
+    - target: slowking
+      level: 0
+      method: item
+      item: water-stone
+gender: f50
+items:
+    - chance: 0.02
+      item: kings-rock
+learnset:
+    - level: 1
+      move: confusion
+    - level: 8
+      move: water-gun
+    - level: 14
+      move: headbutt
+    - level: 23
+      move: bubblebeam
+    - level: 28
+      move: psybeam
+stats:
+    atk: 65
+    def: 65
+    hp: 90
+    spa: 40
+    spd: 40
+    spe: 15
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - dream-eater
+    - rest
+    - attract
+    - nightmare
+    - surf
+    - strength
+    - flash
+    - flamethrower
+    - ice-beam
+types:
+    - water
+    - psychic

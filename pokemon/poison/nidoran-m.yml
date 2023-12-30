@@ -1,0 +1,58 @@
+name: nidoran-m
+pokedex: 32
+baseexp: 60
+evolutions:
+    - target: nidorino
+      level: 16
+      method: level
+      item: ""
+gender: f0
+items: []
+learnset:
+    - level: 1
+      move: poison-sting
+    - level: 4
+      move: peck
+    - level: 8
+      move: scratch
+    - level: 13
+      move: double-kick
+    - level: 16
+      move: horn-attack
+    - level: 20
+      move: sludge
+    - level: 23
+      move: bite
+stats:
+    atk: 57
+    def: 40
+    hp: 46
+    spa: 40
+    spd: 40
+    spe: 50
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - thief
+    - thunderbolt
+types:
+    - poison

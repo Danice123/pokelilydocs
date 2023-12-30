@@ -1,0 +1,66 @@
+name: poliwhirl
+pokedex: 61
+baseexp: 131
+evolutions:
+    - target: politoed
+      level: 36
+      method: level
+      item: ""
+    - target: poliwrath
+      level: 0
+      method: item
+      item: water-stone
+gender: f50
+items:
+    - chance: 0.02
+      item: kings-rock
+learnset:
+    - level: 1
+      move: hypnosis
+    - level: 25
+      move: body-slam
+    - level: 31
+      move: vital-throw
+    - level: 37
+      move: ice-punch
+    - level: 45
+      move: hydro-pump
+stats:
+    atk: 65
+    def: 65
+    hp: 65
+    spa: 50
+    spd: 50
+    spe: 90
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - psychic
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - thief
+    - surf
+    - strength
+    - whirlpool
+    - waterfall
+    - ice-beam
+types:
+    - water

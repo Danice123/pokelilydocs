@@ -1,0 +1,54 @@
+name: kingler
+pokedex: 99
+baseexp: 206
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: stomp
+    - level: 29
+      move: waterfall
+    - level: 31
+      move: submission
+    - level: 36
+      move: body-slam
+    - level: 40
+      move: crabhammer
+    - level: 44
+      move: metal-claw
+stats:
+    atk: 130
+    def: 115
+    hp: 55
+    spa: 50
+    spd: 50
+    spe: 75
+tmhm:
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - rest
+    - attract
+    - thief
+    - fury-cutter
+    - cut
+    - surf
+    - strength
+    - whirlpool
+    - ice-beam
+types:
+    - water

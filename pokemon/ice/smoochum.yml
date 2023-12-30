@@ -1,0 +1,64 @@
+name: smoochum
+pokedex: 238
+baseexp: 87
+evolutions:
+    - target: jynx
+      level: 30
+      method: level
+      item: ""
+gender: f100
+items:
+    - chance: 0.25
+      item: ice-berry
+learnset:
+    - level: 1
+      move: powder-snow
+    - level: 7
+      move: confusion
+    - level: 14
+      move: sweet-kiss
+    - level: 19
+      move: icy-wind
+    - level: 25
+      move: psybeam
+    - level: 30
+      move: ice-punch
+    - level: 49
+      move: ice-beam
+stats:
+    atk: 30
+    def: 15
+    hp: 45
+    spa: 85
+    spd: 65
+    spe: 65
+tmhm:
+    - dynamicpunch
+    - curse
+    - toxic
+    - psych-up
+    - hidden-power
+    - sweet-scent
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - dream-eater
+    - rest
+    - attract
+    - thief
+    - nightmare
+    - ice-beam
+types:
+    - ice
+    - psychic

@@ -1,0 +1,73 @@
+name: slowbro
+pokedex: 80
+baseexp: 164
+evolutions: []
+gender: f50
+items:
+    - chance: 0.02
+      item: kings-rock
+learnset:
+    - level: 1
+      move: bubblebeam
+    - level: 1
+      move: psybeam
+    - level: 58
+      move: psychic
+    - level: 63
+      move: disable
+    - level: 68
+      move: psych-up
+    - level: 73
+      move: waterfall
+    - level: 85
+      move: psychic
+stats:
+    atk: 75
+    def: 110
+    hp: 95
+    spa: 100
+    spd: 80
+    spe: 30
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - swift
+    - dream-eater
+    - rest
+    - attract
+    - fury-cutter
+    - nightmare
+    - surf
+    - strength
+    - flash
+    - flamethrower
+    - ice-beam
+types:
+    - water
+    - psychic

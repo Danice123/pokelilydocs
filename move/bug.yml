@@ -1,0 +1,85 @@
+moves:
+    - name: hp-bug
+      index: 0
+      power: 70
+      pp: 15
+      type: bug
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 4
+    - name: pin-missile
+      index: 42
+      power: 20
+      pp: 20
+      type: bug
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2-5 times
+      order: 6
+    - name: string-shot
+      index: 81
+      power: 0
+      pp: 3
+      type: bug
+      accuracy: 100
+      effects: {}
+      extra:
+        - Lowers opponent's speed
+      order: 72
+    - name: megahorn
+      index: 224
+      power: 120
+      pp: 10
+      type: bug
+      accuracy: 90
+      effects: {}
+      extra: []
+      order: 102
+    - name: spider-web
+      index: 169
+      power: 0
+      pp: 10
+      type: bug
+      accuracy: 100
+      effects: {}
+      extra:
+        - Prevents the opponent from switching out until the user does
+      order: 136
+    - name: leech-life
+      index: 141
+      power: 40
+      pp: 15
+      type: bug
+      accuracy: 100
+      effects:
+        drain: 0.5
+      extra:
+        - User heals 50% of damage dealt
+      order: 147
+    - name: twineedle
+      index: 41
+      power: 35
+      pp: 20
+      type: bug
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Hits 2-5 times
+          20% chance to poison opponents (including steel types)
+      order: 184
+    - name: fury-cutter
+      index: 210
+      power: 15
+      pp: 20
+      type: bug
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Doubles in damage each turn it is used back to back
+          80% chance to discourage this move if the enemy is in love, confused, or paralyzed, 80% chance to discourage this move if the enemy's HP is below 25%, 80% chance to greatly encourage this move otherwise
+      order: 235

@@ -1,0 +1,62 @@
+name: swinub
+pokedex: 220
+baseexp: 78
+evolutions:
+    - target: piloswine
+      level: 50
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: powder-snow
+    - level: 7
+      move: mud-slap
+    - level: 14
+      move: magnitude
+    - level: 28
+      move: icy-wind
+    - level: 37
+      move: return
+    - level: 48
+      move: ice-beam
+    - level: 55
+      move: rock-slide
+    - level: 66
+      move: earthquake
+stats:
+    atk: 50
+    def: 40
+    hp: 50
+    spa: 30
+    spd: 30
+    spe: 50
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - detect
+    - rest
+    - attract
+    - strength
+    - ice-beam
+types:
+    - ice
+    - ground

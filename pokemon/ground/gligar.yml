@@ -1,0 +1,64 @@
+name: gligar
+pokedex: 207
+baseexp: 108
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: poison-sting
+    - level: 9
+      move: scratch
+    - level: 17
+      move: mud-slap
+    - level: 26
+      move: quick-attack
+    - level: 34
+      move: slash
+    - level: 39
+      move: steel-wing
+    - level: 46
+      move: rock-slide
+    - level: 53
+      move: screech
+    - level: 62
+      move: wing-attack
+    - level: 72
+      move: dig
+    - level: 80
+      move: earthquake
+stats:
+    atk: 95
+    def: 125
+    hp: 75
+    spa: 35
+    spd: 85
+    spe: 95
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - swagger
+    - sleep-talk
+    - sludge-bomb
+    - sandstorm
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - fury-cutter
+    - cut
+    - strength
+types:
+    - ground
+    - flying

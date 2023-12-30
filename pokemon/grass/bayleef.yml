@@ -1,0 +1,62 @@
+name: bayleef
+pokedex: 153
+baseexp: 141
+evolutions:
+    - target: meganium
+      level: 32
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: razor-leaf
+    - level: 1
+      move: synthesis
+    - level: 19
+      move: headbutt
+    - level: 26
+      move: body-slam
+    - level: 31
+      move: giga-drain
+    - level: 39
+      move: light-screen
+    - level: 47
+      move: safeguard
+    - level: 58
+      move: petal-dance
+stats:
+    atk: 62
+    def: 80
+    hp: 60
+    spa: 63
+    spd: 80
+    spe: 60
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - iron-tail
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - detect
+    - rest
+    - attract
+    - fury-cutter
+    - cut
+    - strength
+    - flash
+types:
+    - grass

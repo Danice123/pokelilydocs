@@ -1,0 +1,127 @@
+moves:
+    - name: sand-attack
+      index: 28
+      power: 0
+      pp: 5
+      type: ground
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Lowers opponent's accuracy
+          Encouraged if Player HP is full and enemy HP is above 50%, futher encouraged if player is badly poisoned
+      order: 86
+    - name: bone-club
+      index: 125
+      power: 65
+      pp: 20
+      type: ground
+      accuracy: 100
+      effects: {}
+      extra:
+        - 10% chance to flinch opponent
+      order: 90
+    - name: bone-rush
+      index: 198
+      power: 25
+      pp: 10
+      type: ground
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2-5 times
+      order: 113
+    - name: magnitude
+      index: 222
+      power: 1
+      pp: 30
+      type: ground
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Ranges in power from 10 to 150, 70 is most common
+          Hits and deals double damage opponents in the semi-invulnerable turn of Dig
+          Move is greatly encouraged if the player is underground and the enemy is faster
+      order: 141
+    - name: hp-ground
+      index: 0
+      power: 70
+      pp: 15
+      type: ground
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 150
+    - name: bonemerang
+      index: 155
+      power: 50
+      pp: 10
+      type: ground
+      accuracy: 100
+      effects: {}
+      extra:
+        - Hits 2 times
+      order: 151
+    - name: dig
+      index: 91
+      power: 80
+      pp: 10
+      type: ground
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Becomes semi-invulnerable for a turn, then attacks on the next
+          While semi-invulnerable, invulnerable to all moves except Earthquake, Magnitude, and Fissure
+          Earthquake and Magnitude will deal double damage
+          Greatly encourage this move if the player is flying or underground, and slower than the enemy.
+      order: 192
+    - name: spikes
+      index: 191
+      power: 0
+      pp: 1
+      type: ground
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Places a layer of spikes on the opponent's side that will deal 1/8 HP when an opponent switches in
+          Flying type pokemon are unaffected
+      order: 205
+    - name: fissure
+      index: 90
+      power: 1
+      pp: 5
+      type: ground
+      accuracy: 30
+      effects: {}
+      extra:
+        - |-
+          OHKO
+          Hits opponents in the semi-invulnerable turn of Dig
+          Dismissed if player level is higher than enemies, discouraged if your hp is below 50%
+      order: 209
+    - name: mud-slap
+      index: 189
+      power: 20
+      pp: 10
+      type: ground
+      accuracy: 100
+      effects: {}
+      extra:
+        - 100% chance to lower opponent's accuracy
+      order: 230
+    - name: earthquake
+      index: 89
+      power: 100
+      pp: 10
+      type: ground
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          Hits and deals double damage opponents in the semi-invulnerable turn of Dig
+          Move is greatly encouraged if the player is underground and the enemy is faster
+      order: 253

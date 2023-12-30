@@ -1,0 +1,63 @@
+name: sudowoodo
+pokedex: 185
+baseexp: 135
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: rock-throw
+    - level: 7
+      move: low-kick
+    - level: 14
+      move: return
+    - level: 20
+      move: rock-slide
+    - level: 26
+      move: submission
+    - level: 31
+      move: earthquake
+    - level: 37
+      move: hi-jump-kick
+    - level: 44
+      move: ancientpower
+    - level: 85
+      move: explosion
+stats:
+    atk: 100
+    def: 115
+    hp: 70
+    spa: 30
+    spd: 65
+    spe: 30
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - defense-curl
+    - thunderpunch
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+types:
+    - rock

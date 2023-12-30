@@ -1,0 +1,57 @@
+name: aerodactyl
+pokedex: 142
+baseexp: 202
+evolutions: []
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: rock-throw
+    - level: 1
+      move: wing-attack
+    - level: 45
+      move: rock-slide
+    - level: 78
+      move: fire-blast
+    - level: 85
+      move: crunch
+    - level: 100
+      move: scary-face
+stats:
+    atk: 105
+    def: 65
+    hp: 80
+    spa: 60
+    spd: 75
+    spe: 130
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - dragonbreath
+    - earthquake
+    - return
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - swift
+    - detect
+    - rest
+    - attract
+    - steel-wing
+    - fly
+    - flamethrower
+types:
+    - rock
+    - flying

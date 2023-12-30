@@ -1,0 +1,49 @@
+name: pidgey
+pokedex: 16
+baseexp: 55
+evolutions:
+    - target: pidgeotto
+      level: 16
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: gust
+    - level: 4
+      move: sand-attack
+    - level: 7
+      move: quick-attack
+    - level: 14
+      move: wing-attack
+stats:
+    atk: 45
+    def: 40
+    hp: 40
+    spa: 35
+    spd: 35
+    spe: 56
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - fly
+types:
+    - normal
+    - flying

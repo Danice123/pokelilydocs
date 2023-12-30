@@ -1,0 +1,63 @@
+name: chinchou
+pokedex: 170
+baseexp: 90
+evolutions:
+    - target: lanturn
+      level: 27
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: bubble
+    - level: 5
+      move: thundershock
+    - level: 9
+      move: confuse-ray
+    - level: 14
+      move: thunder-wave
+    - level: 18
+      move: spark
+    - level: 24
+      move: aurora-beam
+    - level: 26
+      move: bubblebeam
+    - level: 37
+      move: thunderbolt
+    - level: 44
+      move: hydro-pump
+    - level: 50
+      move: ice-beam
+stats:
+    atk: 38
+    def: 38
+    hp: 75
+    spa: 56
+    spd: 56
+    spe: 67
+tmhm:
+    - curse
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - rest
+    - attract
+    - surf
+    - flash
+    - whirlpool
+    - waterfall
+    - thunderbolt
+    - ice-beam
+types:
+    - water
+    - electric

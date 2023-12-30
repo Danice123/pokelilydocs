@@ -1,0 +1,68 @@
+name: porygon2
+pokedex: 233
+baseexp: 180
+evolutions: []
+gender: unknown
+items: []
+learnset:
+    - level: 35
+      move: thunder-wave
+    - level: 39
+      move: thunderbolt
+    - level: 46
+      move: ice-beam
+    - level: 54
+      move: tri-attack
+    - level: 60
+      move: recover
+    - level: 66
+      move: conversion
+    - level: 70
+      move: conversion2
+    - level: 75
+      move: hyper-beam
+    - level: 80
+      move: tri-attack
+    - level: 85
+      move: recover
+    - level: 90
+      move: sharpen
+stats:
+    atk: 80
+    def: 90
+    hp: 85
+    spa: 105
+    spd: 95
+    spe: 60
+tmhm:
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - dream-eater
+    - rest
+    - thief
+    - nightmare
+    - flash
+    - thunderbolt
+    - ice-beam
+types:
+    - normal

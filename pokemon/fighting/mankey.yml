@@ -1,0 +1,65 @@
+name: mankey
+pokedex: 56
+baseexp: 74
+evolutions:
+    - target: primeape
+      level: 28
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: low-kick
+    - level: 5
+      move: rock-throw
+    - level: 9
+      move: seismic-toss
+    - level: 15
+      move: karate-chop
+    - level: 23
+      move: rock-slide
+    - level: 26
+      move: body-slam
+    - level: 32
+      move: submission
+stats:
+    atk: 80
+    def: 35
+    hp: 40
+    spa: 35
+    spd: 45
+    spe: 70
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - dig
+    - mud-slap
+    - ice-punch
+    - swagger
+    - sleep-talk
+    - swift
+    - defense-curl
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+    - thunderbolt
+types:
+    - fighting

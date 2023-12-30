@@ -1,0 +1,60 @@
+name: onix
+pokedex: 95
+baseexp: 108
+evolutions:
+    - target: steelix
+      level: 55
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: wrap
+    - level: 5
+      move: rage
+    - level: 9
+      move: magnitude
+    - level: 14
+      move: rock-throw
+    - level: 20
+      move: slam
+    - level: 27
+      move: rock-slide
+    - level: 34
+      move: bide
+    - level: 50
+      move: earthquake
+stats:
+    atk: 45
+    def: 160
+    hp: 35
+    spa: 30
+    spd: 45
+    spe: 70
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - rest
+    - attract
+    - strength
+types:
+    - rock
+    - ground

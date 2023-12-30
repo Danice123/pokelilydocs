@@ -1,0 +1,52 @@
+name: zapdos
+pokedex: 145
+baseexp: 216
+evolutions: []
+gender: unknown
+items: []
+learnset:
+    - level: 1
+      move: thunderbolt
+    - level: 1
+      move: drill-peck
+    - level: 1
+      move: hidden-power
+    - level: 1
+      move: thunder-wave
+stats:
+    atk: 95
+    def: 90
+    hp: 90
+    spa: 125
+    spd: 95
+    spe: 105
+tmhm:
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - swift
+    - detect
+    - rest
+    - steel-wing
+    - fly
+    - flash
+    - thunderbolt
+types:
+    - electric
+    - flying

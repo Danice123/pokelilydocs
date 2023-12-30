@@ -1,0 +1,27 @@
+name: wobbuffet
+pokedex: 202
+baseexp: 177
+evolutions: []
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: counter
+    - level: 1
+      move: mirror-coat
+    - level: 1
+      move: destiny-bond
+    - level: 40
+      move: encore
+    - level: 100
+      move: safeguard
+stats:
+    atk: 33
+    def: 58
+    hp: 190
+    spa: 33
+    spd: 58
+    spe: 33
+tmhm: []
+types:
+    - psychic

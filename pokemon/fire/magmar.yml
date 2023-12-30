@@ -1,0 +1,58 @@
+name: magmar
+pokedex: 126
+baseexp: 167
+evolutions: []
+gender: f25
+items:
+    - chance: 0.25
+      item: burnt-berry
+learnset:
+    - level: 1
+      move: fire-punch
+    - level: 31
+      move: confuse-ray
+    - level: 37
+      move: cross-chop
+    - level: 42
+      move: flamethrower
+    - level: 48
+      move: thunderbolt
+    - level: 62
+      move: fire-blast
+stats:
+    atk: 95
+    def: 57
+    hp: 65
+    spa: 115
+    spd: 85
+    spe: 93
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - return
+    - psychic
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+    - flamethrower
+types:
+    - fire

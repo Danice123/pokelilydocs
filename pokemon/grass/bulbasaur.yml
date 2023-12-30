@@ -1,0 +1,72 @@
+name: bulbasaur
+pokedex: 1
+baseexp: 64
+evolutions:
+    - target: ivysaur
+      level: 16
+      method: level
+      item: ""
+gender: f12.5
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 4
+      move: vine-whip
+    - level: 7
+      move: poisonpowder
+    - level: 10
+      move: sleep-powder
+    - level: 13
+      move: razor-leaf
+    - level: 16
+      move: headbutt
+    - level: 19
+      move: sludge
+    - level: 23
+      move: body-slam
+    - level: 27
+      move: sludge-bomb
+    - level: 31
+      move: synthesis
+    - level: 36
+      move: petal-dance
+    - level: 41
+      move: synthesis
+    - level: 49
+      move: toxic
+    - level: 57
+      move: ancientpower
+stats:
+    atk: 49
+    def: 49
+    hp: 45
+    spa: 65
+    spd: 65
+    spe: 45
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - rest
+    - attract
+    - fury-cutter
+    - cut
+    - flash
+types:
+    - grass
+    - poison

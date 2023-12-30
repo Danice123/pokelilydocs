@@ -1,0 +1,62 @@
+name: slugma
+pokedex: 218
+baseexp: 78
+evolutions:
+    - target: magcargo
+      level: 30
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: ember
+    - level: 7
+      move: rock-throw
+    - level: 14
+      move: flame-wheel
+    - level: 20
+      move: rock-slide
+    - level: 27
+      move: flamethrower
+    - level: 30
+      move: recover
+    - level: 45
+      move: fire-blast
+    - level: 49
+      move: rapid-spin
+    - level: 57
+      move: earthquake
+    - level: 64
+      move: ancientpower
+    - level: 72
+      move: explosion
+stats:
+    atk: 40
+    def: 40
+    hp: 40
+    spa: 70
+    spd: 40
+    spe: 20
+tmhm:
+    - curse
+    - rollout
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - fire-blast
+    - defense-curl
+    - rest
+    - attract
+    - flamethrower
+types:
+    - fire

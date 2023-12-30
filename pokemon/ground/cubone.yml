@@ -1,0 +1,70 @@
+name: cubone
+pokedex: 104
+baseexp: 87
+evolutions:
+    - target: marowak
+      level: 28
+      method: level
+      item: ""
+gender: f50
+items:
+    - chance: 0.02
+      item: thick-club
+learnset:
+    - level: 1
+      move: headbutt
+    - level: 13
+      move: bone-club
+    - level: 17
+      move: rock-throw
+    - level: 23
+      move: bone-rush
+    - level: 27
+      move: bonemerang
+    - level: 34
+      move: frustration
+    - level: 38
+      move: earthquake
+    - level: 46
+      move: ancientpower
+stats:
+    atk: 50
+    def: 95
+    hp: 50
+    spa: 40
+    spd: 50
+    spe: 35
+tmhm:
+    - dynamicpunch
+    - headbutt
+    - curse
+    - toxic
+    - rock-smash
+    - hidden-power
+    - sunny-day
+    - snore
+    - blizzard
+    - icy-wind
+    - protect
+    - endure
+    - frustration
+    - iron-tail
+    - earthquake
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - fire-blast
+    - thunderpunch
+    - detect
+    - rest
+    - attract
+    - thief
+    - fire-punch
+    - strength
+    - flamethrower
+    - ice-beam
+types:
+    - ground

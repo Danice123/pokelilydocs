@@ -1,0 +1,49 @@
+name: raikou
+pokedex: 243
+baseexp: 216
+evolutions: []
+gender: unknown
+items: []
+learnset:
+    - level: 1
+      move: roar
+stats:
+    atk: 85
+    def: 95
+    hp: 90
+    spa: 115
+    spd: 100
+    spe: 115
+tmhm:
+    - headbutt
+    - curse
+    - roar
+    - toxic
+    - zap-cannon
+    - rock-smash
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - iron-tail
+    - thunder
+    - return
+    - dig
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - swift
+    - detect
+    - rest
+    - cut
+    - strength
+    - flash
+    - thunderbolt
+types:
+    - electric

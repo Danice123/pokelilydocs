@@ -1,0 +1,51 @@
+name: golbat
+pokedex: 42
+baseexp: 171
+evolutions:
+    - target: crobat
+      level: 45
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: confuse-ray
+    - level: 22
+      move: wing-attack
+    - level: 28
+      move: sludge-bomb
+    - level: 34
+      move: giga-drain
+    - level: 41
+      move: mean-look
+stats:
+    atk: 80
+    def: 70
+    hp: 75
+    spa: 65
+    spd: 75
+    spe: 90
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - hyper-beam
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+types:
+    - poison
+    - flying

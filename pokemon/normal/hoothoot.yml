@@ -1,0 +1,70 @@
+name: hoothoot
+pokedex: 163
+baseexp: 58
+evolutions:
+    - target: noctowl
+      level: 20
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: tackle
+    - level: 1
+      move: hypnosis
+    - level: 1
+      move: gust
+    - level: 8
+      move: night-shade
+    - level: 16
+      move: wing-attack
+    - level: 20
+      move: psybeam
+    - level: 27
+      move: whirlwind
+    - level: 30
+      move: reflect
+    - level: 33
+      move: shadow-ball
+    - level: 37
+      move: psychic
+    - level: 42
+      move: dream-eater
+    - level: 51
+      move: return
+    - level: 57
+      move: sky-attack
+stats:
+    atk: 30
+    def: 30
+    hp: 60
+    spa: 36
+    spd: 56
+    spe: 50
+tmhm:
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - snore
+    - protect
+    - endure
+    - frustration
+    - return
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - swift
+    - dream-eater
+    - detect
+    - rest
+    - attract
+    - thief
+    - steel-wing
+    - nightmare
+    - fly
+    - flash
+types:
+    - normal
+    - flying

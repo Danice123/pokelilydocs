@@ -1,0 +1,54 @@
+moves:
+    - name: dragon-rage
+      index: 82
+      power: 40
+      pp: 10
+      type: dragon
+      accuracy: 100
+      effects: {}
+      extra:
+        - Deals 40 damage
+      order: 106
+    - name: hp-dragon
+      index: 0
+      power: 70
+      pp: 15
+      type: dragon
+      accuracy: 100
+      effects: {}
+      extra:
+        - Enemy trainers only
+      order: 201
+    - name: dragonbreath
+      index: 225
+      power: 60
+      pp: 20
+      type: dragon
+      accuracy: 100
+      effects: {}
+      extra:
+        - 30% chance to paralyze opponent
+      order: 250
+    - name: twister
+      index: 239
+      power: 40
+      pp: 20
+      type: dragon
+      accuracy: 100
+      effects: {}
+      extra:
+        - |-
+          20% chance to flinch opponent
+          Hits an deals double damage against opponents in the semi-invulnerable turn of Fly
+          Move is greatly encouraged if the player is flying and the enemy is faster
+      order: 260
+    - name: outrage
+      index: 200
+      power: 90
+      pp: 15
+      type: dragon
+      accuracy: 100
+      effects: {}
+      extra:
+        - Lasts 2-3 turns, then confuses the user
+      order: 262

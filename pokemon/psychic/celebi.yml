@@ -1,0 +1,56 @@
+name: celebi
+pokedex: 251
+baseexp: 64
+evolutions: []
+gender: unknown
+items:
+    - chance: 0.02
+      item: miracleberry
+learnset:
+    - level: 1
+      move: giga-drain
+    - level: 1
+      move: psych-up
+    - level: 1
+      move: recover
+    - level: 1
+      move: psychic
+stats:
+    atk: 100
+    def: 100
+    hp: 100
+    spa: 100
+    spd: 100
+    spe: 100
+tmhm:
+    - curse
+    - toxic
+    - psych-up
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - psychic
+    - shadow-ball
+    - mud-slap
+    - swagger
+    - sleep-talk
+    - sandstorm
+    - swift
+    - defense-curl
+    - dream-eater
+    - detect
+    - rest
+    - nightmare
+    - flash
+types:
+    - psychic
+    - grass

@@ -1,0 +1,51 @@
+name: magneton
+pokedex: 82
+baseexp: 161
+evolutions: []
+gender: unknown
+items:
+    - chance: 0.02
+      item: metal-coat
+learnset:
+    - level: 1
+      move: sonicboom
+    - level: 34
+      move: thunder-wave
+    - level: 39
+      move: hidden-power
+    - level: 52
+      move: thunderbolt
+    - level: 60
+      move: lock-on
+    - level: 60
+      move: zap-cannon
+stats:
+    atk: 60
+    def: 95
+    hp: 60
+    spa: 120
+    spd: 70
+    spe: 70
+tmhm:
+    - curse
+    - rollout
+    - toxic
+    - zap-cannon
+    - hidden-power
+    - snore
+    - hyper-beam
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - swagger
+    - sleep-talk
+    - swift
+    - rest
+    - flash
+    - thunderbolt
+types:
+    - electric
+    - steel

@@ -1,0 +1,62 @@
+name: starmie
+pokedex: 121
+baseexp: 207
+evolutions: []
+gender: unknown
+items:
+    - chance: 0.23
+      item: stardust
+learnset:
+    - level: 1
+      move: bubblebeam
+    - level: 49
+      move: ice-beam
+    - level: 55
+      move: psychic
+    - level: 60
+      move: rapid-spin
+    - level: 67
+      move: thunderbolt
+    - level: 73
+      move: waterfall
+    - level: 99
+      move: recover
+stats:
+    atk: 75
+    def: 85
+    hp: 60
+    spa: 100
+    spd: 85
+    spe: 115
+tmhm:
+    - curse
+    - toxic
+    - zap-cannon
+    - psych-up
+    - hidden-power
+    - snore
+    - blizzard
+    - hyper-beam
+    - icy-wind
+    - protect
+    - rain-dance
+    - endure
+    - frustration
+    - thunder
+    - return
+    - psychic
+    - swagger
+    - sleep-talk
+    - swift
+    - dream-eater
+    - rest
+    - attract
+    - nightmare
+    - surf
+    - flash
+    - whirlpool
+    - thunderbolt
+    - ice-beam
+types:
+    - water
+    - psychic

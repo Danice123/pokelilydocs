@@ -1,0 +1,59 @@
+name: skiploom
+pokedex: 188
+baseexp: 136
+evolutions:
+    - target: jumpluff
+      level: 27
+      method: level
+      item: ""
+gender: f50
+items: []
+learnset:
+    - level: 1
+      move: sleep-powder
+    - level: 10
+      move: gust
+    - level: 15
+      move: stun-spore
+    - level: 22
+      move: giga-drain
+    - level: 25
+      move: double-edge
+    - level: 36
+      move: petal-dance
+    - level: 43
+      move: sky-attack
+    - level: 50
+      move: synthesis
+    - level: 73
+      move: leech-seed
+stats:
+    atk: 45
+    def: 50
+    hp: 55
+    spa: 45
+    spd: 65
+    spe: 80
+tmhm:
+    - headbutt
+    - curse
+    - toxic
+    - hidden-power
+    - sunny-day
+    - sweet-scent
+    - snore
+    - protect
+    - giga-drain
+    - endure
+    - frustration
+    - solarbeam
+    - return
+    - swagger
+    - sleep-talk
+    - defense-curl
+    - rest
+    - attract
+    - flash
+types:
+    - grass
+    - flying
