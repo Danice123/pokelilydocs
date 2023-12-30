@@ -1,0 +1,318 @@
+landmarks:
+    - id: 1
+      locations:
+          - kirumbo
+      name: kirumbo
+      items: []
+      positions:
+          - x: 1
+            y: 12
+    - id: 2
+      locations:
+          - route-1
+      name: route-1
+      items: []
+      positions:
+          - x: 2
+            y: 12
+            width: 2
+    - id: 3
+      locations:
+          - route-2
+      name: route-2
+      items: []
+      positions:
+          - x: 3
+            y: 8
+            height: 4
+    - id: 4
+      locations:
+          - kibuye
+      name: kibuye
+      items: []
+      positions:
+          - x: 3
+            y: 7
+    - id: 5
+      locations:
+          - route-3
+      name: route-3
+      items: []
+      positions:
+          - x: 3
+            y: 3
+            height: 4
+    - id: 6
+      locations:
+          - gisenyi
+      name: gisenyi
+      items: []
+      positions:
+          - x: 3
+            y: 2
+    - id: 7
+      locations:
+          - route-4
+      name: route-4
+      items: []
+      positions:
+          - x: 4
+            y: 2
+            width: 2
+    - id: 8
+      locations:
+          - mukamira
+      name: mukamira
+      items: []
+      positions:
+          - x: 6
+            y: 2
+    - id: 9
+      locations:
+          - route-5
+      name: route-5
+      items: []
+      positions:
+          - x: 4
+            y: 7
+            width: 4
+    - id: 10
+      locations:
+          - gitarama
+      name: gitarama
+      items: []
+      positions:
+          - x: 8
+            y: 7
+    - id: 11
+      locations:
+          - route-6
+      name: route-6
+      items: []
+      positions:
+          - x: 8
+            y: 2
+            height: 5
+    - id: 12
+      locations:
+          - ngororero
+      name: ngororero
+      items: []
+      positions:
+          - x: 7
+            y: 4
+    - id: 13
+      locations:
+          - route-7
+      name: route-7
+      items: []
+      positions:
+          - x: 6
+            y: 3
+            height: 2
+    - id: 14
+      locations:
+          - route-8
+      name: route-8
+      items: []
+      positions:
+          - x: 9
+            y: 7
+            width: 2
+    - id: 15
+      locations:
+          - kigali
+      name: kigali
+      items: []
+      positions:
+          - x: 11
+            y: 7
+    - id: 16
+      locations:
+          - route-9
+      name: route-9
+      items: []
+      positions:
+          - x: 12
+            y: 7
+            width: 3
+    - id: 17
+      locations:
+          - akagora
+      name: akagora
+      items: []
+      positions:
+          - x: 15
+            y: 7
+    - id: 18
+      locations:
+          - safari-zone
+      name: safari-zone
+      items: []
+      positions:
+          - x: 16
+            y: 7
+    - id: 19
+      locations:
+          - route-10
+      name: route-10
+      items: []
+      positions:
+          - x: 11
+            y: 8
+            height: 4
+    - id: 20
+      locations:
+          - nyamate
+      name: nyamate
+      items: []
+      positions:
+          - x: 11
+            y: 12
+    - id: 21
+      locations:
+          - route-11
+      name: route-11
+      items: []
+      positions:
+          - x: 11
+            y: 4
+            height: 3
+    - id: 22
+      locations:
+          - colline-gatete
+      name: colline-gatete
+      items: []
+      positions:
+          - x: 11
+            y: 3
+    - id: 23
+      locations:
+          - route-11
+      name: route-11
+      items: []
+      positions:
+          - x: 6
+            y: 1
+            width: 4
+    - id: 24
+      locations:
+          - mugenze
+      name: mugenze
+      items: []
+      positions:
+          - x: 10
+            y: 1
+    - id: 25
+      locations:
+          - route-13
+      name: route-13
+      items: []
+      positions:
+          - x: 11
+            y: 1
+            height: 2
+    - id: 26
+      locations:
+          - route-14
+      name: route-14
+      items: []
+      positions:
+          - x: 12
+            y: 1
+            width: 2
+    - id: 27
+      locations:
+          - kidaho
+      name: kidaho
+      items: []
+      positions:
+          - x: 14
+            y: 1
+    - id: 28
+      locations:
+          - route-15
+      name: route-15
+      items: []
+      positions:
+          - x: 8
+            y: 8
+            height: 5
+    - id: 29
+      locations:
+          - butare
+      name: butare
+      items: []
+      positions:
+          - x: 8
+            y: 13
+    - id: 30
+      locations:
+          - route-16
+      name: route-16
+      items: []
+      positions:
+          - x: 6
+            y: 13
+            width: 2
+    - id: 31
+      locations:
+          - rainforest
+      name: rainforest
+      items: []
+      positions:
+          - x: 5
+            y: 13
+    - id: 32
+      locations:
+          - route-16
+      name: route-16
+      items: []
+      positions:
+          - x: 3
+            y: 13
+            width: 2
+    - id: 33
+      locations:
+          - volcano
+      name: volcano
+      items: []
+      positions:
+          - x: 10
+            y: 0
+    - id: 34
+      locations:
+          - route-18
+      name: route-18
+      items: []
+      positions:
+          - x: 1
+            y: 2
+            width: 2
+    - id: 35
+      locations:
+          - route-19
+      name: route-19
+      items: []
+      positions:
+          - x: 1
+            y: 3
+            height: 4
+    - id: 36
+      locations:
+          - route-20
+      name: route-20
+      items: []
+      positions:
+          - x: 1
+            y: 7
+            width: 2
+    - id: 37
+      locations:
+          - route-21
+      name: route-21
+      items: []
+      positions:
+          - x: 1
+            y: 8
+            height: 4
